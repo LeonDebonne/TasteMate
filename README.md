@@ -1,4 +1,4 @@
-# Projecttitel
+# TasteMate
 *Omschrijving van je concept in 1 zin, e.g. Zablurb, een slimme stofzuiger die eenzaamheid tegengaat bij alleenstaande senioren.* 
 
 🛠️ Built by ``Leon Debonne`` & ``Staf Logie``   
