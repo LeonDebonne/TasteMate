@@ -9,6 +9,7 @@ TasteMate, een slimme koelkastadd-on die het gebruiken van de koelkast vergemakk
 
 ## Samenvatting
 Het efficiënt gebruiken van de koelkast speelt een grote rol in de zelfstandigheid van blinden en slechtzienden. Op dit gebied zijn er ondanks moderne technologieën nog veel struikelblokken die voor verwarring en frustratie kunnen zorgen. Vooral de samenwerken met zorgkrachten en huisgenoten, loopt niet altijd even vlot. Ze weten niet altijd wat er uit de frigo gehaald is, of wat juist is aangevuld. Ook de ordening van bepaalde producten in de frigo wordt niet altijd gerespecteerd, waardoor vaak verwarring kan ontstaan. Ten slotte is het bepalen van de houdbaarheidsdata op producten vaak niet evident. Deze problemen werden meerdere malen aangehaald in een onlinebevraging die verstuurd werd in verschillende facebookgroepen voor blinden en slechtzienden.
+
 Deze problematiek wensen we aan te pakken met een slimme koelkast add-on. Deze dient om de samenwerking tussen de verschillende huisgenoten/zorgverleners te bevorderen. Zo kunnen producten in of uit het systeem gehaald worden en worden er vaste plaatsen toegewezen voor elk soort product. Ook worden de houdbaarheidsdata in het systeem bijgehouden. Zo kan vervolgens aan een spraakassistent vragen gesteld worden over de inhoud van de koelkast. 
 Bv. “Ik heb dorst, wat kan ik drinken?” en “Zijn er producten die bijna over datum gaan?” 
 
