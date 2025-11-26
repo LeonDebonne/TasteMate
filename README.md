@@ -1,11 +1,11 @@
 # TasteMate
-*Omschrijving van je concept in 1 zin, e.g. Zablurb, een slimme stofzuiger die eenzaamheid tegengaat bij alleenstaande senioren.* 
+TasteMate, een slimme koelkastadd-on die het gebruiken van de koelkast vergemakkelijkt voor blinden en slechtzienden. 
 
 🛠️ Built by ``Leon Debonne`` & ``Staf Logie``   
 🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
 🌱 Grown at ``Ghent University`` 🏛️ ``Industrial Design Engineering`` ([project overview](https://github.com/basbaccarne/human-centered-design))       
 
-*Dag/Maand/Jaar van de laatste update*   
+*20/11/2025 van de laatste update*   
 
 ## Samenvatting
 Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
