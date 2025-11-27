@@ -45,7 +45,7 @@ Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/catego
 Max. 500 woorden
 
 ## Noot inzake het gebruik van AI
-Licht toe op welke manier je AI gebruikte in dit project.
+AI werd gebruikt om onze tekststructuur te verbeteren en ons taalgebruik te finetunen.
 
 ## Bijlagen
 ### Discovery
