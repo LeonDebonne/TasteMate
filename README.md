@@ -27,7 +27,7 @@ Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker 
 ## Introductie
 Het efficiënt gebruiken van de koelkast is essentieel voor de zelfstandigheid van blinden en slechtzienden, maar blijft in de praktijk vaak problematisch. Onvoldoende communicatie met huisgenoten en zorgverleners, het niet respecteren van de ordening en het moeilijk kunnen controleren van houdbaarheidsdata zorgen geregeld voor verwarring en frustratie (Hersh & Johnson, 2019; World Health Organization, 2022). Deze knelpunten kwamen ook duidelijk naar voren in een onlinebevraging binnen verschillende Facebookgroepen voor blinden en slechtzienden.
 Dit project heeft als doel het ontwikkelen van een slimme koelkast add-on die deze problemen vermindert en de samenwerking binnen het huishouden ondersteunt. Producten kunnen in het systeem worden geregistreerd, vaste plaatsen worden toegewezen en houdbaarheidsdata worden bijgehouden. Via een spraakassistent kan de gebruiker eenvoudig informatie opvragen over de inhoud van de koelkast, zoals beschikbare dranken of producten die bijna vervallen.
-De oplossing richt zich op zelfstandig wonende blinden en slechtzienden met toegang tot een standaard koelkast en een smartphone. De add-on moet gebruiksvriendelijk, betaalbaar en privacyvriendelijk zijn en fungeert als ondersteuning, niet als vervanging van zorg.
+De oplossing richt zich op zelfstandig wonende blinden en slechtzienden die begeleid worden door een familielid of een professional. De add-on moet gebruiksvriendelijk, betaalbaar en privacyvriendelijk zijn en fungeert als ondersteuning, niet als vervanging van zorg.
 
 Max 300 woorden.
 Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
