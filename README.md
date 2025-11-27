@@ -53,6 +53,10 @@ AI werd gebruikt om onze tekststructuur te verbeteren en ons taalgebruik te fine
   * [Protocol](https://docs.google.com/document/d/1o7BqGVpPXtm0b7tqXvRCuAdfVG6ncJB_/edit?usp=sharing&ouid=105887032845140708154&rtpof=true&sd=true)
   * [Rapport](https://docs.google.com/document/d/1O7acjI5cb6R5L7ywIF9YDT1ZCcgL2F2K/edit?usp=sharing&ouid=105887032845140708154&rtpof=true&sd=true)
 * Interviews (N=3)
+* Benchmarking (N=10)
+  * [Protocol](https://docs.google.com/document/d/1vpAEKPRMlF7svy2KSTlp5V-UzUufb8lO/edit?usp=sharing&ouid=105887032845140708154&rtpof=true&sd=true)
+  * [Rapport](https://docs.google.com/document/d/19CgoGhrFplItanu5dZs29OpG1R62N-Oo/edit?usp=sharing&ouid=105887032845140708154&rtpof=true&sd=true)
+* Interviews (N=3)
   * [Protocol](https://docs.google.com/document/d/1DkY7SQlU1YFRJ9Iaqg9hwLcdLrmlHHz3/edit?usp=sharing&ouid=105887032845140708154&rtpof=true&sd=true)
   * [Rapport](https://docs.google.com/document/d/1aK8kBRMgLxHuCd8vMiPDScQNG72IshPE/edit?usp=sharing&ouid=105887032845140708154&rtpof=true&sd=true)
     
