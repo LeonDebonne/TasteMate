@@ -53,8 +53,8 @@ AI werd gebruikt om onze tekststructuur te verbeteren en ons taalgebruik te fine
   * [Protocol](url)
   * [Rapport](url)
 * Interviews (N=x)
-  * [Protocol](url)
-  * [Rapport](url)
+  * [Protocol](https://docs.google.com/document/d/1DkY7SQlU1YFRJ9Iaqg9hwLcdLrmlHHz3/edit?usp=sharing&ouid=105887032845140708154&rtpof=true&sd=true)
+  * [Rapport](https://docs.google.com/document/d/1aK8kBRMgLxHuCd8vMiPDScQNG72IshPE/edit?usp=sharing&ouid=105887032845140708154&rtpof=true&sd=true)
     
 ### Definition
 * User testing wave 1 (N=x)
