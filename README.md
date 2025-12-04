@@ -60,9 +60,9 @@ AI werd gebruikt om onze tekststructuur te verbeteren en ons taalgebruik te fine
   * [Rapport](https://docs.google.com/document/d/1aK8kBRMgLxHuCd8vMiPDScQNG72IshPE/edit?usp=sharing&ouid=105887032845140708154&rtpof=true&sd=true)
     
 ### Definition
-* User testing wave 1 (N=x)
-  * [Protocol](url)
-  * [Rapport](url)
+* User testing wave 1 (N=2)
+  * [Protocol](https://docs.google.com/document/d/1-PHzUcBv7Keu0WEDgn61cHN6px-Jv7AH/edit?usp=sharing&ouid=105887032845140708154&rtpof=true&sd=true)
+  * [Rapport](https://docs.google.com/document/d/1uVGif4huSNOTb77L3XkXnCsxwViHGHP_/edit?usp=sharing&ouid=105887032845140708154&rtpof=true&sd=true)
 * User testing wave 2 (N=x)
   * [Protocol](url)
   * [Rapport](url)
