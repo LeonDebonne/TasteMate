@@ -30,9 +30,10 @@ Op basis van de interviews, enquête en de benchmarking blijkt dat het grootste 
 ### Doestellingen fase 2
 In de tweede fase vertrokken we uit de onderzoeksvraag: Hoe kunnen we de organisatie van een koelkast toegankelijk maken voor blinden en slechtzienden? Om deze vraag te beantwoorden zullen verschillende deelvragen beantwoord moeten worden.
 ### Materiaal & methoden fase 2
-
-Hoe onderzocht je dit? Wees volledig.    
-Leg uit welke onderzoeksmethoden werden uitgevoerd en hoe dit werd aangepakt (link door naar het protocol).
+Voor fase 1 en fase 2 werd hetzelfde onderzoeksmateriaal gebruikt. Om de onderzoeksvragen te beantwoorden werd opnieuw gebruik gemaakt van:
+1. interviews (N=3)
+2. Enquête (N=22)
+Uit de benchmarking kon niet veel nuttigs gehaald worden. Wel keken we naar de functies van de samsung AI-fridge.
 ### Resultaten fase 2
 Gebruikers & behoeften
 
@@ -48,8 +49,16 @@ Welke bestaande technologische hulpmiddelen kunnen bijdragen aan het toegankelij
 Herkenning van producten kan worden gedaan met AI herkenningsystemen zoals Be My Eyes, Seeing AI en nog veel meer. Producten kunnen ook worden geidentificeerd door het gebruik van NFC-tags, QR-codes of elektronische labels zoals PenFriend (audio-labelsystemen). Dit zijn handige manieren om snel belangrijke info te krijgen over het product dat je in je handen hebt. Er zijn dus al verschillende hulpmiddelen op de markt om deze interactie te bevorderen.
 
 Welke niet-technologische oplossingen bestaan er reeds?
-Vaste indelingsstructuren kunnen ervoor zorgen dat elk product altijd op dezelfde plaats terug te vinden is. Daarnaast worden tactile markers zoals rubberen noppen, elastiekjes of voelbare stickers vaak gebruikt om schappen of verpakkingen beter herkenbaar te maken op de tast. Voor mensen met restvisus kunnen kleurcontrasten of opvallende bakken helpen om categorieën visueel te onderscheiden. Ook eenvoudige hulpmiddelen zoals doorzichtige opbergmandjes, voelbare scheidingsstroken of afspraken met huisgenoten dragen bij aan een overzichtelijke en voorspelbare koelkast. Hierdoor ontstaat een duidelijk systeem zonder dat er technologie aan te pas komt.
+Vaste indelingsstructuren kunnen ervoor zorgen dat elk product altijd op dezelfde plaats terug te vinden is. Daarnaast worden tactile markers zoals rubberen noppen, elastiekjes of voelbare stickers vaak gebruikt om schappen of verpakkingen beter herkenbaar te maken op de tast. Ook eenvoudige hulpmiddelen zoals afspraken met huisgenoten dragen bij aan een overzichtelijke en voorspelbare koelkast. Hierdoor is er voor de blinde een duidelijk systeem waar ze op kunnen terugvallen om voorwerpen te vinden.
 
 Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 ### Conclusies & implicaties fase 2
-Definieer de belangrijkste designbeslissingen
+Belangrijke designbeslissingen voor een toekomstige oplossing richten zich dus op:
+
+- Het combineren van technologie en tastbare hulpmiddelen voor snelle herkenning van producten en houdbaarheidsdata.
+
+- Het behouden van vaste indelingsstructuren om voorspelbaarheid en zelfstandigheid te waarborgen.
+
+- Het minimaliseren van afhankelijkheid van anderen door duidelijke, toegankelijke feedback te bieden via audio, tast of vibratie.
+
+- Het creëren van een oplossing die eenvoudig, intuïtief en niet-stigmatiserend is, zodat gebruikers deze naadloos kunnen integreren in hun dagelijkse routine.
