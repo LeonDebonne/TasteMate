@@ -45,7 +45,9 @@ Mobiele apps zoals EMVI en Aisee helpen vooral bij het herkennen van voorwerpen,
 Uit de analyse blijkt dat er een divers spectrum aan hulpmiddelen bestaat, variërend van eenvoudige en betaalbare tactiele oplossingen tot complexe, hightech systemen. De keuze hangt vaak af van de balans tussen prijs, gebruiksgemak, precisie en mate van zelfstandigheid die het hulpmiddel biedt.
 
 Voor een volledig overzicht van de tools en hun kenmerken kan verwezen worden naar de volledige rapportering van de benchmark.
+
 ### Conclusies & implicaties fase 1
+Op basis van de interviews, enquête en de benchmarking blijkt dat het grootste struikelblok voor blinde en slechtziende personen vaak niet het herkennen van producten zelf is, maar het vinden en organiseren van voorwerpen in een omgeving zoals de koelkast. Verplaatste items, gebrek aan duidelijke labeling en inconsistentie veroorzaken frustratie, stress en verlies van zelfstandigheid. Daarom richt de gekozen “How Might We” zich specifiek op het verbeteren van de organisatie en toegankelijkheid van de koelkast. Door te focussen op structuur, overzicht en toegankelijke informatie kunnen we een oplossing ontwikkelen die de zelfstandigheid van gebruikers versterkt en praktische problemen in het dagelijks leven effectief wegneemt.
 
 ### Doestellingen fase 2
 In de discovery vertrokken we uit de onderzoeksvraag: Hoe kunnen we de organisatie van een koelkast toegankelijk maken voor blinden en slechtzienden? Om deze vraag te beantwoorden zullen verschillende deelvragen beantwoord moeten worden.
