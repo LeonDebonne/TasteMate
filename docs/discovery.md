@@ -35,6 +35,7 @@ Thuis ervaren veel respondenten problemen bij het terugvinden van voorwerpen, vo
 Wat betreft begeleiding geeft ongeveer de helft aan zelfstandig te functioneren, terwijl de andere helft regelmatig hulp krijgt bij oriënteren, huishoudelijke taken of visuele ondersteuning. De sociale beleving speelt mee: sommige respondenten vinden zichtbare hulpmiddelen vervelend, maar velen wennen eraan en waarderen het vertrouwen dat hulpmiddelen bieden.
 
 Voor het volledige verslag verwijs ik naar de rapportering van de enquête.
+
 3. Benchmarking (N=10)
 
 De benchmark onderzocht verschillende technologische hulpmiddelen voor blinde en slechtziende personen, met een focus op mobiliteit, navigatie en zelfstandigheid. Opvallend is dat veel producten sensoren, spraak, trillingen en computer vision gebruiken om obstakels te detecteren, richting aan te geven of informatie over de omgeving te geven.
