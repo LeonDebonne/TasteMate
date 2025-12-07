@@ -23,18 +23,17 @@ Blinde en slechtziende personen vertrouwen vooral op de taststok, smartphones me
 
 3. Benchmarking (N=10)
 
-De benchmark onderzocht technologische hulpmiddelen voor blinde en slechtziende personen. Veel producten gebruiken sensoren, spraak, trillingen en AI om obstakels te detecteren. Apps zoals EMVI en Aisee ondersteunen bij herkenning van voorwerpen en lezen van teksten, terwijl apparaten zoals Wewalk, The Vector, Navibelt, Glidance en NOA navigatie en oriëntatie verbeteren. Sommige, zoals Lumen Glasses, zijn zeer prijzig anderen, zoals Hoople zijn betaalbaar en robuust. Het aanbod varieert van eenvoudige tactiele oplossingen tot complexe hightech systemen.
+De benchmark onderzocht technologische hulpmiddelen voor blinde en slechtziende personen. Veel producten gebruiken sensoren, spraak, trillingen en AI om obstakels te detecteren. Apps zoals EMVI ondersteunen bij herkenning van voorwerpen en lezen van teksten, terwijl apparaten zoals Wewalk navigatie en oriëntatie verbeteren. Sommige, zoals Lumen Glasses, zijn zeer prijzig anderen, zoals Hoople zijn betaalbaar en robuust. Het aanbod varieert van eenvoudige tactiele oplossingen tot complexe hightech systemen.
 ### Conclusies & implicaties fase 1
-Op basis van de interviews, enquête en de benchmarking blijkt dat het grootste struikelblok voor blinde en slechtziende personen vaak niet het herkennen van producten zelf is, maar het vinden en organiseren van voorwerpen in een omgeving zoals de koelkast. Verplaatste items, gebrek aan duidelijke labeling en inconsistentie veroorzaken frustratie, stress en verlies van zelfstandigheid. Daarom richten we ons op de how might we: "Hoe kunnen we de organisatie van een koelkast toegankelijk maken voor blinden en slechtzienden?".
+Op basis van interviews, enquête en benchmarking blijkt dat het grootste struikelblok voor blinden en slechtzienden het vinden en organiseren van producten is. Verplaatste items, onduidelijke labeling en inconsistentie zorgen voor frustratie en verlies van zelfstandigheid. Daarom richten we ons op de how might we: "Hoe maken we de koelkast toegankelijk voor blinden en slechtzienden?"
 
 ### Doestellingen fase 2
 In de tweede fase vertrokken we uit de onderzoeksvraag: Hoe kunnen we de organisatie van een koelkast toegankelijk maken voor blinden en slechtzienden? Om deze vraag te beantwoorden zullen verschillende deelvragen beantwoord moeten worden.
 ### Materiaal & methoden fase 2
-Voor fase 1 en fase 2 werd hetzelfde onderzoeksmateriaal gebruikt. Om de onderzoeksvragen te beantwoorden werd opnieuw gebruik gemaakt van:
-1. interviews (N=3)
+Om de onderzoeksvragen te beantwoorden werd opnieuw gebruik gemaakt van de methoden in fase 1:
+1. Interviews (N=3)
 2. Enquête (N=22)
 
-Uit de benchmarking kon niet veel nuttigs gehaald worden. Wel keken we naar de functies van de samsung AI-fridge.
 ### Resultaten fase 2
 Welke hulpmiddelen en strategieën gebruiken zij vandaag al om hun koelkast georganiseerd te houden?
 
@@ -44,16 +43,16 @@ Welke specifieke problemen of frustraties komen zij tegen bij het zoeken, herken
 
 Vaak treden er problemen omtrent communicatie op. Familieleden of begeleiders zetten niet altijd alles op de correcte plaats of ze zeggen niet was is aangevuld of wat juist op is. Producten die bijna vervallen worden ook niet altijd opgemerkt, waardoor dingen vaak overdatum gaan of er schimmel kan ontstaan. Omdat er geen visuele cues zijn, moet de gebruiker elk product aftasten, wat tijdrovend en vermoeiend is.
 
-Welke bestaande technologische hulpmiddelen kunnen bijdragen aan het toegankelijker maken van een koelkast? 
+Welke bestaande technologische hulpmiddelen kunnen helpen bij een toegankelijkere koelkast?
 
-Herkenning van producten kan worden gedaan met AI herkenningsystemen zoals Be My Eyes, Seeing AI en nog veel meer. Producten kunnen ook worden geidentificeerd door het gebruik van NFC-tags, QR-codes of elektronische labels zoals PenFriend (audio-labelsystemen). Dit zijn handige manieren om snel belangrijke info te krijgen over het product dat je in je handen hebt.
+Herkenning van producten kan worden gedaan met AI herkenningsystemen zoals Be My Eyes. Producten kunnen ook worden geidentificeerd door het gebruik van NFC-tags, QR-codes of elektronische labels zoals PenFriend (audio-labelsystemen). Dit zijn handige manieren om snel belangrijke info te krijgen over het product dat je in je handen hebt.
 
-Welke niet-technologische oplossingen bestaan er reeds?
+Welke niet-technologische hulpmiddelen?
 
-Vaste indelingsstructuren zoals eerder vermeld. Daarnaast worden tactile markers zoals rubberen noppen, elastiekjes of voelbare stickers vaak gebruikt om schappen of verpakkingen beter herkenbaar te maken op de tast. Ook eenvoudige hulpmiddelen zoals afspraken met huisgenoten dragen bij aan een overzichtelijke en voorspelbare koelkast. Hierdoor is er voor de blinde een duidelijk systeem waar ze op kunnen terugvallen om voorwerpen te vinden.
+Vaste indelingsstructuren zoals eerder vermeld. Daarnaast worden tactile markers zoals rubberen noppen, elastiekjes of voelbare stickers vaak gebruikt. Ook eenvoudige hulpmiddelen zoals afspraken met huisgenoten dragen bij aan vlotter gebruik van de koelkast.
 
 ### Conclusies & implicaties fase 2
-Belangrijke designbeslissingen voor een toekomstige oplossing richten zich dus op:
+Belangrijke designbeslissingen voor een toekomstige oplossing:
 
 - Het combineren van technologie en tastbare hulpmiddelen voor snelle herkenning van producten en houdbaarheidsdata.
 
