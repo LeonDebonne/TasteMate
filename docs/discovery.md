@@ -1,7 +1,6 @@
 ## Discovery
-De discovery werd opgesplitst in 2 verschillende fases. De eerste fasen was het scopen van onze challenge en een gepast how might we gaan opstellen. Vervolgens gaan we verder met die how might we en gaan we daar verder mee tewerk.
-Max. 1000 woorden.   
-[!] Algmeen: Maak voldoende gebruik van schematische/grafische weergaves en tabellen.
+De discovery werd opgesplitst in 2 verschillende fases. De eerste fasen was het scopen van onze challenge en een gepast how might we gaan opstellen. Vervolgens gaan we verder met die how might we en gaan we daar verder mee tewerk.   
+
 ### Doestellingen fase 1
 De doelstelling in de eerste fase is het opstellen van een relevante how might we die binnen onze challenge valt. Hier zoeken we vooral naar een how might we die niet voor de hand ligt, maar die wel een grote impact heeft op de levens van de blinden en slechtzienden.
 ### Materiaal & methoden fase 1
