@@ -57,8 +57,8 @@ Belangrijke designbeslissingen voor een toekomstige oplossing richten zich dus o
 
 - Het combineren van technologie en tastbare hulpmiddelen voor snelle herkenning van producten en houdbaarheidsdata.
 
-- Het behouden van vaste indelingsstructuren om voorspelbaarheid en zelfstandigheid te waarborgen.
+- Het behouden van vaste indelingsstructuren om voorspelbaarheid en zelfstandigheid te bevorderen
 
-- Het minimaliseren van afhankelijkheid van anderen door duidelijke, toegankelijke feedback te bieden via audio, tast of vibratie.
+- Het bevorderen van zelfstandigheid door duidelijke, toegankelijke feedback te bieden via audio, tast of vibratie.
 
-- Het creëren van een oplossing die eenvoudig, intuïtief en niet-stigmatiserend is, zodat gebruikers deze naadloos kunnen integreren in hun dagelijkse routine.
+- Het creëren van een oplossing die eenvoudig en intuïtief zijn zodat gebruikers deze perfect kunnen integreren in hun dagelijksleven.
