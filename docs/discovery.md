@@ -33,6 +33,7 @@ In de tweede fase vertrokken we uit de onderzoeksvraag: Hoe kunnen we de organis
 Voor fase 1 en fase 2 werd hetzelfde onderzoeksmateriaal gebruikt. Om de onderzoeksvragen te beantwoorden werd opnieuw gebruik gemaakt van:
 1. interviews (N=3)
 2. Enquête (N=22)
+
 Uit de benchmarking kon niet veel nuttigs gehaald worden. Wel keken we naar de functies van de samsung AI-fridge.
 ### Resultaten fase 2
 Welke hulpmiddelen en strategieën gebruiken zij vandaag al om hun koelkast georganiseerd te houden?
