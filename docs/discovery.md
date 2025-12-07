@@ -15,46 +15,20 @@ In deze benchmark werd onderzocht welke bestaande hulpmiddelen er zijn voor blin
 ### Resultaten fase 1
 1. Interviews (N=3)
 
-Uit de gesprekken bleek dat blinden en slechtzienden sterk steunen op structuur en voorspelbaarheid. Zolang spullen een vaste plek hebben, functioneren ze zelfstandig, maar onverwachte veranderingen zorgen snel voor verwarring en frustratie.
-
-Oriëntatie in openbare ruimtes en het vinden van producten in winkels werd als moeilijk ervaren. Bestaande hulpmiddelen helpen, maar maken de omgeving nog niet volledig betrouwbaar “leesbaar”.
-
-Thuis leiden verplaatste spullen en gebrekkige communicatie tot praktische problemen en stress. Deelnemers organiseren hun omgeving daarom liefst zelf. Spraak, braille en tastbare knoppen blijken essentieel voor toegankelijke informatie, net als auditieve en haptische signalen.
-
-Daarnaast speelt ook de sociale kant mee: ze verkiezen discrete, geïntegreerde oplossingen boven opvallende hulpmiddelen. Veel dagelijkse taken vragen extra mentale inspanning en draaien rond duidelijkheid, veiligheid en het behouden van zelfstandigheid.
-Voor een volledig verslag verwijs ik graag door naar de rapportering rond het interview.
+Blinde en slechtziende personen vertrouwen sterk op structuur en voorspelbaarheid; vaste plekken maken zelfstandigheid mogelijk, terwijl onverwachte veranderingen verwarring veroorzaken. Oriëntatie in openbare ruimtes en winkels blijft moeilijk, en bestaande hulpmiddelen bieden niet altijd volledige betrouwbaarheid. Thuis veroorzaken verplaatste spullen en gebrekkige communicatie praktische problemen en stress, waardoor gebruikers hun omgeving liefst zelf organiseren. Toegankelijke informatie via spraak, braille en tastbare signalen is essentieel, en discrete, geïntegreerde oplossingen worden geprefereerd boven opvallende hulpmiddelen. Veel dagelijkse taken vragen extra mentale inspanning.
 
 2. Enquête (N = 22)
 
-Uit de enquête bleek dat blinde en slechtziende personen vooral vertrouwen op de taststok en smartphones met gespecialiseerde apps, aangevuld met hulpmiddelen zoals loepen, braille-apparaten of spraaklabels. Deze hulpmiddelen ondersteunen zowel navigatie als het herkennen van voorwerpen en informatie.
-
-Oriëntatie in nieuwe buiten- en binnenomgevingen wordt als uitdagend ervaren. Obstakels, verkeerslawaai, veranderende lichtinval en onlogische bewegwijzering bemoeilijken het zelfstandig bewegen. Ook digitale hulpmiddelen en apps schieten soms tekort door onnauwkeurigheid, technische beperkingen of veroudering.
-
-Thuis ervaren veel respondenten problemen bij het terugvinden van voorwerpen, vooral voedingswaren in de koelkast en kleding. Systemen zoals vaste indeling, tast- of braillelabels en kleurdetectoren worden gebruikt om zelfstandigheid te behouden.
-
-Wat betreft begeleiding geeft ongeveer de helft aan zelfstandig te functioneren, terwijl de andere helft regelmatig hulp krijgt bij oriënteren, huishoudelijke taken of visuele ondersteuning. De sociale beleving speelt mee: sommige respondenten vinden zichtbare hulpmiddelen vervelend, maar velen wennen eraan en waarderen het vertrouwen dat hulpmiddelen bieden.
-
-Voor het volledige verslag verwijs ik naar de rapportering van de enquête.
+Blinde en slechtziende personen vertrouwen vooral op de taststok, smartphones met gespecialiseerde apps en hulpmiddelen zoals loepen, braille-apparaten of spraaklabels voor navigatie en herkenning van voorwerpen. Oriëntatie in nieuwe binnen- en buitenomgevingen blijft uitdagend door obstakels, verkeerslawaai, lichtverschillen en onlogische bewegwijzering, en digitale hulpmiddelen zijn soms onnauwkeurig of verouderd. Thuis ontstaan vaak problemen bij het terugvinden van voorwerpen, vooral in de koelkast en bij kleding, waarvoor vaste indeling, labels en kleurdetectoren helpen. Ongeveer de helft functioneert zelfstandig, de andere helft krijgt regelmatig hulp, en zichtbare hulpmiddelen worden door sommigen als vervelend ervaren, maar bieden meestal vertrouwen.
 
 3. Benchmarking (N=10)
 
-De benchmark onderzocht verschillende technologische hulpmiddelen voor blinde en slechtziende personen, met een focus op mobiliteit, navigatie en zelfstandigheid. Opvallend is dat veel producten sensoren, spraak, trillingen en computer vision gebruiken om obstakels te detecteren, richting aan te geven of informatie over de omgeving te geven.
-
-Mobiele apps zoals EMVI en Aisee helpen vooral bij het herkennen van voorwerpen, lezen van teksten en het toegankelijk maken van informatie, terwijl apparaten zoals Wewalk, The Vector, Navibelt, Glidance en NOA zich richten op navigatie en oriëntatie in complexe omgevingen. Sommige oplossingen, zoals Lumen Glasses, bieden geavanceerde real-time objectherkenning, maar zijn prijzig. Andere producten, zoals Hoople, zijn betaalbaar en robuust, maar minder hightech.
-
-Uit de analyse blijkt dat er een divers spectrum aan hulpmiddelen bestaat, variërend van eenvoudige en betaalbare tactiele oplossingen tot complexe, hightech systemen. De keuze hangt vaak af van de balans tussen prijs, gebruiksgemak, precisie en mate van zelfstandigheid die het hulpmiddel biedt.
-
-Voor een volledig overzicht van de tools en hun kenmerken kan verwezen worden naar de volledige rapportering van de benchmark.
-
+De benchmark onderzocht technologische hulpmiddelen voor blinde en slechtziende personen, gericht op mobiliteit, navigatie en zelfstandigheid. Veel producten gebruiken sensoren, spraak, trillingen en computer vision om obstakels te detecteren en informatie te geven. Apps zoals EMVI en Aisee ondersteunen bij herkenning van voorwerpen en lezen van teksten, terwijl apparaten zoals Wewalk, The Vector, Navibelt, Glidance en NOA navigatie en oriëntatie verbeteren. Sommige, zoals Lumen Glasses, zijn geavanceerd maar prijzig; anderen, zoals Hoople, zijn betaalbaar en robuust. Het aanbod varieert van eenvoudige tactiele oplossingen tot complexe hightech systemen, afhankelijk van prijs, gebruiksgemak, precisie en mate van zelfstandigheid.
 ### Conclusies & implicaties fase 1
-Op basis van de interviews, enquête en de benchmarking blijkt dat het grootste struikelblok voor blinde en slechtziende personen vaak niet het herkennen van producten zelf is, maar het vinden en organiseren van voorwerpen in een omgeving zoals de koelkast. Verplaatste items, gebrek aan duidelijke labeling en inconsistentie veroorzaken frustratie, stress en verlies van zelfstandigheid. Daarom richt de gekozen “How Might We” zich specifiek op het verbeteren van de organisatie en toegankelijkheid van de koelkast. Door te focussen op structuur, overzicht en toegankelijke informatie kunnen we een oplossing ontwikkelen die de zelfstandigheid van gebruikers versterkt en praktische problemen in het dagelijks leven effectief wegneemt.
+Op basis van de interviews, enquête en de benchmarking blijkt dat het grootste struikelblok voor blinde en slechtziende personen vaak niet het herkennen van producten zelf is, maar het vinden en organiseren van voorwerpen in een omgeving zoals de koelkast. Verplaatste items, gebrek aan duidelijke labeling en inconsistentie veroorzaken frustratie, stress en verlies van zelfstandigheid. Daarom richt de gekozen “How Might We” zich specifiek op het verbeteren van de organisatie en toegankelijkheid van de koelkast. Hoe kunnen we de organisatie van een koelkast toegankelijk maken voor blinden en slechtzienden?
 
 ### Doestellingen fase 2
-In de discovery vertrokken we uit de onderzoeksvraag: Hoe kunnen we de organisatie van een koelkast toegankelijk maken voor blinden en slechtzienden? Om deze vraag te beantwoorden zullen verschillende deelvragen beantwoord moeten worden.
-
-
-Wat wilde je bereiken?   
-Welke deelvragen moesten hiervoor beantwoord worden?
+In de tweede fase vertrokken we uit de onderzoeksvraag: Hoe kunnen we de organisatie van een koelkast toegankelijk maken voor blinden en slechtzienden? Om deze vraag te beantwoorden zullen verschillende deelvragen beantwoord moeten worden.
 ### Materiaal & methoden fase 2
 
 Hoe onderzocht je dit? Wees volledig.    
