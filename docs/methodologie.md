@@ -4,4 +4,4 @@ Max 400 woorden. Beschrijf je methodologie (enkel SEM1, zie les methodologie). M
 Neem hier ook een tijdlijn in op waarin we de evoluties van de prototypes kunnen zien.
 
 In dit project is er gewerkt met het "triple diamond" ontwerpproces. Dit model heeft 3 grote fases: discover, define, develop. Ze dienen als houvast doorheen het project. In het eerste semester worden de eerste twee fases doorlopen.
-![TripleDiamondSem1](img/Frame 1.png)
+![TripleDiamondSem1](img/Frame1.png)
