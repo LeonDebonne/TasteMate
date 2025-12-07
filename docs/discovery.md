@@ -14,6 +14,7 @@ In deze benchmark werd onderzocht welke bestaande hulpmiddelen er zijn voor blin
 
 ### Resultaten fase 1
 1. Interviews (N=3)
+
 Uit de gesprekken bleek dat blinden en slechtzienden sterk steunen op structuur en voorspelbaarheid. Zolang spullen een vaste plek hebben, functioneren ze zelfstandig, maar onverwachte veranderingen zorgen snel voor verwarring en frustratie.
 
 Oriëntatie in openbare ruimtes en het vinden van producten in winkels werd als moeilijk ervaren. Bestaande hulpmiddelen helpen, maar maken de omgeving nog niet volledig betrouwbaar “leesbaar”.
@@ -24,6 +25,7 @@ Daarnaast speelt ook de sociale kant mee: ze verkiezen discrete, geïntegreerde 
 Voor een volledig verslag verwijs ik graag door naar de rapportering rond het interview.
 
 2. Enquête (N = 22)
+
 Uit de enquête bleek dat blinde en slechtziende personen vooral vertrouwen op de taststok en smartphones met gespecialiseerde apps, aangevuld met hulpmiddelen zoals loepen, braille-apparaten of spraaklabels. Deze hulpmiddelen ondersteunen zowel navigatie als het herkennen van voorwerpen en informatie.
 
 Oriëntatie in nieuwe buiten- en binnenomgevingen wordt als uitdagend ervaren. Obstakels, verkeerslawaai, veranderende lichtinval en onlogische bewegwijzering bemoeilijken het zelfstandig bewegen. Ook digitale hulpmiddelen en apps schieten soms tekort door onnauwkeurigheid, technische beperkingen of veroudering.
@@ -34,6 +36,7 @@ Wat betreft begeleiding geeft ongeveer de helft aan zelfstandig te functioneren,
 
 Voor het volledige verslag verwijs ik naar de rapportering van de enquête.
 3. Benchmarking (N=10)
+
 De benchmark onderzocht verschillende technologische hulpmiddelen voor blinde en slechtziende personen, met een focus op mobiliteit, navigatie en zelfstandigheid. Opvallend is dat veel producten sensoren, spraak, trillingen en computer vision gebruiken om obstakels te detecteren, richting aan te geven of informatie over de omgeving te geven.
 
 Mobiele apps zoals EMVI en Aisee helpen vooral bij het herkennen van voorwerpen, lezen van teksten en het toegankelijk maken van informatie, terwijl apparaten zoals Wewalk, The Vector, Navibelt, Glidance en NOA zich richten op navigatie en oriëntatie in complexe omgevingen. Sommige oplossingen, zoals Lumen Glasses, bieden geavanceerde real-time objectherkenning, maar zijn prijzig. Andere producten, zoals Hoople, zijn betaalbaar en robuust, maar minder hightech.
