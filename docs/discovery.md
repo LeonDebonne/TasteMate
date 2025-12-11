@@ -8,7 +8,9 @@ De doelstelling in de eerste fase is het opstellen van een relevante how might w
 De interviews werden afgenomen bij blinde en slechtziende personen van verschillende leeftijden en met uiteenlopende niveaus van visuele beperking. De gesprekken waren semigestructureerd, zodat er ruimte was voor zowel gerichte vragen als persoonlijke verhalen en ervaringen. Hier verwijzen we graag naar ons interviewprotocol die ook in het verslag staat.
 2. Enquête (N=22)
 De Enquête werd verstuurd in verschillende Facebook groepen: “Blinden en slechtzienden”, “Hulpmiddelen en tips voor blinden en slechtzienden” en “Blinde en slechtziende lotgenoten”. Zowel mannen als vrouwen namen deel van allerlei verschillende leeftijden. Er hebben 22 mensen de enquête ingevuld.
+
 ![Grafiek1](/img/Grafiek_Enquête.jpg)
+
 3. Benchmarking
 In deze benchmark werd onderzocht welke bestaande hulpmiddelen er zijn voor blinden en slechtzienden en hoe deze gebruikmaken van technologie zoals sensoren, spraak, trillingen en navigatie. De focus lag op gebruiksgemak, mate van zelfstandigheid die ze bieden, en de toegankelijkheid in prijs en doelgroep. Het doel was inzicht krijgen in bestaande oplossingen en mogelijke kansen voor nieuwe, toegankelijkere systemen.
 
