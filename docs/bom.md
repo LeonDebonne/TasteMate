@@ -3,7 +3,7 @@
 - Maak voor componenten een overzicht met links naar aankooppagina en pricing
 - Wat hebben anderen nodig om dit te maken (zie vb. instructables)?
 
-# Defenition:
+### Defenition:
 
 - Karton
 - Plakband
