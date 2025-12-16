@@ -44,7 +44,7 @@ Rapporteer over de resultaten (incl. foto's, quotes, analyseframeworks, ...)
 
 De drie prototypes werden voorgelegd en besproken door onze respondenten.  Ook werd er al eens een preview getoond van het interface om ook hierrond snelle feedback te verwerven. 
 
-*Prototype 1* : Het eerste prototype viel vooral in de smaak door de grote hiervan. Voor visueel beperkte personen is het veel gemakkelijker om met grotere objecten te werken. De functie die het mogelijk maakt om te kiezen welke interface gebruikt wordt bleek overbodig. Beginnen spreken tegen het product of het scherm aanraken zouden eenvoudiger zijn om de interactie met het product te beginnen.
+**Prototype 1** : Het eerste prototype viel vooral in de smaak door de grote hiervan. Voor visueel beperkte personen is het veel gemakkelijker om met grotere objecten te werken. De functie die het mogelijk maakt om te kiezen welke interface gebruikt wordt bleek overbodig. Beginnen spreken tegen het product of het scherm aanraken zouden eenvoudiger zijn om de interactie met het product te beginnen.
 
 Prototype 2 : De vorm van het prototype werd positief ontvangen. Ook vonden ze het goed dat er meerder knoppen zijn die verschillende functies hebben. Het feit dat het scherm kan uitklappen naast de koelkast zodat het concept kan gebruikt worden met een open en een dichte koelkast was ook een belangrijk pluspunt. Het product mocht echter wel groter. De slechtziende testpersoon vond dat het te uitdagend om vlot met het prototype te werken. Er werd wel opgemerkt dat de grootte voor blinden minder een barrière vormt. 
 
