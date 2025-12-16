@@ -23,16 +23,11 @@ Om het concept concreter te maken werd er gewerkt aan de hand van 2 prototyping 
 #### WAVE 1 
 In wave 1 werd er verder onderzoek gedaan naar de vormgeving van het concept. Dit werd gedaan via 3 verschillende quick-and-dirty prototypes uit karton. Door deze prototypes voor te leggen zonder randinformatie aan blinden en slechtziende personen en mensen in hun omgeving werden er verschillende inzichten verworven rond de vormgeving. De prototypes werden besproken door de testpersonen via “Thinking Aloud“. Via deze manier ontstond er spontante feedback zonder filter.
 
-<p align="left">
-  <img src="/img/Prototype1.JPG" width="32%">
-  <img src="/img/Prototype2.JPG" width="32%">
-  <img src="/img/Prototype3.JPG" width="32%">
+<p align="center">
+<img src="/img/Prototype1.JPG" width="32%">
+<img src="/img/Prototype2.JPG" width="32%">
+<img src="/img/Prototype3.JPG" width="32%">
 </p>
-![Prototype1](/img/Prototype1.JPG)
-
-![Prototype2](/img/Prototype2.JPG)
-
-![Prototype3](/img/Prototype3.JPG)
 
 De kennis en inzichten uit deze wave werden dan meegenomen om het fysiek prototype te maken voor de testen in wave 2.
 
