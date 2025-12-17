@@ -44,7 +44,7 @@ Na de testen in iedere wave werd er rapportering opgesteld om op terug te vallen
 
 ### Resultaten
 
-#### WAVE 1(N = 2) 
+#### WAVE 1 (N = 2) 
 
 De drie prototypes werden voorgelegd en besproken door onze respondenten.  Ook werd er al eens een preview getoond van het interface om ook hierrond snelle feedback te verwerven. 
 
@@ -65,7 +65,7 @@ De FigmaMake interfaces werden na een korte voorstelling van het project getest 
 
 **Interface 1 :** De lay-out van het interface bleek efficiënt en eenvoudig voor doorsnee gebruikers. De grootte van de tekst en functieknoppen op het scherm was te klein als slechtziende personen dit ook zouden willen gebruiken. Een functie die overbodig bleek te zijn voor visueel beperkte personen was de locatie van de voeding die werd voorgelezen door de AI -assistent doordat dit op vast locaties ligt. Bij het toevoegen van een kassabon werd er gevraagd om een pop-up toe te voegen die samenvat welke producten er gescand zijn. Zo kunnen foutieve producten gefilterd worden op voorhand.
 
-**Interface 2 :** De interacties tussen de gebruikspersonen en de AI-assistent verliepen zeer vlot. Het kleurrijke design van het interface viel tegen volgens de testpersonen, het deed tekort aan professionaliteit. Hete opzoeken van verschillende producten bleek handig om de inventaris te checken. De app die synchroon met de koelkast werkt werd goed ontvangen. Echter ontbrak een boodschappenlijstje die automatisch gemaakt werd.
+**Interface 2 :** De interacties tussen de gebruikspersonen en de AI-assistent verliepen zeer vlot. Het kleurrijke design van het interface viel tegen volgens de testpersonen, het deed tekort aan professionaliteit. Het opzoeken van verschillende producten bleek handig om de inventaris te checken. De app die synchroon met de koelkast werkt werd goed ontvangen. Echter ontbrak een boodschappenlijstje die automatisch gemaakt werd.
 
 
 ### Conclusies & implicaties
@@ -76,4 +76,5 @@ De knop voor de AI-assistent moet groot en herkenbaar zijn.
 Voor wave 2 zijn de belangrijkste punten dat het niet te ingewikkeld moet. De knoppen die gebruikt worden door de visueel beperkte personen mogen niet op het scherm. Het automatisch aanmaken van een boodschappenlijst mag zeker niet ontbreken. Het moet ook mogelijk zijn op specifieke producten op te zoeken. Het scannen van een kassabon is ook een vereiste zodat het niet veel tijd kost om de inventaris aan te passen.
 
 Deze conclusie werden bepaald via een MoSCoW-analyse.
+![Moscow](/img/MoSCoW-analyse.png)
 
