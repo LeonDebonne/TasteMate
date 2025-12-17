@@ -42,7 +42,14 @@ Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/catego
 5. [Bill of materials](./docs/bom.md)
 
 ## Kritische reflectie
-Max. 500 woorden
+
+Het eerste semester stond volledig in het teken van discovery en de eerste definition van ons ontwerpproces.
+We startten met desk research en benchmarking om een beeld te krijgen van wat er vandaag al bestaat. De benchmarks hielpen ons om ons eigen idee te positioneren en om niet opnieuw te ontwerpen wat al bestaat, maar eerder te kijken waar het beter of anders kon.
+
+Daarnaast probeerden we via interviews inzicht te krijgen in de ervaringen en noden van blinde en slechtziende gebruikers. Dit bleek echter veel moeilijker dan verwacht. Door hun beperkte beschikbaarheid en het feit dat we zelf weinig directe connecties hadden, was het rekruteren van respondenten een grote uitdaging. Dat was soms frustrerend en zorgde ervoor dat ons onderzoek trager verliep dan gepland.
+Toch waren de interviews die we wel konden afnemen zeer waardevol. Ze bevestigden een aantal aannames, maar haalden ook zaken onderuit waar we zelf niet bij stil hadden gestaan. Dit maakte duidelijk hoe belangrijk het is om niet enkel vanuit eigen perspectief te ontwerpen. De input uit deze gesprekken vormde een sterke basis voor de definition fase en hielp ons om gerichtere ontwerpcriteria op te stellen.
+
+Achteraf gezien was het eerste semester vooral een oefening in geduld en realisme. We leerden dat een goed designproces niet alleen draait om methodes doorlopen, maar ook om mensen vinden, plannen te maken en omgaan met beperkingen. Positief is wel dat we intussen al enkele blinde personen hebben kunnen vastleggen voor semester 2. Dat geeft vertrouwen dat we met die mensen verder kunnen en op hun kunnen rekenen.
 
 ## Noot inzake het gebruik van AI
 AI werd gebruikt om onze tekststructuur te verbeteren en ons taalgebruik te finetunen.
