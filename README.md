@@ -64,8 +64,8 @@ AI werd gebruikt om onze tekststructuur te verbeteren en ons taalgebruik te fine
   * [Protocol](https://docs.google.com/document/d/17SA_GU3ZMbyh3iPbD7dw8ONl4re0EuEN/edit?usp=sharing&ouid=105887032845140708154&rtpof=true&sd=true)
   * [Rapport](https://docs.google.com/document/d/1uVGif4huSNOTb77L3XkXnCsxwViHGHP_/edit?usp=sharing&ouid=105887032845140708154&rtpof=true&sd=true)
 * User testing wave 2 (N=x)
-  * [Protocol](url)
-  * [Rapport](url)
+  * [Protocol](https://docs.google.com/document/d/1HitaRYjg1pTKpnl82D7k5fCMe0rHJzY5/edit?usp=sharing&ouid=105887032845140708154&rtpof=true&sd=true)
+  * [Rapport](https://docs.google.com/document/d/1aru_T9R6SH-N8Gx5HF_E67F5_VzKGTME/edit?usp=sharing&ouid=105887032845140708154&rtpof=true&sd=true)
 
 ## Licentie
 > :warning: voeg jullie namen toe in de documenten hieronder en delete dan dit lijntje   
