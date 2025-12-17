@@ -31,9 +31,9 @@ De kennis en inzichten uit deze wave werden dan meegenomen om het fysiek prototy
 Het doel van wave 2 was om onderzoek te voeren naar het interface van het ontwerp en de functies hiervan. Om dit voorstelbaar te maken werden er twee interfaces gemaakt via FigmaMake. Via Wizard of Oz werd er gekeken hoe de doorsnee gebruiker werkte met het interface.
 
 <p align="center">
-<img src="/img/Interface1.png>" height="50%">
-<img src="/img/Interface2.png>" height="50%">
-<img src="/img/InterfaceGSM.png>" height="50%">
+<img src="/img/Interface1.png>" width="50%">
+<img src="/img/Interface2.png>" width="50%">
+<img src="/img/InterfaceGSM.png>" width="50%">
 </p>
 
 Na de testen in iedere wave werd er rapportering opgesteld om op terug te vallen tijdens volgende fases. Deze bevatten geanalyseerde feedback en observaties die samengevat worden. 
