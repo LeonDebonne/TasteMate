@@ -34,6 +34,7 @@ Het doel van wave 2 was om onderzoek te voeren naar het interface van het ontwer
 <img src="/img/Interface1.png>" height="50%">
 <img src="/img/Interface2.png>" height="50%">
 <img src="/img/InterfaceGSM.png>" height="50%">
+</p>
 
 Na de testen in iedere wave werd er rapportering opgesteld om op terug te vallen tijdens volgende fases. Deze bevatten geanalyseerde feedback en observaties die samengevat worden. 
 
