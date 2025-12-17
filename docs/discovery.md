@@ -21,8 +21,6 @@ Blinde en slechtziende personen vertrouwen sterk op structuur. Vaste plekken mak
 
 2. Enquête (N = 22)
 
-Quote:
-
 Blinde en slechtziende personen vertrouwen vooral op de taststok, smartphones met gespecialiseerde apps en hulpmiddelen zoals loepen, braille-apparaten of spraaklabels voor navigatie en herkenning van voorwerpen. Oriëntatie in nieuwe omgevingen blijft uitdagend door de onvoorspelbaarheid. Thuis ontstaan vaak problemen bij het terugvinden van voorwerpen, vooral in de koelkast en bij kleding, waarvoor structuur helpt. Ongeveer de helft functioneert zelfstandig, de andere helft krijgt regelmatig hulp.
 
 3. Benchmarking (N=10)
@@ -48,7 +46,7 @@ Blinden en slechtzienden organiseren hun koelkast heel goed. Ze plaatsen elk soo
 
 Welke specifieke problemen of frustraties komen zij tegen bij het zoeken, herkennen en bereiken van producten in een koelkast?
 
-Quote: “Ik moet vaak dingen weggooien omdat mijn partner vergeet te zeggen dat hij iets gekocht heeft, of omdat mijn ingehuurde assistenten niet vermelden wat er nog in de koelkast ligt.”
+Quote: “Ik moet vaak dingen weggooien omdat mijn partner vergeet te zeggen dat hij iets gekocht heeft.”
 
 Quote: “Het is lastig om de datums op de verpakking te lezen. Daarvoor moet ik echt de vergrootfunctie van mijn iPad gebruiken. Meestal maak ik een foto, zoom ik er nog eens op in en schrijf ik de datum vervolgens met een dikke stift op de verpakking.”
 
@@ -59,8 +57,6 @@ Welke bestaande technologische hulpmiddelen kunnen helpen bij een toegankelijker
 Herkenning van producten kan worden gedaan met AI herkenningsystemen zoals Be My Eyes. Producten kunnen ook worden geidentificeerd door het gebruik van NFC-tags, QR-codes of elektronische labels zoals PenFriend (audio-labelsystemen). Dit zijn handige manieren om snel belangrijke info te krijgen over het product dat je in je handen hebt.
 
 Welke niet-technologische hulpmiddelen?
-
-Quote: "Deels door te brailleren, en deels om voorwerpen steeds op dezelfde plaats te zetten."
 
 Vaste indelingsstructuren zoals eerder vermeld. Daarnaast worden tactile markers zoals rubberen noppen, elastiekjes of voelbare stickers vaak gebruikt. Ook eenvoudige hulpmiddelen zoals afspraken met huisgenoten dragen bij aan vlotter gebruik van de koelkast.
 
