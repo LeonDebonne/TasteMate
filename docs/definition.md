@@ -42,7 +42,7 @@ De drie prototypes werden voorgelegd en besproken door onze respondenten.  Ook w
 
 **Prototype 1 :** Het eerste prototype viel vooral in de smaak door de grote hiervan. Voor visueel beperkte personen is het veel gemakkelijker om met grotere objecten te werken. De functie die het mogelijk maakt om te kiezen welke interface gebruikt wordt bleek overbodig. Beginnen spreken tegen het product of het scherm aanraken zouden eenvoudiger zijn om de interactie met het product te initiëren.
 
-**Prototype 2 :** De vorm van het prototype werd positief ontvangen. Ook vonden ze het goed dat er meerder knoppen zijn die verschillende functies hebben. Het feit dat het scherm kan uitklappen naast de koelkast zodat het concept kan gebruikt worden met een open en een dichte koelkast was ook een belangrijk pluspunt. Het product mocht echter wel groter. De slechtziende testpersoon vond dat het te uitdagend om vlot met het prototype te werken. Er werd wel opgemerkt dat de grootte voor blinden minder een barrière vormt. 
+**Prototype 2 :** De vorm van het prototype werd positief ontvangen. Het feit dat het scherm kan uitklappen naast de koelkast zodat het concept kan gebruikt worden met een open en een dichte koelkast was ook een belangrijk pluspunt. Het product mocht echter wel groter. De slechtziende testpersoon vond dat het te uitdagend om vlot met het prototype te werken. Er werd wel opgemerkt dat de grootte voor blinden minder een barrière vormt. 
 
 **Prototype 3 :**  De vorm van dit prototype was onhandig om te gebruiken doordat de knoppen die gebruikt worden door de visueel beperkte personen aan de onderkant van de geometrie bevinden. De braille die te vinden was op deze knoppen beviel wel goed. Commentaar hierop was dat het niet per se braille maar, dat het tactiele van de knoppen het belangrijkste is.
 
@@ -57,16 +57,15 @@ De FigmaMake interfaces werden na een korte voorstelling van het project getest 
 
 **Interface 1 :** De lay-out van het interface bleek efficiënt en eenvoudig voor doorsnee gebruikers. De grootte van de tekst en functieknoppen op het scherm was te klein als slechtziende personen dit ook zouden willen gebruiken. Een functie die overbodig bleek te zijn voor visueel beperkte personen was de locatie van de voeding die werd voorgelezen door de AI -assistent doordat dit op vast locaties ligt. Bij het toevoegen van een kassabon werd er gevraagd om een pop-up toe te voegen die samenvat welke producten er gescand zijn. Zo kunnen foutieve producten gefilterd worden op voorhand.
 
-**Interface 2 :** De interacties tussen de gebruikspersonen en de AI-assistent verliepen zeer vlot. Het kleurrijke design van het interfaces viel tegen volgens de testpersonen, het deed tekort aan professionaliteit. Het opzoeken van verschillende producten bleek handig om de inventaris te checken. Alle functies zullen bestuurbaar moeten zij via de AI-assistent. De app die synchroon met de koelkast werkt werd goed ontvangen. Echter ontbrak een boodschappenlijstje die automatisch gemaakt werd.
+**Interface 2 :** De interacties tussen de gebruikspersonen en de AI-assistent verliepen zeer vlot. Het kleurrijke design van het interface viel tegen volgens de testpersonen, het deed tekort aan professionaliteit. Hete opzoeken van verschillende producten bleek handig om de inventaris te checken. De app die synchroon met de koelkast werkt werd goed ontvangen. Echter ontbrak een boodschappenlijstje die automatisch gemaakt werd.
 
 
 ### Conclusies & implicaties
 
-De conclusies uit de eerste wave zijn dat het product groot genoeg moet zijn als slechtziende personen willen werken met het interface op het scherm. De functieknoppen moeten een tactiel element hebben voor snelle herkenning. 
-Het product moet bruikbaar zijn bij een gesloten en open koelkast.
+De conclusies uit de eerste wave zijn dat het product groot genoeg moet zijn als slechtziende personen willen werken met het interface op het scherm. De functieknoppen moeten een tactiel element hebben voor snelle herkenning. Het product moet bruikbaar zijn bij een gesloten en open koelkast.
 
 De knop voor de AI-assistent moet groot en herkenbaar zijn.
-Voor wave 2 zijn de belangrijkste punten dat het niet te ingewikkeld moet. De knoppen die gebruikt worden door de visueel beperkte personen mogen niet op het scherm. Het automatisch aanmaken van een boodschappenlijst mag zeker niet ontbreken. Het moet ook mogelijk zijn op specifieke producten op te zoeken.
+Voor wave 2 zijn de belangrijkste punten dat het niet te ingewikkeld moet. De knoppen die gebruikt worden door de visueel beperkte personen mogen niet op het scherm. Het automatisch aanmaken van een boodschappenlijst mag zeker niet ontbreken. Het moet ook mogelijk zijn op specifieke producten op te zoeken. Het scannen van een kassabon is ook een vereiste zodat het niet veel tijd kost om de inventaris aan te passen.
 
 Deze conclusie werden bepaald via een MoSCoW-analyse.
 
