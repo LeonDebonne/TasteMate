@@ -32,6 +32,7 @@ Het doel van wave 2 was om onderzoek te voeren naar het interface van het ontwer
 
 <p align="left">
 <img src="/img/Interface1.png" width="49%">
+<p align="left">
 <img src="/img/Interface2.png" width="49%">
 <p align="right">
 <img src="/img/InterfaceGSM.png" width="49%">
