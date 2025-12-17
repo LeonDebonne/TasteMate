@@ -27,7 +27,7 @@ Blinde en slechtziende personen vertrouwen vooral op de taststok, smartphones me
 
 De benchmark onderzocht technologische hulpmiddelen voor blinde en slechtziende personen. Veel producten gebruiken sensoren, spraak, trillingen en AI om obstakels te detecteren. Apps zoals EMVI ondersteunen bij herkenning van voorwerpen en lezen van teksten, terwijl apparaten zoals Wewalk navigatie en oriëntatie verbeteren. Sommige, zoals Lumen Glasses, zijn zeer prijzig anderen, zoals Hoople zijn betaalbaar en robuust. Het aanbod varieert van eenvoudige tactiele oplossingen tot complexe hightech systemen.
 
-![image](img\benchmarking.jpg)
+![image](/img/benchmarking.jpg)
 
 ### Conclusies & implicaties fase 1
 Op basis van interviews, enquête en benchmarking blijkt dat het grootste struikelblok voor blinden en slechtzienden het vinden en organiseren van producten is. Verplaatste items, onduidelijke labeling en inconsistentie zorgen voor frustratie en verlies van zelfstandigheid. Daarom richten we ons op de how might we: "Hoe maken we de koelkast toegankelijk voor blinden en slechtzienden?"
