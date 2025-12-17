@@ -57,6 +57,14 @@ Deze feedback werd geanalyseerd en in een scorematrix gegoten. Zo zijn de beste 
 Na meer duiding te geven over het project werd er ook op gewezen dat een app die gesynchroniseerd is met de slimme koelkast ook van pas kan komen. Het opstellen van boodschappenlijstjes voor visueel beperkte mensen is vaak een drempel. Een app die de inventaris bij houdt is praktischer. Ook is het essentieel dat het product op verschillende koelkasten past.
 
 #### WAVE 2 (N = 3):
+De FigmaMake interfaces werden na een korte voorstelling van het project getest en besproken. Voor de meeste testpersonen was de werkingswijze van de interfaces intuïtief. 
+
+Interface 1 : De lay-out van het interface bleek efficiënt en eenvoudig voor doorsnee gebruikers. De grootte van de tekst en functieknoppen op het scherm was te klein als slechtziende personen dit ook zouden willen gebruiken.  Een functie die overbodig scheen te zijn voor visueel beperkte personen was de locatie van de voeding die werd gezegd door de AI -assistent. Bij het toevoegen van een kassabon werd er gevraagd om een scherm toe te voegen die alle producten toont die zullen toegevoegd worden aan de koelkast. Zo kunnen foutieve producten gefilterd worden.
+
+Interface 2 : De interacties tussen de gebruikspersonen en de AI-assistent verliepen zeer vlot. Het kleurrijke design van het interfaces viel tegen volgens de testpersonen het deed tekort aan professionaliteit.   Het opzoeken van verschillende producten bleek handig om de inventaris te checken. Alle functie zullen bestuurbaar moeten zij via de AI-assistent. De app die synchroon met de koelkast werkt werd goed ontvangen. Echter ontbrak een boodschappenlijstje die automatisch gemaakt werd.
+
+Algemene feedback was dat het niet een complex interface moet zijn met te veel functies maar enkele kernfunctie die geoptimaliseerd worden. Ook moet de AI-assistent werken met een fysieke knop.
+
 
 ### Conclusies & implicaties
 Definieer de belangrijkste designbeslissingen.
