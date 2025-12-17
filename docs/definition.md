@@ -12,7 +12,7 @@ In deze fase van het onderzoek is het de bedoeling om van het gekozen probleem i
 
 De definition fase begon met een sprint-dag. Hier werden enkele ontwerpeisen opgesteld als inzichten van de discovery fase. Uit deze eisen vloeide een storyboard die het proces van het gebruik van de koelkast met ons concept voorstelt.
 
-![Storyboard](/img/Storyboard.png) 
+![Storyboard](/img/Storyboard.jpg) 
 
 Om het concept concreter te maken werd er gewerkt aan de hand van 2 prototyping waves die elke verschillende aspect onderzochten. In deze waves werden prototypes gemaakt en deze werden aan de hand van interviews en gebruikstesten beoordeeld. Op voorhand van deze testen werden er steeds protocollen opgesteld om zo gestructureerd te werkt te kunnen gaan.
 
