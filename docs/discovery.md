@@ -54,6 +54,8 @@ Vaak treden er problemen omtrent communicatie op. Familieleden of begeleiders ze
 
 Welke bestaande technologische hulpmiddelen kunnen helpen bij een toegankelijkere koelkast?
 
+![image](/img/Sprintdag.jpg)
+
 Herkenning van producten kan worden gedaan met AI herkenningsystemen zoals Be My Eyes. Producten kunnen ook worden geidentificeerd door het gebruik van NFC-tags, QR-codes of elektronische labels zoals PenFriend (audio-labelsystemen). Dit zijn handige manieren om snel belangrijke info te krijgen over het product dat je in je handen hebt.
 
 Welke niet-technologische hulpmiddelen?
