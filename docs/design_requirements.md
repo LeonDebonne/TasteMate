@@ -11,6 +11,15 @@
 |1.6|De interactie moet primair auditief en intuïtief zijn, zodat visuele input niet noodzakelijk is.|[](url)|⚠️
 |1.7|De oplossing moet laag­drempelig zijn en geen complexe handelingen of technische kennis vereisen.|[](url)|⚠️
 |1.8|De oplossing moet functioneren als ondersteuning en mag de gebruiker niet afhankelijk maken van zorgverleners.|[](url)|⚠️
-|1.9|  |[](url)|⚠️
 |**Definition**|
-|2.1|De pods ... |[2.1 User test](url)|✅|
+|2.1|Het systeem moet producten kunnen registreren wanneer deze in of uit de koelkast worden geplaatst.|[2.1 User test](url)|✅|
+|2.2|Het systeem moet gebruikt kunnen worden als de koelkast geopend is, maar ook alsdeze gesloten is.|[](url)|✅|
+|2.3|Het systeem moet vaste plaatsen in de koelkast kunnen toewijzen aan productcategorieën.|[](url)|✅|
+|2.4|Het systeem moet houdbaarheidsdata digitaal bijhouden en hierover tijdig feedback geven.|[](url)|✅|
+|2.5|De gebruiker moet via een spraakassistent vragen kunnen stellen over de inhoud van de koelkast.|[](url)|✅|
+|2.6|Het ontwerp moet gebruiksvriendelijk zijn voor zowel de visueel beperkte gebruiker als huisgenoten/zorgverleners.|[](url)|✅|
+|2.7|De oplossing moet privacyvriendelijk omgaan met persoonlijke en huishoudelijke gegevens.|[](url)|✅|
+|2.8|De add-on moet compatibel zijn met bestaande koelkasten en geen ingrijpende aanpassingen vereisen.|[](url)|✅|
+|2.9|De oplossing moet betaalbaar zijn voor thuisgebruik.|[](url)|✅|
+
+
