@@ -3,7 +3,7 @@
 |ID|Design Requirement|Source|Status|
 |:---|:---|:---|:---:|
 |**Discover**|
-|1.1|De oplossing moet de zelfstandigheid van blinden en slechtzienden in het dagelijks gebruik van de koelkast ondersteunen.|[Discovery](url)|✅|
+|1.1|De oplossing moet de zelfstandigheid van blinden en slechtzienden in het dagelijks gebruik van de koelkast ondersteunen.|[Discovery](discovery.md)|✅|
 |1.2|De oplossing moet verwarring en frustratie verminderen die ontstaan door veranderingen in de koelkastinhoud door huisgenoten of zorgverleners.|[Discovery](url)|✅|
 |1.3|De oplossing moet samenwerking en communicatie tussen gebruiker, huisgenoten en zorgverleners bevorderen. |[Discovery](url)|✅|
 |1.4|De oplossing moet het overzicht over aanwezige producten in de koelkast verbeteren|[Discovery](url)|✅|
