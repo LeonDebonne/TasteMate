@@ -19,17 +19,19 @@ In deze benchmark werd onderzocht welke bestaande hulpmiddelen er zijn voor blin
 
 Blinde en slechtziende personen vertrouwen sterk op structuur. Vaste plekken maken zelfstandigheid mogelijk, terwijl onverwachte veranderingen verwarring veroorzaken. Oriëntatie in openbare ruimtes blijft moeilijk, en bestaande hulpmiddelen bieden niet altijd volledige betrouwbaarheid. Thuis veroorzaken verplaatste spullen en gebrekkige communicatie praktische problemen en stress, waardoor gebruikers hun omgeving liefst zelf organiseren. Toegankelijke informatie via spraak, braille en tastbare signalen zijn belangrijk. Geïntegreerde oplossingen worden boven opvallende hulpmiddelen verkozen. Veel dagelijkse taken vragen extra mentale inspanning.
 
->[!IMPORTANT] Design Requirements:
->D1.1 De oplossing moet de zelfstandigheid van blinden en slechtzienden in het dagelijks gebruik van de koelkast ondersteunen.
->D1.2 De oplossing moet verwarring en frustratie verminderen die ontstaan door veranderingen in de koelkastinhoud door huisgenoten of zorgverleners.
+>[!IMPORTANT] 
+> Design Requirements:
+> - D1.1 De oplossing moet de zelfstandigheid van blinden en slechtzienden in het dagelijks gebruik van de koelkast ondersteunen.
+> - D1.2 De oplossing moet verwarring en frustratie verminderen die ontstaan door veranderingen in de koelkastinhoud door huisgenoten of zorgverleners.
 
 2. Enquête (N = 22)
 
 Blinde en slechtziende personen vertrouwen vooral op de taststok, smartphones met gespecialiseerde apps en hulpmiddelen zoals loepen, braille-apparaten of spraaklabels voor navigatie en herkenning van voorwerpen. Oriëntatie in nieuwe omgevingen blijft uitdagend door de onvoorspelbaarheid. Thuis ontstaan vaak problemen bij het terugvinden van voorwerpen, vooral in de koelkast en bij kleding, waarvoor structuur helpt. Ongeveer de helft functioneert zelfstandig, de andere helft krijgt regelmatig hulp.
 
->[!IMPORTANT] Design Requirements:
->D1.4 De oplossing moet het overzicht over aanwezige producten in de koelkast verbeteren.
->D1.7 De oplossing moet laagdrempelig zijn en geen complexe handelingen of technische kennis vereisen.
+>[!IMPORTANT] 
+> Design Requirements:
+> - D1.4 De oplossing moet het overzicht over aanwezige producten in de koelkast verbeteren.
+> - D1.7 De oplossing moet laagdrempelig zijn en geen complexe handelingen of technische kennis vereisen.
 
 3. Benchmarking (N=10)
 
@@ -37,15 +39,17 @@ De benchmark onderzocht technologische hulpmiddelen voor blinde en slechtziende 
 
 ![image](/img/benchmarking.jpg)
 
->[!IMPORTANT] Design Requirements:
->D1.6 De interactie moet primair auditief en intuïtief zijn, zodat visuele input niet noodzakelijk is.
->D1.9 Het product moet betaalbaar zijn voor thuisgebruik.
+>[!IMPORTANT] 
+> Design Requirements:
+> - D1.6 De interactie moet primair auditief en intuïtief zijn, zodat visuele input niet noodzakelijk is.
+> - D1.9 Het product moet betaalbaar zijn voor thuisgebruik.
 
 ### Conclusies & implicaties fase 1
 Op basis van interviews, enquête en benchmarking blijkt dat het grootste struikelblok voor blinden en slechtzienden het vinden en organiseren van producten is. Verplaatste items, onduidelijke labeling en inconsistentie zorgen voor frustratie en verlies van zelfstandigheid. Daarom richten we ons op de how might we: "Hoe maken we de koelkast toegankelijk voor blinden en slechtzienden?"
 
->[!IMPORTANT] Design Requirements:
->D1.3 De oplossing moet samenwerking en communicatie tussen gebruiker, huisgenoten en zorgverleners bevorderen.
+>[!IMPORTANT]
+> Design Requirements:
+> - D1.3 De oplossing moet samenwerking en communicatie tussen gebruiker, huisgenoten en zorgverleners bevorderen.
 
 ### Doestellingen fase 2
 In de tweede fase vertrokken we uit de onderzoeksvraag: Hoe kunnen we de organisatie van een koelkast toegankelijk maken voor blinden en slechtzienden? Om deze vraag te beantwoorden zullen verschillende deelvragen beantwoord moeten worden.
