@@ -13,13 +13,6 @@ Het efficiënt gebruiken van de koelkast speelt een grote rol in de zelfstandigh
 Deze problematiek wensen we aan te pakken met een slimme koelkast add-on. Deze dient om de samenwerking tussen de verschillende huisgenoten/zorgverleners te bevorderen. Zo kunnen producten in of uit het systeem gehaald worden en worden er vaste plaatsen toegewezen voor elk soort product. Ook worden de houdbaarheidsdata in het systeem bijgehouden. Zo kan vervolgens aan een spraakassistent vragen gesteld worden over de inhoud van de koelkast. 
 Bv. “Ik heb dorst, wat kan ik drinken?” en “Zijn er producten die bijna over datum gaan?” 
 
-Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt: 
-
-- Wat is het probleem?
-- Hoe heb je dit onderzocht?
-- Wat is jouw oplossing?
-- Hoe lost jouw oplossing het probleem op?
-- Hero sketch/render/image, vb.
 <p align="center">
   <img src="img\DSC_0599.JPG" width="100%">
 </p>
@@ -28,10 +21,6 @@ Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker 
 Het efficiënt gebruiken van de koelkast is essentieel voor de zelfstandigheid van blinden en slechtzienden, maar blijft in de praktijk vaak problematisch. Onvoldoende communicatie met huisgenoten en zorgverleners, het niet respecteren van de ordening en het moeilijk kunnen controleren van houdbaarheidsdata zorgen geregeld voor verwarring en frustratie. Deze knelpunten kwamen ook duidelijk naar voren in een onlinebevraging binnen verschillende Facebookgroepen voor blinden en slechtzienden.
 Dit project heeft als doel het ontwikkelen van een slimme koelkast add-on die deze problemen vermindert en de samenwerking binnen het huishouden ondersteunt. Producten kunnen in het systeem worden geregistreerd, vaste plaatsen worden toegewezen en houdbaarheidsdata worden bijgehouden. Via een spraakassistent kan de gebruiker eenvoudig informatie opvragen over de inhoud van de koelkast, zoals beschikbare dranken of producten die bijna vervallen.
 De oplossing richt zich op zelfstandig wonende blinden en slechtzienden die begeleid worden door een familielid of een professional. De add-on moet gebruiksvriendelijk, betaalbaar en privacyvriendelijk zijn en fungeert als ondersteuning, niet als vervanging van zorg.
-
-Max 300 woorden.
-Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
-Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)). Zoals bijvoorbeeld (Thomas & Ritter, 2022) [^1] .
 
 ## Inhoudstafel
 
