@@ -77,6 +77,7 @@ De FigmaMake interfaces werden na een korte voorstelling van het project getest 
 > Design Requirements:
 > - D2.5 De gebruiker moet via een spraakassistent vragen kunnen stellen over de inhoud van de koelkast.
 > - D2.9 Het systeem moet efficiënt de inhoud kunnen aanpassen, zodat mensen niet opgeven met het product te gebruiken.
+> - D2.10 Het systeem moet helpen bij het bevorden van zelfstandig boodschappen doen.
 
 ### Conclusies & implicaties
 
