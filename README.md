@@ -14,7 +14,7 @@ Deze problematiek wensen we aan te pakken met een slimme koelkast add-on. Deze d
 Bv. “Ik heb dorst, wat kan ik drinken?” en “Zijn er producten die bijna over datum gaan?” 
 
 <p align="center">
-  <img src="img\DSC_0599.JPG" width="100%">
+  <img src="img\TasteMate Render3.png" width="100%">
 </p>
 
 ## Introductie
@@ -63,8 +63,7 @@ AI werd gebruikt om onze tekststructuur te verbeteren en ons taalgebruik te fine
   * [Protocol](https://docs.google.com/document/d/1HitaRYjg1pTKpnl82D7k5fCMe0rHJzY5/edit?usp=sharing&ouid=105887032845140708154&rtpof=true&sd=true)
   * [Rapport](https://docs.google.com/document/d/1aru_T9R6SH-N8Gx5HF_E67F5_VzKGTME/edit?usp=sharing&ouid=105887032845140708154&rtpof=true&sd=true)
 
-## Licentie
-> :warning: voeg jullie namen toe in de documenten hieronder en delete dan dit lijntje   
+## Licentie 
 
 This repository contains both software and design materials created as part of an industrial design energineering project at Ghent University.
 
