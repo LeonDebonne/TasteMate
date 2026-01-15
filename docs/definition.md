@@ -58,6 +58,12 @@ Deze feedback werd geanalyseerd en in een scorematrix gegoten. Zo zijn de beste 
 
 Na meer duiding te geven rondom project werd er ook op gewezen dat een app die gesynchroniseerd is met de slimme koelkast ook van pas kan komen. Het opstellen van boodschappenlijstjes voor visueel beperkte mensen is vaak een drempel. Een app die de inventaris bij houdt is praktischer. Ook is het essentieel dat het product op verschillende koelkasten past.
 
+>[!IMPORTANT] 
+> Design Requirements:
+> - D2.2 Het systeem moet gebruikt kunnen worden als de koelkast geopend is, maar ook als deze gesloten is.
+> - D2.6 Het ontwerp moet gebruiksvriendelijk zijn voor zowel de visueel beperkte gebruiker als huisgenoten/zorgverleners.
+> - D2.8 De add-on moet compatibel zijn met bestaande koelkasten en geen ingrijpende aanpassingen vereisen.
+
 #### WAVE 2 (N = 3):
 De FigmaMake interfaces werden na een korte voorstelling van het project getest en besproken. Voor de meeste testpersonen was de werkingswijze van de interfaces intuïtief. 
 
@@ -65,6 +71,11 @@ De FigmaMake interfaces werden na een korte voorstelling van het project getest 
 
 **Interface 2 :** De interacties tussen de gebruikspersonen en de AI-assistent verliepen zeer vlot. Het kleurrijke design van het interface viel tegen volgens de testpersonen, het deed tekort aan professionaliteit. Het opzoeken van verschillende producten bleek handig om de inventaris te checken. De app die synchroon met de koelkast werkt werd goed ontvangen. Echter ontbrak een boodschappenlijstje die automatisch gemaakt werd.
 
+>[!IMPORTANT] 
+> Design Requirements:
+> - D2.5 De gebruiker moet via een spraakassistent vragen kunnen stellen over de inhoud van de koelkast.
+> - D2.9 Het systeem moet efficiënt de inhoud kunnen aanpassen, zodat mensen niet opgeven met het product te gebruiken.
+> - D2.10 Het systeem moet helpen bij het bevorden van zelfstandig boodschappen doen.
 
 ### Conclusies & implicaties
 
@@ -72,6 +83,13 @@ De conclusies uit de eerste wave zijn dat het product groot genoeg moet zijn als
 
 De knop voor de AI-assistent moet groot en herkenbaar zijn.
 Voor wave 2 zijn de belangrijkste punten dat het niet te ingewikkeld moet. De knoppen die gebruikt worden door de visueel beperkte personen mogen niet op het scherm. Het automatisch aanmaken van een boodschappenlijst mag zeker niet ontbreken. Het moet ook mogelijk zijn op specifieke producten op te zoeken. Het scannen van een kassabon is ook een vereiste zodat het niet veel tijd kost om de inventaris aan te passen.
+
+>[!IMPORTANT] 
+> Design Requirements:
+> - D2.1 Het systeem moet producten kunnen registreren wanneer deze in of uit de koelkast worden geplaatst.
+> - D2.3 Het systeem moet vaste plaatsen in de koelkast kunnen toewijzen aan productcategorieën.
+> - D2.4 Het systeem moet houdbaarheidsdata digitaal bijhouden en hierover tijdig feedback geven.
+> - D2.7 Het product moet privacyvriendelijk omgaan met persoonlijke en huishoudelijke gegevens.
 
 Deze conclusie werden bepaald via een MoSCoW-analyse.
 ![Moscow](/img/MoSCoW-analyse.png)
