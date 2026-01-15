@@ -21,8 +21,8 @@
 |2.6|Het ontwerp moet gebruiksvriendelijk zijn voor zowel de visueel beperkte gebruiker als huisgenoten/zorgverleners.|[Definition Wave 1&2](definition.md)|✅|
 |2.7|De product moet privacyvriendelijk omgaan met persoonlijke en huishoudelijke gegevens.|[Definition Wave 2](definition.md)|✅|
 |2.8|De add-on moet compatibel zijn met bestaande koelkasten en geen ingrijpende aanpassingen vereisen.|[Definition Wave 1](definition.md)|✅||
-|2.9|Het systeem moet efficiënt de inhoud kunnen aanpassen, zodat mensen niet opgeven met het product te gebruiken.|[Definition Wave 1&2](definition.md)|⚠️|
-|2.10|Het systeem moet helpen bij het bevorden van zelfstandig boodschappen doen.|[Definition Wave 1&2](definition.md)|⚠️|
+|2.9|Het systeem moet efficiënt de inhoud kunnen aanpassen, zodat mensen niet opgeven met het product te gebruiken.|[Definition Wave 2](definition.md)|⚠️|
+|2.10|Het systeem moet helpen bij het bevorden van zelfstandig boodschappen doen.|[Definition Wave 2](definition.md)|⚠️|
 
 
 

@@ -91,6 +91,7 @@ Voor wave 2 zijn de belangrijkste punten dat het niet te ingewikkeld moet. De kn
 > - D2.1 Het systeem moet producten kunnen registreren wanneer deze in of uit de koelkast worden geplaatst.
 > - D2.3 Het systeem moet vaste plaatsen in de koelkast kunnen toewijzen aan productcategorieën.
 > - D2.4 Het systeem moet houdbaarheidsdata digitaal bijhouden en hierover tijdig feedback geven.
+> - D2.7 Het product moet privacyvriendelijk omgaan met persoonlijke en huishoudelijke gegevens.
 
 Deze conclusie werden bepaald via een MoSCoW-analyse.
 ![Moscow](/img/MoSCoW-analyse.png)
