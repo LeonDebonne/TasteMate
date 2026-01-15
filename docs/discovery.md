@@ -77,10 +77,11 @@ Welke niet-technologische hulpmiddelen?
 
 Vaste indelingsstructuren zoals eerder vermeld. Daarnaast worden tactile markers zoals rubberen noppen, elastiekjes of voelbare stickers vaak gebruikt. Ook eenvoudige hulpmiddelen zoals afspraken met huisgenoten dragen bij aan vlotter gebruik van de koelkast.
 
->[!IMPORTANT] Design Requirements:
->D1.5 De oplossing moet het controleren van houdbaarheidsdata toegankelijk en betrouwbaar maken.
->D1.6 (reeds onderbouwd in benchmarking, hier impliciet bevestigd)
->D1.8 De oplossing moet functioneren als ondersteuning en mag de gebruiker niet afhankelijk maken van zorgverleners.
+> [!IMPORTANT] 
+> Design Requirements:
+> - D1.5 De oplossing moet het controleren van houdbaarheidsdata toegankelijk en betrouwbaar maken.
+> - D1.6 (reeds onderbouwd in benchmarking, hier impliciet bevestigd)
+> - D1.8 De oplossing moet functioneren als ondersteuning en mag de gebruiker niet afhankelijk maken van zorgverleners.
 
 ### Conclusies & implicaties fase 2
 Belangrijke designbeslissingen voor een toekomstige oplossing:
