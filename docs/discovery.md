@@ -22,7 +22,6 @@ Blinde en slechtziende personen vertrouwen sterk op structuur. Vaste plekken mak
 >[!IMPORTANT] 
 > Design Requirements:
 > - D1.1 De oplossing moet de zelfstandigheid van blinden en slechtzienden in het dagelijks gebruik van de koelkast ondersteunen.
-> - D1.2 De oplossing moet verwarring en frustratie verminderen die ontstaan door veranderingen in de koelkastinhoud door huisgenoten of zorgverleners.
 
 2. Enquête (N = 22)
 
@@ -30,6 +29,7 @@ Blinde en slechtziende personen vertrouwen vooral op de taststok, smartphones me
 
 >[!IMPORTANT] 
 > Design Requirements:
+> - D1.2 De oplossing moet verwarring en frustratie verminderen die ontstaan door veranderingen in de koelkastinhoud door huisgenoten of zorgverleners.
 > - D1.4 De oplossing moet het overzicht over aanwezige producten in de koelkast verbeteren.
 > - D1.7 De oplossing moet laagdrempelig zijn en geen complexe handelingen of technische kennis vereisen.
 
