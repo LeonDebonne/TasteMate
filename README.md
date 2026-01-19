@@ -68,7 +68,6 @@ AI werd gebruikt om onze tekststructuur te verbeteren en ons taalgebruik te fine
   * [Rapport](https://docs.google.com/document/d/1aru_T9R6SH-N8Gx5HF_E67F5_VzKGTME/edit?usp=sharing&ouid=105887032845140708154&rtpof=true&sd=true)
 
 ## Licentie 
-
 This repository contains both software and design materials created as part of an industrial design energineering project at Ghent University.
 
 - **Software and code:** [MIT License](./LICENSE-MIT)  
@@ -77,5 +76,5 @@ This repository contains both software and design materials created as part of a
 You are free to reuse and build upon this work, both commercially and non-commercially, as long as proper attribution is given to the original authors.
 
 ## Bronnen
- [^1]: Thomas, T., & Ritter, A. (2022). Wandering & sundowning in dementia. _Practical Neurology, 21_(3), 36–44.
+Liegeard, J., & Manning, L. (2019). Use of intelligent applications to reduce household food waste. Critical Reviews in Food Science and Nutrition, 60(6), 1048–1061.
 
