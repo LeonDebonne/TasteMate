@@ -25,13 +25,13 @@ Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker 
 </p>
 
 ## Introductie
-Het efficiënt gebruiken van de koelkast is essentieel voor de zelfstandigheid van blinden en slechtzienden, maar blijft in de praktijk vaak problematisch. Onvoldoende communicatie met huisgenoten en zorgverleners, het niet respecteren van de ordening en het moeilijk kunnen controleren van houdbaarheidsdata zorgen geregeld voor verwarring en frustratie. Deze knelpunten kwamen ook duidelijk naar voren in een onlinebevraging binnen verschillende Facebookgroepen voor blinden en slechtzienden.
-Dit project heeft als doel het ontwikkelen van een slimme koelkast add-on die deze problemen vermindert en de samenwerking binnen het huishouden ondersteunt. Producten kunnen in het systeem worden geregistreerd, vaste plaatsen worden toegewezen en houdbaarheidsdata worden bijgehouden. Via een spraakassistent kan de gebruiker eenvoudig informatie opvragen over de inhoud van de koelkast, zoals beschikbare dranken of producten die bijna vervallen.
-De oplossing richt zich op zelfstandig wonende blinden en slechtzienden die begeleid worden door een familielid of een professional. De add-on moet gebruiksvriendelijk, betaalbaar en privacyvriendelijk zijn en fungeert als ondersteuning, niet als vervanging van zorg.
+Het efficiënt en zelfstandig gebruiken van huishoudtoestellen is een belangrijke voorwaarde voor autonomie bij blinden en slechtzienden. Toch blijkt het dagelijks gebruik van een koelkast in gedeelde huishoudens vaak problematisch. Moeilijke toegang tot visuele informatie, zoals houdbaarheidsdata en productlabels, gecombineerd met een gebrek aan afstemming met huisgenoten of zorgverleners, leidt regelmatig tot verwarring, voedselverspilling en frustratie. Deze knelpunten kwamen ook duidelijk naar voren in een onlinebevraging binnen verschillende Facebookgroepen voor blinden en slechtzienden.
 
-Max 300 woorden.
-Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
-Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)). Zoals bijvoorbeeld (Thomas & Ritter, 2022) [^1] .
+Dit project situeert zich binnen het domein van assistieve technologie en inclusieve smart home-oplossingen. Het doel is het ontwikkelen van een slimme koelkast add-on die de zelfstandigheid van blinden en slechtzienden ondersteunt en tegelijkertijd de samenwerking binnen het huishouden bevordert. De add-on maakt het mogelijk om producten te registreren, vaste plaatsen toe te wijzen en houdbaarheidsdata bij te houden. Via een spraakassistent kan de gebruiker eenvoudig informatie opvragen over de inhoud van de koelkast, zoals welke dranken beschikbaar zijn of welke producten binnenkort vervallen. Op die manier wordt de cognitieve belasting verminderd en krijgt de gebruiker meer controle over zijn of haar leefomgeving.
+
+“Intelligent applications such as intelligent packaging, intelligent fridges and wider IoT solutions provide opportunities to reduce household food waste.” (Liegeard, J., & Manning, L. 2019)
+
+De oplossing richt zich op zelfstandig wonende blinden en slechtzienden die ondersteund worden door een familielid of professionele begeleider. Belangrijke randvoorwaarden zijn dat het systeem betaalbaar en gebruiksvriendelijk moet zijn. De add-on fungeert nadrukkelijk als ondersteuning en niet als vervanging van menselijke zorg.
 
 ## Inhoudstafel
 
@@ -49,7 +49,7 @@ We startten met desk research en benchmarking om een beeld te krijgen van wat er
 Daarnaast probeerden we via interviews inzicht te krijgen in de ervaringen en noden van blinde en slechtziende gebruikers. Dit bleek echter veel moeilijker dan verwacht. Door hun beperkte beschikbaarheid en het feit dat we zelf weinig directe connecties hadden, was het rekruteren van respondenten een grote uitdaging. Dat was soms frustrerend en zorgde ervoor dat ons onderzoek trager verliep dan gepland.
 Toch waren de interviews die we wel konden afnemen zeer waardevol. Ze bevestigden een aantal aannames, maar haalden ook zaken onderuit waar we zelf niet bij stil hadden gestaan. Dit maakte duidelijk hoe belangrijk het is om niet enkel vanuit eigen perspectief te ontwerpen. De input uit deze gesprekken vormde een sterke basis voor de definition fase en hielp ons om gerichtere ontwerpcriteria op te stellen.
 
-Achteraf gezien was het eerste semester vooral een oefening in geduld en realisme. We leerden dat een goed designproces niet alleen draait om methodes doorlopen, maar ook om mensen vinden, plannen te maken en omgaan met beperkingen. Positief is wel dat we intussen al enkele blinde personen hebben kunnen vastleggen voor semester 2. Dat geeft vertrouwen dat we met die mensen verder kunnen en op hun kunnen rekenen.
+Achteraf gezien was het eerste semester vooral een oefening in geduld en realisme. We leerden dat een goed designproces niet alleen draait om methodes doorlopen, maar ook om mensen vinden, plannen te maken en omgaan met beperkingen. Positief is wel dat we intussen al enkele blinde en slechtziende personen hebben kunnen vastleggen voor semester 2. Dat geeft vertrouwen dat we met die mensen verder kunnen en op hun kunnen rekenen.
 
 ## Noot inzake het gebruik van AI
 AI werd gebruikt om onze tekststructuur te verbeteren en ons taalgebruik te finetunen.
@@ -74,9 +74,7 @@ AI werd gebruikt om onze tekststructuur te verbeteren en ons taalgebruik te fine
   * [Protocol](https://docs.google.com/document/d/1HitaRYjg1pTKpnl82D7k5fCMe0rHJzY5/edit?usp=sharing&ouid=105887032845140708154&rtpof=true&sd=true)
   * [Rapport](https://docs.google.com/document/d/1aru_T9R6SH-N8Gx5HF_E67F5_VzKGTME/edit?usp=sharing&ouid=105887032845140708154&rtpof=true&sd=true)
 
-## Licentie
-> :warning: voeg jullie namen toe in de documenten hieronder en delete dan dit lijntje   
-
+## Licentie  
 This repository contains both software and design materials created as part of an industrial design energineering project at Ghent University.
 
 - **Software and code:** [MIT License](./LICENSE-MIT)  
@@ -85,4 +83,4 @@ This repository contains both software and design materials created as part of a
 You are free to reuse and build upon this work, both commercially and non-commercially, as long as proper attribution is given to the original authors.
 
 ## Bronnen
- [^1]: Thomas, T., & Ritter, A. (2022). Wandering & sundowning in dementia. _Practical Neurology, 21_(3), 36–44.
+Liegeard, J., & Manning, L. (2019). Use of intelligent applications to reduce household food waste. Critical Reviews in Food Science and Nutrition, 60(6), 1048–1061
