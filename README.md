@@ -18,9 +18,13 @@ Bv. “Ik heb dorst, wat kan ik drinken?” en “Zijn er producten die bijna ov
 </p>
 
 ## Introductie
-Het efficiënt gebruiken van de koelkast is essentieel voor de zelfstandigheid van blinden en slechtzienden, maar blijkt in de praktijk vaak problematisch. Onvoldoende communicatie met huisgenoten en zorgverleners, het niet respecteren van de ordening en het moeilijk kunnen controleren van houdbaarheidsdata zorgen geregeld voor verwarring en frustratie. Deze knelpunten kwamen ook duidelijk naar voren in een online bevraging binnen verschillende Facebookgroepen voor blinden en slechtzienden.
-Dit project heeft als doel het ontwikkelen van een slimme koelkast-add-on die deze problemen vermindert en de samenwerking binnen het huishouden ondersteunt. Producten kunnen in het systeem worden geregistreerd, er worden vaste plaatsen toegewezen en houdbaarheidsdata worden bijgehouden. Via een spraakassistent kan de gebruiker eenvoudig informatie opvragen over de inhoud van de koelkast, zoals beschikbare dranken of producten die bijna over datum gaan.
-De oplossing richt zich op zelfstandig wonende blinden en slechtzienden die begeleid worden door een familielid of een professional. De add-on moet gebruiksvriendelijk, betaalbaar en privacyvriendelijk zijn en fungeert als ondersteuning, niet als vervanging van zorg.
+Het efficiënt en zelfstandig gebruiken van huishoudtoestellen is een belangrijke voorwaarde voor autonomie bij blinden en slechtzienden. Toch blijkt het dagelijks gebruik van een koelkast in gedeelde huishoudens vaak problematisch. Moeilijke toegang tot visuele informatie, zoals houdbaarheidsdata en productlabels, gecombineerd met een gebrek aan afstemming met huisgenoten of zorgverleners, leidt regelmatig tot verwarring, voedselverspilling en frustratie. Deze knelpunten kwamen ook duidelijk naar voren in een onlinebevraging binnen verschillende Facebookgroepen voor blinden en slechtzienden.
+
+Dit project situeert zich binnen het domein van assistieve technologie en inclusieve smart home-oplossingen. Het doel is het ontwikkelen van een slimme koelkast add-on die de zelfstandigheid van blinden en slechtzienden ondersteunt en tegelijkertijd de samenwerking binnen het huishouden bevordert. De add-on maakt het mogelijk om producten te registreren, vaste plaatsen toe te wijzen en houdbaarheidsdata bij te houden. Via een spraakassistent kan de gebruiker eenvoudig informatie opvragen over de inhoud van de koelkast, zoals welke dranken beschikbaar zijn of welke producten binnenkort vervallen. Op die manier wordt de cognitieve belasting verminderd en krijgt de gebruiker meer controle over zijn of haar leefomgeving.
+
+“Intelligent applications such as intelligent packaging, intelligent fridges and wider IoT solutions provide opportunities to reduce household food waste.” (Liegeard, J., & Manning, L. 2019)
+
+De oplossing richt zich op zelfstandig wonende blinden en slechtzienden die ondersteund worden door een familielid of professionele begeleider. Belangrijke randvoorwaarden zijn dat het systeem betaalbaar en gebruiksvriendelijk moet zijn. De add-on fungeert nadrukkelijk als ondersteuning en niet als vervanging van menselijke zorg.
 
 ## Inhoudstafel
 
