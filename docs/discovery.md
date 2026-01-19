@@ -1,29 +1,30 @@
 ## Discovery
-De discovery werd opgesplitst in 2 verschillende fases. De eerste fasen was het scopen van onze challenge en een gepast how might we gaan opstellen. Vervolgens gaan we verder met die how might we en gaan we daar verder mee tewerk.   
+De Discovery-fase werd opgesplitst in 2 verschillende fases. De eerste fase was het scopen van onze challenge en een gepast "how might we" opstellen. Vervolgens gaan we verder met die "how might we" en voeren we hier verder onderzoek naar uit.   
 
 ### Doestellingen fase 1
-De doelstelling in de eerste fase is het opstellen van een relevante how might we die binnen onze challenge valt. Hier zoeken we vooral naar een how might we die niet voor de hand ligt, maar die wel een grote impact heeft op de levens van de blinden en slechtzienden.
+De doelstelling in de eerste fase is het opstellen van een relevante "how might we" die binnen onze challenge valt. Hier zoeken we vooral naar een "how might we" die niet voor de hand ligt, maar die wel een grote impact heeft op de levens van blinden en slechtzienden.
 ### Materiaal & methoden fase 1
-1. Interviews (N=3)
-De interviews werden afgenomen bij blinde en slechtziende personen van verschillende leeftijden en met uiteenlopende niveaus van visuele beperking. De gesprekken waren semigestructureerd, zodat er ruimte was voor zowel gerichte vragen als persoonlijke verhalen en ervaringen. Hier verwijzen we graag naar ons interviewprotocol die ook in het verslag staat.
-2. Enquête (N=22)
-De Enquête werd verstuurd in verschillende Facebook groepen: “Blinden en slechtzienden”, “Hulpmiddelen en tips voor blinden en slechtzienden” en “Blinde en slechtziende lotgenoten”. Zowel mannen als vrouwen namen deel van allerlei verschillende leeftijden. Er hebben 22 mensen de enquête ingevuld.
+**1. Interviews (N=3):**
+De interviews werden afgenomen bij blinde en slechtziende personen van verschillende leeftijden en met uiteenlopende gradaties van visuele beperking. De gesprekken waren semigestructureerd, zodat er ruimte was voor zowel gerichte vragen als persoonlijke verhalen en ervaringen. Hier verwijzen we graag naar ons interviewprotocol die ook in het verslag staat.
+
+**2. Enquête (N=22):**
+De enquête werd verstuurd in verschillende Facebook groepen: “Blinden en slechtzienden”, “Hulpmiddelen en tips voor blinden en slechtzienden” en “Blinde en slechtziende lotgenoten”. Zowel mannen als vrouwen namen deel van allerlei verschillende leeftijden. Er hebben in totaal 22 mensen de enquête ingevuld.
 
 ![Grafiek1](/img/Grafiek_Enquête.jpg)
 
-3. Benchmarking
+**3. Benchmarking:**
 In deze benchmark werd onderzocht welke bestaande hulpmiddelen er zijn voor blinden en slechtzienden en hoe deze gebruikmaken van technologie zoals sensoren, spraak, trillingen en navigatie. De focus lag op gebruiksgemak, mate van zelfstandigheid die ze bieden, en de toegankelijkheid in prijs en doelgroep. Het doel was inzicht krijgen in bestaande oplossingen en mogelijke kansen voor nieuwe, toegankelijkere systemen.
 
 ### Resultaten fase 1
-1. Interviews (N=3)
+#### 1. Interviews (N=3)
 
-Blinde en slechtziende personen vertrouwen sterk op structuur. Vaste plekken maken zelfstandigheid mogelijk, terwijl onverwachte veranderingen verwarring veroorzaken. Oriëntatie in openbare ruimtes blijft moeilijk, en bestaande hulpmiddelen bieden niet altijd volledige betrouwbaarheid. Thuis veroorzaken verplaatste spullen en gebrekkige communicatie praktische problemen en stress, waardoor gebruikers hun omgeving liefst zelf organiseren. Toegankelijke informatie via spraak, braille en tastbare signalen zijn belangrijk. Geïntegreerde oplossingen worden boven opvallende hulpmiddelen verkozen. Veel dagelijkse taken vragen extra mentale inspanning.
+Blinde en slechtziende personen vertrouwen sterk op structuur. Herkenbare plekken maken zelfstandigheid mogelijk, terwijl onverwachte veranderingen verwarring veroorzaken. Oriëntatie in openbare ruimtes blijft moeilijk en bestaande hulpmiddelen bieden niet altijd volledige betrouwbaarheid. Thuis veroorzaken verplaatste spullen en gebrekkige communicatie praktische problemen en stress, waardoor gebruikers hun omgeving liefst zelf organiseren. Toegankelijke informatie via spraak, braille en tastbare signalen zijn belangrijk. Geïntegreerde oplossingen worden boven opvallende hulpmiddelen verkozen. Veel dagelijkse taken vragen extra mentale inspanning.
 
 >[!IMPORTANT] 
 > Design Requirements:
 > - D1.1 De oplossing moet de zelfstandigheid van blinden en slechtzienden in het dagelijks gebruik van de koelkast ondersteunen.
 
-2. Enquête (N = 22)
+#### 2. Enquête (N = 22)
 
 Blinde en slechtziende personen vertrouwen vooral op de taststok, smartphones met gespecialiseerde apps en hulpmiddelen zoals loepen, braille-apparaten of spraaklabels voor navigatie en herkenning van voorwerpen. Oriëntatie in nieuwe omgevingen blijft uitdagend door de onvoorspelbaarheid. Thuis ontstaan vaak problemen bij het terugvinden van voorwerpen, vooral in de koelkast en bij kleding, waarvoor structuur helpt. Ongeveer de helft functioneert zelfstandig, de andere helft krijgt regelmatig hulp.
 
@@ -33,9 +34,9 @@ Blinde en slechtziende personen vertrouwen vooral op de taststok, smartphones me
 > - D1.4 De oplossing moet het overzicht over aanwezige producten in de koelkast verbeteren.
 > - D1.7 De oplossing moet laagdrempelig zijn en geen complexe handelingen of technische kennis vereisen.
 
-3. Benchmarking (N=10)
+#### 3. Benchmarking (N=10)
 
-De benchmark onderzocht technologische hulpmiddelen voor blinde en slechtziende personen. Veel producten gebruiken sensoren, spraak, trillingen en AI om obstakels te detecteren. Apps zoals EMVI ondersteunen bij herkenning van voorwerpen en lezen van teksten, terwijl apparaten zoals Wewalk navigatie en oriëntatie verbeteren. Sommige, zoals Lumen Glasses, zijn zeer prijzig anderen, zoals Hoople zijn betaalbaar en robuust. Het aanbod varieert van eenvoudige tactiele oplossingen tot complexe hightech systemen.
+De benchmarkanalyse onderzocht technologische hulpmiddelen voor blinde en slechtziende personen. Veel producten gebruiken sensoren, spraak, trillingen en AI om obstakels te detecteren. Apps zoals EMVI bieden ondersteuning bij herkenning van voorwerpen en lezen van teksten, terwijl apparaten zoals WeWalk navigatie en oriëntatie verbeteren. Sommige, zoals Lumen Glasses, zijn zeer prijzig anderen, zoals Hoople zijn betaalbaar en robuust. Het aanbod varieert van eenvoudige tactiele oplossingen tot complexe hightech systemen.
 
 ![image](/img/benchmarking.jpg)
 
@@ -69,7 +70,7 @@ Quote: “Ik moet vaak dingen weggooien omdat mijn partner vergeet te zeggen dat
 
 Quote: “Het is lastig om de datums op de verpakking te lezen. Daarvoor moet ik echt de vergrootfunctie van mijn iPad gebruiken. Meestal maak ik een foto, zoom ik er nog eens op in en schrijf ik de datum vervolgens met een dikke stift op de verpakking.”
 
-Vaak treden er problemen omtrent communicatie op. Familieleden of begeleiders zetten niet altijd alles op de correcte plaats of ze zeggen niet was is aangevuld of wat juist op is. Producten die bijna vervallen worden ook niet altijd opgemerkt, waardoor dingen vaak overdatum gaan of er schimmel kan ontstaan. Omdat er geen visuele cues zijn, moet de gebruiker elk product aftasten, wat tijdrovend en vermoeiend is.
+Vaak treden er problemen omtrent communicatie op. Familieleden of begeleiders zetten niet altijd alles op de correcte plaats of ze zeggen niet wat is aangevuld of wat juist op is. Producten die bijna vervallen worden ook niet altijd opgemerkt, waardoor dingen vaak overdatum gaan of er schimmel kan ontstaan. Omdat er geen visuele cues zijn, moet de gebruiker elk product aftasten, wat tijdrovend en vermoeiend is.
 
 Welke bestaande technologische hulpmiddelen kunnen helpen bij een toegankelijkere koelkast?
 
@@ -77,9 +78,9 @@ Herkenning van producten kan worden gedaan met AI herkenningsystemen zoals Be My
 
 ![image](/img/Sprintdag.jpg)
 
-Welke niet-technologische hulpmiddelen?
+Welke niet-technologische hulpmiddelen worden er vooral gebruikt?
 
-Vaste indelingsstructuren zoals eerder vermeld. Daarnaast worden tactile markers zoals rubberen noppen, elastiekjes of voelbare stickers vaak gebruikt. Ook eenvoudige hulpmiddelen zoals afspraken met huisgenoten dragen bij aan vlotter gebruik van de koelkast.
+Vaste indelingsstructuren zoals eerder vermeld. Daarnaast worden tactile markers zoals rubberen noppen, elastiekjes of voelbare stickers vaak gebruikt. Ook eenvoudige hulpmiddelen zoals afspraken met huisgenoten dragen bij aan een vlotter gebruik van de koelkast.
 
 > [!IMPORTANT] 
 > Design Requirements:
