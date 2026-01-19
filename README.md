@@ -5,7 +5,7 @@ TasteMate, een slimme koelkastadd-on die het gebruiken van de koelkast vergemakk
 🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
 🌱 Grown at ``Ghent University`` 🏛️ ``Industrial Design Engineering`` ([project overview](https://github.com/basbaccarne/human-centered-design))       
 
-*27/11/2025 van de laatste update*   
+*19/01/2026 van de laatste update*   
 
 ## Samenvatting
 Het efficiënt gebruiken van de koelkast speelt een grote rol in de zelfstandigheid van blinden en slechtzienden. Op dit gebied zijn er, ondanks moderne technologieën nog veel struikelblokken die voor verwarring en frustratie kunnen zorgen. Vooral de samenwerking met zorgkrachten en huisgenoten loopt niet altijd even vlot. Zij weten niet altijd wat er uit de frigo gehaald is of wat juist is aangevuld. Ook de ordening van bepaalde producten in de frigo wordt niet altijd gerespecteerd, waardoor vaak verwarring kan ontstaan. Ten slotte is het bepalen van de houdbaarheidsdata op producten vaak niet evident. Deze problemen werden meerdere malen aangehaald in een online bevraging die verstuurd werd in verschillende Facebookgroepen voor blinden en slechtzienden.
