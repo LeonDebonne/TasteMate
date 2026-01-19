@@ -1,21 +1,21 @@
 ## Definition
 
 ### Doestellingen
-In deze fase van het onderzoek is het de bedoeling om van het gekozen probleem in de discovery fase een concreet concept te maken en het te valideren. Het hoofddoel was om het probleem beter af te bakenen en dieper onderzoek voeren naar de noden en eisen van de gebruikers.  Volgende onderdelen werden verder specifiek bestudeerd.
+In deze fase van het onderzoek is het de bedoeling om van het gekozen probleem in de Discovery-fase een concreet concept te maken en dit te valideren. Het hoofddoel is het probleem beter af bakenen en dieper onderzoek voeren naar de noden en eisen van de gebruikers. Volgende onderdelen werden specifiek bestudeerd.
 
 -	Het gebruik van de koelkast in het dagelijkse leven van een visueel beperkte persoon en de problemen in dit proces.
 -	De interacties tussen het concept en de gebruiker.
 
 ### Materiaal & methoden
 
-De definition fase begon met een sprint-dag. Hier werden enkele ontwerpeisen opgesteld als inzichten van de discovery fase. Uit deze eisen vloeide een storyboard die het proces van het gebruik van de koelkast met ons concept voorstelt.
+De definition fase begon met een sprint-dag. Hier werden enkele ontwerpeisen opgesteld als inzichten van de Discovery-fase. Uit deze eisen vloeide een storyboard die het proces van het gebruik van de koelkast met ons concept voorstelt.
 
 ![Storyboard](/img/Storyboard.jpg) 
 
-Om het concept concreter te maken werd er gewerkt aan de hand van 2 prototyping waves die elke verschillende aspect onderzochten. In deze waves werden prototypes gemaakt en deze werden aan de hand van interviews en gebruikstesten beoordeeld. Op voorhand van deze testen werden er steeds protocollen opgesteld om zo gestructureerd te werkt te kunnen gaan.
+Om het concept concreter te maken werd er gewerkt aan de hand van 2 prototyping waves die elke verschillende aspect onderzochten. In deze waves werden prototypes gemaakt en deze werden aan de hand van interviews en gebruikstesten beoordeeld. Op voorhand van deze testen werden er steeds protocollen opgesteld om zo gestructureerd te werk te kunnen gaan.
 
 #### WAVE 1 
-In wave 1 werd er verder onderzoek gedaan naar de vormgeving van het concept. Dit werd gedaan via 3 verschillende quick-and-dirty prototypes uit karton. Door deze prototypes voor te leggen zonder randinformatie aan visueel beperkte personen en mensen in hun omgeving werden er verschillende inzichten verworven rond de vormgeving. De prototypes werden besproken door de testpersonen via “Thinking Aloud“. Via deze manier ontstond er spontante feedback zonder filter.
+In wave 1 werd er verder onderzoek gedaan naar de vormgeving van het concept. Dit werd gedaan via 3 verschillende quick-and-dirty prototypes uit karton. Door deze prototypes voor te leggen zonder randinformatie aan visueel beperkte personen en mensen in hun omgeving werden er verschillende inzichten verworven rond de vormgeving. De prototypes werden besproken door de testpersonen via een semigestructureerd interview. Via deze manier ontstond er spontante feedback zonder filter.
 
 <p align="center">
 <img src="/img/Prototype1.JPG" width="32%">
@@ -26,7 +26,7 @@ In wave 1 werd er verder onderzoek gedaan naar de vormgeving van het concept. Di
 De kennis en inzichten uit deze wave werden dan meegenomen om het fysiek prototype te maken voor de testen van wave 2.
 
 #### WAVE 2
-Het doel van wave 2 was om onderzoek te voeren naar het interface van het ontwerp en de functies hiervan. Om dit voorstelbaar te maken werden er twee interfaces gemaakt via FigmaMake. Via Wizard of Oz werd er gekeken hoe de doorsnee gebruiker werkte met het interface.
+Het doel van wave 2 is om onderzoek te voeren naar het interface van het ontwerp en de functies hiervan. Om dit voorstelbaar te maken werden er twee interfaces gemaakt via FigmaMake. Door de gebruiker vrij met de prototypes te laten werken werd er gekeken hoe de doorsnee gebruiker gebruik maakt van het interface.
 
 <p align="left">
 <img src="/img/Interface1.png" width="49%">
@@ -50,7 +50,7 @@ De drie prototypes werden voorgelegd en besproken door onze respondenten.  Ook w
 
 **Prototype 2 :** De vorm van het prototype werd positief ontvangen. Het feit dat het scherm kan uitklappen naast de koelkast zodat het concept kan gebruikt worden met een open en een dichte koelkast was ook een belangrijk pluspunt. Het product mocht echter wel groter. De slechtziende testpersoon vond dat het te uitdagend om vlot met het prototype te werken. Er werd wel opgemerkt dat de grootte voor blinden minder een barrière vormt. 
 
-**Prototype 3 :**  De vorm van dit prototype was onhandig om te gebruiken doordat de knoppen die gebruikt worden door de visueel beperkte personen aan de onderkant van de geometrie bevinden. De braille die te vinden was op deze knoppen beviel wel goed. Commentaar hierop was dat het niet per se braille maar, dat het tactiele van de knoppen het belangrijkste is.
+**Prototype 3 :**  De vorm van dit prototype was onhandig om te gebruiken doordat, de knoppen die gebruikt worden door de visueel beperkte personen aan de onderkant van de geometrie bevinden. De braille die te vinden was op deze knoppen beviel wel goed. Commentaar hierop was dat dit niet per se braille moet zijn maar, dat het tactiele van de knoppen het belangrijkste is.
 
 <p align="left">
 <img src="/img/FotoPrototype2.JPEG" width="32%">
@@ -61,7 +61,7 @@ Deze feedback werd geanalyseerd en in een scorematrix gegoten. Zo zijn de beste 
 <p align="center">
 <img src="/img/Tabel Analyse wave1.png" width="50%">
 
-Na meer duiding te geven rondom project werd er ook op gewezen dat een app die gesynchroniseerd is met de slimme koelkast ook van pas kan komen. Het opstellen van boodschappenlijstjes voor visueel beperkte mensen is vaak een drempel. Een app die de inventaris bij houdt is praktischer. Ook is het essentieel dat het product op verschillende koelkasten past.
+Na meer duiding te geven rondom het project werd er ook op gewezen dat een app die gesynchroniseerd is met de slimme koelkast ook van pas kan komen. Het opstellen van boodschappenlijstjes voor visueel beperkte mensen is vaak een drempel. Een app die de inventaris bij houdt is praktischer. Ook is het essentieel dat het product op verschillende koelkasten past.
 
 >[!IMPORTANT] 
 > Design Requirements:
