@@ -6,6 +6,7 @@ De doelstelling in de eerste fase is het opstellen van een relevante "how might 
 ### Materiaal & methoden fase 1
 **1. Interviews (N=3):**
 De interviews werden afgenomen bij blinde en slechtziende personen van verschillende leeftijden en met uiteenlopende niveaus van visuele beperking. De gesprekken waren semigestructureerd, zodat er ruimte was voor zowel gerichte vragen als persoonlijke verhalen en ervaringen. Hier verwijzen we graag naar ons interviewprotocol die ook in het verslag staat.
+
 **2. Enquête (N=22):**
 De enquête werd verstuurd in verschillende Facebook groepen: “Blinden en slechtzienden”, “Hulpmiddelen en tips voor blinden en slechtzienden” en “Blinde en slechtziende lotgenoten”. Zowel mannen als vrouwen namen deel van allerlei verschillende leeftijden. Er hebben 22 mensen de enquête ingevuld.
 
