@@ -10,7 +10,7 @@
 |1.5|De oplossing moet het controleren van houdbaarheidsdata toegankelijk en betrouwbaar maken.|[Discovery](discovery.md)|✅|
 |1.6|De interactie moet primair auditief en intuïtief zijn, zodat visuele input niet noodzakelijk is.|[Discovery](discovery.md)|✅|
 |1.7|De oplossing moet laag­drempelig zijn en geen complexe handelingen of technische kennis vereisen.|[Discovery](discovery.md)|✅|
-|1.8|De oplossing moet functioneren als ondersteuning en mag de gebruiker niet afhankelijk maken van zorgverleners.|[Discovery](discovery.md)|✅|
+|1.8|De oplossing moet functioneren als ondersteuning en mag de zorgverlening niet vervangen, enkel bevorderen.|[Discovery](discovery.md)|✅|
 |1.9|Het product moet betaalbaar zijn voor thuisgebruik.|[Discovery](discovery.md)|❌
 |**Definition**|
 |2.1|Het systeem moet producten kunnen registreren wanneer deze in of uit de koelkast worden geplaatst.|[Definition Wave 1&2](definition.md)|✅|
