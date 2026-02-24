@@ -33,6 +33,7 @@ De oplossing richt zich op zelfstandig wonende blinden en slechtzienden die onde
 3. [Defintion](./docs/definition.md)
 4. [Design Requirements](./docs/design_requirements.md)
 5. [Bill of materials](./docs/bom.md)
+6. [Develop 1](./docs/develop_1.md)
 
 ## Kritische reflectie
 
