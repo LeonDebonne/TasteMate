@@ -16,8 +16,8 @@ De scharnier wordt bij elke verbinding getest bij gesloten stand en open stand. 
 #### Magneten
 Bij het verbinden via magneten bleef het scharnier mooi hangen bij gesloten stand. Echter werd bij het openen van het scharnier duidelijk dat het moment van de massa te groot was en het scharnier langzaam scheef begon te hangen. Dit zou kunnen opgelost worden door nog sterkere magneten te gaan gebruiken, maar dit zou snel de prijs omhoog gaan jagen. Ook zijn magneten enkel mogelijk bij koelkasten die niet ingebouwd zijn.
 <p align="center">
-<img src="/img/develop1.jpg" width="50%" style="display:inline-block;">> 
-<img src="/img/develop12.jpg" width="50%" style="display:inline-block;">>
+<img src="/img/develop1.jpg" width="50%" style="display:inline-block;"> 
+<img src="/img/develop12.jpg" width="50%" style="display:inline-block;">
 
 #### Kleefgum (Pritt Buddies)
 De kleefgum deed zijn werk perfect bij open en gesloten stand van het scharnier. De sterkte van deze kleefgum overtrof onze verwachtingen heel erg. De kleefgum kan wel makkelijker zijn om terug los te maken dan andere verbindingen. De prijs is zeer schappelijk en dus geen probleem.
