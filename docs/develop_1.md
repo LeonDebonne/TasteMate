@@ -10,6 +10,16 @@ Hier werden 3 verschillende soorten verbindingen getest.
 - Kleefgum (Pritt Buddies)
 #### Methodiek
 Voor het testen van de verschillende verbindingen wordt gebruik gemaakt van een gewicht van 500g. Dit gewicht zorgt voor een simulatie van het product dat aan de scharnieren zal moeten hangen.
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="/img/develop1.jpg" width="400">
+    </td>
+    <td align="center">
+      <img src="/img/develop12.jpg" width="400">
+    </td>
+  </tr>
+</table>
 
 De scharnier wordt bij elke verbinding getest bij gesloten stand en open stand. Zo kan zowel de sterkte van de scharnier getest worden alsook de sterkte van de verbinding.
 ### Resulataten
