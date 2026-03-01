@@ -8,4 +8,4 @@ De Define-fase vindt plaats tijdens de laatste zes weken van het semester. In de
 Hierna volgt de Develop-fase. Deze wordt opgedeeld in drie kleinere fasen, elk met hun eigen doelstellingen. Aan het einde van de Develop-fase is het de bedoeling om tot een finaal ontwerp te komen.
 
 In het eerste onderdeel, namelijk Develop 1, evolueert het concept naar een onderbouwde functionele architectuur. Hierbij worden verschillende structuren en modellen aangemaakt om meer inzicht in het product te verkrijgen. Daarnaast vindt een concepttest plaats om enkele ontwerpkeuzes te onderbouwen. Tot slot nemen we interviews af om de noden en eisen van de gebruiker te valideren.
-![TripleDiamondSem1](/img/Group 2.png)
+![TripleDiamondSem1](/img/Group2.png)
