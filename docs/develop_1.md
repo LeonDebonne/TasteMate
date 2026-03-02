@@ -29,5 +29,5 @@ De dubbelzijdige plakband was de makkelijkste manier om het scharnier mooi en re
 <img src="/img/dubbelzijdige2.jpg" width="400"/>
 </p>
 
-### Conclusies & implecaties
+### Conclusies & implicaties
 Zowel de dubbelzijdige tape als de kleefgum waren sterke kandidaten om gebruikt te kunnen worden als verbindingstechniek voor de TasteMate. Echter is er gekozen voor de dubbelzijdige tape. Dit doordat de kleefkracht hier toch een stuk groter was en deze verbindingstechniek zorgde voor een heel makkelijke en correcte bevestiging. Het loskrijgen van deze verbinding is van minder belang omdat het de bedoeling is dat de TasteMate voor een lange periodes (jaren) bevestigt blijft.
