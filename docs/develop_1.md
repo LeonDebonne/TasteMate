@@ -12,7 +12,7 @@ Hier werden 3 verschillende soorten verbindingen getest.
 Voor het testen van de verschillende verbindingen wordt gebruik gemaakt van een gewicht van 500g. Dit gewicht zorgt voor een simulatie van het product dat aan de scharnieren zal moeten bevestigt worden.
 
 De scharnier wordt bij elke verbinding getest bij gesloten stand en open stand. Zo kan zowel de sterkte van de scharnier getest worden alsook de sterkte van de verbinding.
-### Resulataten
+### Resultaten
 #### Magneten
 Bij het verbinden via magneten bleef het scharnier mooi hangen bij gesloten stand. Echter werd bij het openen van het scharnier duidelijk dat het moment van de massa te groot was en het scharnier langzaam scheef begon te hangen. Dit zou kunnen opgelost worden door nog sterkere magneten te gaan gebruiken, maar dit zou snel de prijs omhoog gaan jagen. Ook zijn magneten enkel mogelijk bij koelkasten die niet ingebouwd zijn.
 <p align="center">
@@ -29,5 +29,5 @@ De dubbelzijdige plakband was de makkelijkste manier om het scharnier mooi en re
 <img src="/img/dubbelzijdige2.jpg" width="400"/>
 </p>
 
-### Conculusies & implecaties
+### Conclusies & implecaties
 Zowel de dubbelzijdige tape als de kleefgum waren sterke kandidaten om gebruikt te kunnen worden als verbindingstechniek voor de TasteMate. Echter is er gekozen voor de dubbelzijdige tape. Dit doordat de kleefkracht hier toch een stuk groter was en deze verbindingstechniek zorgde voor een heel makkelijke en correcte bevestiging. Het loskrijgen van deze verbinding is van minder belang omdat het de bedoeling is dat de TasteMate voor een lange periodes (jaren) bevestigt blijft.
