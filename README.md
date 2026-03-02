@@ -71,10 +71,10 @@ AI werd gebruikt om onze tekststructuur te verbeteren en ons taalgebruik te fine
 ### Develop 1
 * Concept test bevestiging (N = 3)
   * [Protocol](https://docs.google.com/document/d/e/2PACX-1vQ5ILdNGkCSPqVTiytStXOEiOJM4TjMdFCXSKQb1augADyw9BpXbAz7HJRe_mXLuvI6zYdc-TxWrjU1/pub)
-  * [Rapport]
+  * [Rapport]()
 * Expert interviews
-  * [Protocol] (https://docs.google.com/document/d/e/2PACX-1vRnOCx8b--isjlgTFbTu8J4wsfGugdbRW1AoJMjdhds2cD8gPvfNPVYWJIyrhaHfDMKnT_2cP33iKIK/pub)
-  * [Rapport]
+  * [Protocol](https://docs.google.com/document/d/e/2PACX-1vRnOCx8b--isjlgTFbTu8J4wsfGugdbRW1AoJMjdhds2cD8gPvfNPVYWJIyrhaHfDMKnT_2cP33iKIK/pub)
+  * [Rapport]()
 
 ## Licentie 
 This repository contains both software and design materials created as part of an industrial design energineering project at Ghent University.
