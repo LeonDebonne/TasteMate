@@ -69,11 +69,11 @@ AI werd gebruikt om onze tekststructuur te verbeteren en ons taalgebruik te fine
   * [Rapport](https://docs.google.com/document/d/1aru_T9R6SH-N8Gx5HF_E67F5_VzKGTME/edit?usp=sharing&ouid=105887032845140708154&rtpof=true&sd=true)
 
 ### Develop 1
-* Concept test bevestiging (N = 3)
+* Concept test bevestiging (N=3)
   * [Protocol](https://docs.google.com/document/d/e/2PACX-1vQ5ILdNGkCSPqVTiytStXOEiOJM4TjMdFCXSKQb1augADyw9BpXbAz7HJRe_mXLuvI6zYdc-TxWrjU1/pub)
-  * [Rapport]()
-* Expert interviews
-  * [Protocol](https://docs.google.com/document/d/e/2PACX-1vRnOCx8b--isjlgTFbTu8J4wsfGugdbRW1AoJMjdhds2cD8gPvfNPVYWJIyrhaHfDMKnT_2cP33iKIK/pub)
+  * [Rapport](https://docs.google.com/document/d/e/2PACX-1vR47XYeArb4eWIysHD9ILE3gX5S1hcfoUbw3N7H9VU58sae2Dqq3-ShSmpNV-UUnw9ESvzIbVZow18U/pub)
+* Expert interviews (N=3)
+  * [Protocol](https://docs.google.com/document/d/e/2PACX-1vT5qwDmTJz31Pu7O_5GgxLXhZHN01odxg5vEh5BfgYlWgnNDJRftLWxD9k230-aiaKeoALtmhIkP-6a/pub)
   * [Rapport]()
 
 ## Licentie 
