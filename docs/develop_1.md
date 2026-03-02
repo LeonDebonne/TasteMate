@@ -12,8 +12,6 @@ Hier werden 3 verschillende soorten verbindingen getest.
 Voor het testen van de verschillende verbindingen wordt gebruik gemaakt van een gewicht van 500g. Dit gewicht zorgt voor een simulatie van het product dat aan de scharnieren zal moeten bevestigt worden.
 
 De scharnier wordt bij elke verbinding getest bij gesloten stand en open stand. Zo kan zowel de sterkte van de scharnier getest worden alsook de sterkte van de verbinding.
-[Protocol](/reports%20and%20protocols/Concept%20test%20protocol.docx)
-
 ### Resulataten
 #### Magneten
 Bij het verbinden via magneten bleef het scharnier mooi hangen bij gesloten stand. Echter werd bij het openen van het scharnier duidelijk dat het moment van de massa te groot was en het scharnier langzaam scheef begon te hangen. Dit zou kunnen opgelost worden door nog sterkere magneten te gaan gebruiken, maar dit zou snel de prijs omhoog gaan jagen. Ook zijn magneten enkel mogelijk bij koelkasten die niet ingebouwd zijn.
