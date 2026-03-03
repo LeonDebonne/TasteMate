@@ -1,7 +1,12 @@
 ## Develop 1
 ### Doelstellingen
+Het doel van deze fase is om concept testing uit te voeren en de promise value definieëren. Dit via enkele interviews en fysieke testen. Verder zijn er verschillende structuren toegepast om de interacties en archtectuur van het product vast te stellen. Hierna kan er volledig gefocused worden op het product zelf en de gebruikstesten. Concreet werden volgende punten onderzocht. 
+
 - Onderzoeken welke bevestigingsmethode werkt voor ons product.
-- Extra conceptvalidatie
+- Finaal onderzoek naar valuepromise.
+- Extra conceptvalidatie d.m.v. interviews.
+- Vaststellen productarchitectuur met betrekking tot elektronica.
+
 ### Materiaal & methoden
 #### Verbindingen
 Hier werden 3 verschillende soorten verbindingen getest.
