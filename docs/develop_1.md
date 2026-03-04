@@ -8,15 +8,20 @@ Het doel van deze fase is om concept testing uit te voeren en de promise value d
 - Vaststellen productarchitectuur met betrekking tot elektronica.
 
 ### Materiaal & methoden
-#### Verbindingen
-Hier werden 3 verschillende soorten verbindingen getest.
-- Magneten
-- Dubbelzijdige tape
-- Kleefgum (Pritt Buddies)
-#### Methodiek
-Voor het testen van de verschillende verbindingen wordt gebruik gemaakt van een gewicht van 500g. Dit gewicht zorgt voor een simulatie van het product dat aan de scharnieren zal moeten bevestigt worden.
+Om de productarchitectuur te bepalen, werd een schema opgesteld in Figma. Voor het in kaart brengen van de interacties werden verschillende structuren uitgewerkt. Dit omvat onder andere storyboards en user flows.
+#### Concept test
+Deze test werd uitgevoerd om de meest geschikte bevestigingsmethode voor de koelkast te bepalen. Er werden drie opties gedefinieerd: magneten, dubbelzijdige tape en kleefgum (Pritt Buddies). Met behulp van een zakje zand, dat het product voorstelt wat betreft massa, kan worden getest welke bevestigingsmethode optimaal is.
 
-De scharnier wordt bij elke verbinding getest bij gesloten stand en open stand. Zo kan zowel de sterkte van de scharnier getest worden alsook de sterkte van de verbinding.
+<p align="center">
+  <img src="/img/Scharnier.JPEG" width=50%/>
+
+Het gewicht is verbonden met een scharnier. Op deze manier wordt de bevestigingsmethode in verschillende standen getest. Daarnaast worden ook de sterkte van het scharnier en die van de verbinding geëvalueerd.
+
+#### User interviews (N = 3)
+De gebruikersinterviews hebben als doel de value proposition van het product te bepalen. Daarnaast wordt er gepeild naar feedback over de interface. Dit zorgt ervoor dat er geen essentiële zaken over het hoofd worden gezien. Het betreft semigestructureerde interviews die werden afgenomen volgens het [protocol](https://docs.google.com/document/d/e/2PACX-1vT5qwDmTJz31Pu7O_5GgxLXhZHN01odxg5vEh5BfgYlWgnNDJRftLWxD9k230-aiaKeoALtmhIkP-6a/pub).
+
+Bij de interviews met begeleiders werd gebruik gemaakt van enkele foto’s en een in FigmaMake interface om het product en het probleem duidelijk te schetsen.
+
 ### Resultaten
 #### Magneten
 Bij het verbinden via magneten bleef het scharnier mooi hangen bij gesloten stand. Echter werd bij het openen van het scharnier duidelijk dat het moment van de massa te groot was en het scharnier langzaam scheef begon te hangen. Dit zou kunnen opgelost worden door nog sterkere magneten te gaan gebruiken, maar dit zou snel de prijs omhoog gaan jagen. Ook zijn magneten enkel mogelijk bij koelkasten die niet ingebouwd zijn.
