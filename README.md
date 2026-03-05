@@ -74,7 +74,7 @@ AI werd gebruikt om onze tekststructuur te verbeteren en ons taalgebruik te fine
   * [Rapport](https://docs.google.com/document/d/e/2PACX-1vR47XYeArb4eWIysHD9ILE3gX5S1hcfoUbw3N7H9VU58sae2Dqq3-ShSmpNV-UUnw9ESvzIbVZow18U/pub)
 * Expert interviews (N=3)
   * [Protocol](https://docs.google.com/document/d/e/2PACX-1vT5qwDmTJz31Pu7O_5GgxLXhZHN01odxg5vEh5BfgYlWgnNDJRftLWxD9k230-aiaKeoALtmhIkP-6a/pub)
-  * [Rapport]()
+  * [Rapport](https://docs.google.com/document/d/e/2PACX-1vSvRK79bp2z6k5HUvx2PvZjFKIwNcD5ZVd11kHikQGJ9xtiXwY7O45dNws0hmYpW2Lt67I7f6oeh9VG/pub)
 
 ## Licentie 
 This repository contains both software and design materials created as part of an industrial design energineering project at Ghent University.
