@@ -25,11 +25,11 @@ Bij de interviews met begeleiders werd gebruik gemaakt van enkele foto’s en ee
   <img src="/img/Interface_Develop1.png" widt=100%>
 
 ### Resultaten
-Het schema van de productarchitectuur op het vlak van elektronica werd opgesteld in Figma, volgens een voorbeeld uit de les.
+Het schema van de productarchitectuur op het vlak van elektronica werd opgesteld in Figma, volgens een voorbeeld uit de les. Dit werd ontworpen op basis van de commentaren uit de product pitch.
 <p align="center">
   <img src="/img/Productarchitectuur.png" width=100%/>
 
-Het schema van de productarchitectuur op het vlak van elektronica werd opgesteld in Figma, volgens een voorbeeld uit de les.
+Om de interacties te mappen, werd vertrokken vanuit twee storyboards.
 <p align="left">
   <img src="/img/Storyboard2.png" width=50%/>
 
