@@ -8,7 +8,7 @@ Het doel van deze fase is om concept testing uit te voeren en de promise value d
 - Vaststellen productarchitectuur met betrekking tot elektronica.
 
 ### Materiaal & methoden
-Om de productarchitectuur te bepalen, werd een schema opgesteld in Figma. Voor het in kaart brengen van de interacties werden verschillende structuren uitgewerkt. Dit omvat onder andere storyboards en user flows.
+Om de productarchitectuur te bepalen, werd een schema opgesteld in Figma. Voor het in kaart brengen van de interacties werden verschillende structuren uitgewerkt. Dit omvat onder andere storyboards en user flows. Als laatste werden enkele “Amerikaanse koelkasten” bekeken als benchmarking.
 #### Concept test
 Deze test werd uitgevoerd om de meest geschikte bevestigingsmethode voor de koelkast te bepalen. Er werden drie opties gedefinieerd: magneten, dubbelzijdige tape en kleefgum (Pritt Buddies). Met behulp van een zakje zand, dat het product voorstelt wat betreft massa, kan worden getest welke bevestigingsmethode optimaal is.
 
@@ -23,14 +23,15 @@ De gebruikersinterviews hebben als doel de value proposition van het product te 
 Bij de interviews met begeleiders werd gebruik gemaakt van enkele foto’s en een in FigmaMake interface om het product en het probleem duidelijk te schetsen.
 
 ### Resultaten
-Het schema van de productarchitectuur wat betreft elektronica werd gemaakt in Figma volgens een voorbeeld in de les.
+Het schema van de productarchitectuur op het vlak van elektronica werd opgesteld in Figma, volgens een voorbeeld uit de les.
 <p align="center">
   <img src="/img/Productarchitectuur.png" width=100%/>
 
-Om de interacties te mappen werd er vertrokken vanuit twee storyboards
+Het schema van de productarchitectuur op het vlak van elektronica werd opgesteld in Figma, volgens een voorbeeld uit de les.
 <p align="left">
   <img src="/img/Storyboard2.png" width=50%/>
-Hierna werden volgende structuren opgesteld om een duidelijk beeld te krijgen van de onderliggende redenering bij interacties met het product.
+  
+Vervolgens werden verschillende structuren opgesteld om een duidelijk beeld te krijgen van de onderliggende redenering bij interacties met het product.
 <p align="center">
   <img src="/img/User_Flow.png" width=33%/>
   <img src="/img/HTA.png" width=33%/>
