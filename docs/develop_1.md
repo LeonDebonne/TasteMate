@@ -39,7 +39,7 @@ Vervolgens werden verschillende structuren opgesteld om een duidelijk beeld te k
   <img src="/img/HTA.png" width=33%/>
   <img src="/img/Customer_Journey.png" width=33%/>
 
-#### Concept test (N = 3)
+#### Concept test
 De drie bevestigingsmethoden werden getest met een scharnier en een gewicht dat het product voorstelt.
 
 Bij magneten bleef het systeem stabiel in gesloten stand, maar bij het openen bleek het moment van de massa te groot, waardoor het scharnier scheef begon te hangen. Sterkere magneten zouden dit kunnen oplossen, maar zouden de prijs verhogen en zijn bovendien enkel bruikbaar bij niet-ingebouwde koelkasten.
@@ -54,7 +54,18 @@ De dubbelzijdige tape zorgde voor een stabiele en rechte bevestiging en hield he
 <img src="/img/dubbelzijdige2.jpg" width=24%/>
 </p>
 
-#### User interviews
+#### User interviews (N = 3)
+Er werden drie mogelijke gebruikers geïnterviewd. Eén persoon is visueel beperkt en de andere personen zijn begeleiders van blinde of slechtziende personen. Voor het bijhouden van de inventaris werden suggesties gedaan, zoals het koppelen van het systeem aan een app die kassabonnen opslaat via de klantenkaart van de gebruiker.
+
+Om de houdbaarheidsdata bij te houden, wordt momenteel gebruikgemaakt van Zuzanka, een app die de verpakkingen van producten leest. Deze app zou synchroon kunnen werken met de TastMate, zodat er niet telkens een onbetrouwbare schatting door AI moet worden gemaakt.
+
+**Interface :** De interface werd goed ontvangen door de begeleiders. De functie die het mogelijk maakt om de categorieën naar de gewenste plaats in de koelkast te verslepen, werd als een pluspunt gezien. Ook visueel viel de interface in de smaak.
+
+Er werd wel opgemerkt dat de interface met enkele aanpassingen toegankelijker kan worden gemaakt voor slechtziende personen. Dit kan bijvoorbeeld door een optie toe te voegen die het contrast verhoogt, vergelijkbaar met een donkere modus in een app. Daarnaast werd ook een optie gevraagd om het lettertype te vergroten. Alle drie de respondenten gaven ook aan dat de interface moet werken met schermleessoftware zoals VoiceOver. Wanneer een vinger op het scherm wordt geplaatst, leest de software de tekst onder de vinger voor.
+
+Ten slotte werd vermeld dat de interface instelbaar moet zijn volgens de lay-out van verschillende koelkasten.
+
+
 
 ### Conclusies & implicaties
 Zowel de dubbelzijdige tape als de kleefgum waren sterke kandidaten om gebruikt te kunnen worden als verbindingstechniek voor de TasteMate. Echter is er gekozen voor de dubbelzijdige tape. Dit doordat de kleefkracht hier toch een stuk groter was en deze verbindingstechniek zorgde voor een heel makkelijke en correcte bevestiging. Het loskrijgen van deze verbinding is van minder belang omdat het de bedoeling is dat de TasteMate voor een lange periodes (jaren) bevestigt blijft.
