@@ -17,10 +17,12 @@ Deze test werd uitgevoerd om de meest geschikte bevestigingsmethode voor de koel
 
 Het gewicht is verbonden met een scharnier. Op deze manier wordt de bevestigingsmethode in verschillende standen getest. Daarnaast worden ook de sterkte van het scharnier en die van de verbinding geëvalueerd.
 
-#### User interviews (N = 3)
+#### User interviews
 De gebruikersinterviews hebben als doel de value proposition van het product te bepalen. Daarnaast wordt er gepeild naar feedback over de interface. Dit zorgt ervoor dat er geen essentiële zaken over het hoofd worden gezien. Het betreft semigestructureerde interviews die werden afgenomen volgens het [protocol](https://docs.google.com/document/d/e/2PACX-1vT5qwDmTJz31Pu7O_5GgxLXhZHN01odxg5vEh5BfgYlWgnNDJRftLWxD9k230-aiaKeoALtmhIkP-6a/pub).
 
 Bij de interviews met begeleiders werd gebruik gemaakt van enkele foto’s en een in FigmaMake interface om het product en het probleem duidelijk te schetsen.
+<p align="center">
+  <img src="/img/Interface_Develop1.png" widt=100%>
 
 ### Resultaten
 Het schema van de productarchitectuur op het vlak van elektronica werd opgesteld in Figma, volgens een voorbeeld uit de les.
@@ -37,7 +39,7 @@ Vervolgens werden verschillende structuren opgesteld om een duidelijk beeld te k
   <img src="/img/HTA.png" width=33%/>
   <img src="/img/Customer_Journey.png" width=33%/>
 
-#### Concept test
+#### Concept test (N = 3)
 De drie bevestigingsmethoden werden getest met een scharnier en een gewicht dat het product voorstelt.
 
 Bij magneten bleef het systeem stabiel in gesloten stand, maar bij het openen bleek het moment van de massa te groot, waardoor het scharnier scheef begon te hangen. Sterkere magneten zouden dit kunnen oplossen, maar zouden de prijs verhogen en zijn bovendien enkel bruikbaar bij niet-ingebouwde koelkasten.
@@ -52,6 +54,7 @@ De dubbelzijdige tape zorgde voor een stabiele en rechte bevestiging en hield he
 <img src="/img/dubbelzijdige2.jpg" width=24%/>
 </p>
 
+#### User interviews
 
 ### Conclusies & implicaties
 Zowel de dubbelzijdige tape als de kleefgum waren sterke kandidaten om gebruikt te kunnen worden als verbindingstechniek voor de TasteMate. Echter is er gekozen voor de dubbelzijdige tape. Dit doordat de kleefkracht hier toch een stuk groter was en deze verbindingstechniek zorgde voor een heel makkelijke en correcte bevestiging. Het loskrijgen van deze verbinding is van minder belang omdat het de bedoeling is dat de TasteMate voor een lange periodes (jaren) bevestigt blijft.
