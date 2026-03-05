@@ -46,10 +46,10 @@ De kleefgum (Pritt Buddies) presteerde zeer goed in zowel open als gesloten stan
 
 De dubbelzijdige tape zorgde voor een stabiele en rechte bevestiging en hield het scharnier stevig vast in beide standen. Het nadeel is dat de verbinding moeilijker los te maken is, al is de prijs van de tape wel laag.
 <p align="center">
-  <img src="/img/develop1.jpg" width=25%/>
-  <img src="/img/develop12.jpg" width=25%/>
-  <img src="/img/dubbelzijdige.jpg" width=25%/>
-<img src="/img/dubbelzijdige2.jpg" width=25%/>
+  <img src="/img/develop1.jpg" width=24%/>
+  <img src="/img/develop12.jpg" width=24%/>
+  <img src="/img/dubbelzijdige.jpg" width=24%/>
+<img src="/img/dubbelzijdige2.jpg" width=24%/>
 </p>
 
 
