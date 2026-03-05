@@ -31,9 +31,9 @@ Om de interacties te mappen werd er vertrokken vanuit twee storyboards
 <p align="left">
   <img src="/img/Storyboard2.png" width=50%/>
 Hierna werden volgende structuren opgesteld om een duidelijk beeld te krijgen van de onderliggende redenering bij interacties met het product.
-- [User Flows](/img/User_Flow.png)
-- [HTA](/img/HTA.png)
-- [Customer_Journey](/img/Customer_Journey.png)
+- ![User Flows](/img/User_Flow.png)
+- ![HTA](/img/HTA.png)
+- ![Customer_Journey](/img/Customer_Journey.png)
 
 #### Magneten
 Bij het verbinden via magneten bleef het scharnier mooi hangen bij gesloten stand. Echter werd bij het openen van het scharnier duidelijk dat het moment van de massa te groot was en het scharnier langzaam scheef begon te hangen. Dit zou kunnen opgelost worden door nog sterkere magneten te gaan gebruiken, maar dit zou snel de prijs omhoog gaan jagen. Ook zijn magneten enkel mogelijk bij koelkasten die niet ingebouwd zijn.
