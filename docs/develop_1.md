@@ -70,4 +70,4 @@ Er werd wel opgemerkt dat de interface met enkele aanpassingen toegankelijker ka
 Ten slotte werd vermeld dat de interface instelbaar moet zijn volgens de lay-out van verschillende koelkasten.
 
 ### Conclusies & implicaties
-Zowel de dubbelzijdige tape als de kleefgum waren sterke kandidaten om gebruikt te kunnen worden als verbindingstechniek voor de TasteMate. Echter is er gekozen voor de dubbelzijdige tape. Dit doordat de kleefkracht hier toch een stuk groter was en deze verbindingstechniek zorgde voor een heel makkelijke en correcte bevestiging. Het loskrijgen van deze verbinding is van minder belang omdat het de bedoeling is dat de TasteMate voor een lange periodes (jaren) bevestigt blijft.
+Zowel dubbelzijdige tape als kleefgum waren geschikte opties, maar er is gekozen voor dubbelzijdige tape omdat deze een sterkere hechting en eenvoudigere bevestiging biedt. Het feit dat de verbinding moeilijk los te maken is, vormt geen probleem, aangezien de TasteMate bedoeld is om langdurig (jaren) bevestigd te blijven.
