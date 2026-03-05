@@ -63,6 +63,7 @@ Voor het bijhouden van de inventaris werden suggesties gedaan, zoals het koppele
 
 Om de houdbaarheidsdata bij te houden, wordt momenteel gebruikgemaakt van Zuzanka, een app die de verpakkingen van producten leest. Deze app zou synchroon kunnen werken met de TastMate, zodat er niet telkens een onbetrouwbare schatting door AI moet worden gemaakt.
 
+
 **Interface :** De interface werd goed ontvangen door de begeleiders. De functie die het mogelijk maakt om de categorieën naar de gewenste plaats in de koelkast te verslepen, werd als een pluspunt gezien. Ook visueel viel de interface in de smaak.
 
 Er werd wel opgemerkt dat de interface met enkele aanpassingen toegankelijker kan worden gemaakt voor slechtziende personen. Dit kan bijvoorbeeld door een optie toe te voegen die het contrast verhoogt, vergelijkbaar met een donkere modus in een app. Daarnaast werd ook een optie gevraagd om het lettertype te vergroten. Alle drie de respondenten gaven ook aan dat de interface moet werken met schermleessoftware zoals VoiceOver. Wanneer een vinger op het scherm wordt geplaatst, leest de software de tekst onder de vinger voor.
