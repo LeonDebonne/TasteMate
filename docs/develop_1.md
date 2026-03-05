@@ -23,6 +23,18 @@ De gebruikersinterviews hebben als doel de value proposition van het product te 
 Bij de interviews met begeleiders werd gebruik gemaakt van enkele foto’s en een in FigmaMake interface om het product en het probleem duidelijk te schetsen.
 
 ### Resultaten
+Het schema van de productarchitectuur wat betreft elektronica werd gemaakt in Figma volgens een voorbeeld in de les.
+<p align="center">
+  <img src="/img/Productarchitectuur.png" width=100%/>
+
+Om de interacties te mappen werd er vertrokken vanuit twee storyboards
+<p align="left">
+  <img src="/img/Storyboard2.png" width=50%/>
+Hierna werden volgende structuren opgesteld om een duidelijk beeld te krijgen van de onderliggende redenering bij interacties met het product.
+- [User Flows](/img/User_Flow.png)
+- [HTA](/img/HTA.png)
+- [Customer_Journey](/img/Customer_Journey.png)
+
 #### Magneten
 Bij het verbinden via magneten bleef het scharnier mooi hangen bij gesloten stand. Echter werd bij het openen van het scharnier duidelijk dat het moment van de massa te groot was en het scharnier langzaam scheef begon te hangen. Dit zou kunnen opgelost worden door nog sterkere magneten te gaan gebruiken, maar dit zou snel de prijs omhoog gaan jagen. Ook zijn magneten enkel mogelijk bij koelkasten die niet ingebouwd zijn.
 <p align="center">
