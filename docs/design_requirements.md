@@ -23,6 +23,8 @@
 |2.8|De add-on is compatibel met bestaande koelkasten zonder ingrijpende aanpassingen.|[Definition Wave 1](definition.md)|✅||
 |2.9|Het systeem staat een efficiënte aanpassing van de inhoud toe om de gebruikersretentie te maximaliseren.|[Definition Wave 2](definition.md)|⚠️|
 |2.10|Het systeem bevordert de zelfstandigheid bij het doen van boodschappen.|[Definition Wave 2](definition.md)|⚠️|
-
+|**Develop 1**|
+|3.1|Het systeem laat toe kleurencontrast aan te paasen naar persoonlijke voorkeur gebruiker.|[Develop 1](develop_1.md)|⚠️|
+|3.2|Het systeem is bruikbaar met courante schermleessoftware|[Develop 1](develop_1.md)|⚠️|
 
 
