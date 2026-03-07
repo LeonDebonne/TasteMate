@@ -13,7 +13,7 @@ De definition fase begon met een sprint-dag. Hier werden enkele ontwerpeisen opg
 <p align="center">
 <img src="/img/Storyboard.jpg" width="50%">
 <img src="/img/Storyboard2.png" width="50%">
-<img src="/img/storyboard3.jpg" width="50%">
+<img src="/img/storyboard3.png" width="50%">
 
 
 Om het concept concreter te maken werd er gewerkt aan de hand van 2 prototyping waves die elke verschillende aspect onderzochten. In deze waves werden prototypes gemaakt en deze werden aan de hand van interviews en gebruikstesten beoordeeld. Op voorhand van deze testen werden er steeds protocollen opgesteld om zo gestructureerd te werk te kunnen gaan.

@@ -32,6 +32,7 @@ Het schema van de productarchitectuur op het vlak van elektronica werd opgesteld
 Om de interacties te mappen, werd vertrokken vanuit twee storyboards.
 <p align="left">
   <img src="/img/Storyboard2.png" width=50%/>
+  <img src="/img/storyboard3.png" width=50%>
 
 Vervolgens werden verschillende structuren opgesteld om een duidelijk beeld te krijgen van de onderliggende redenering bij interacties met het product.
 <p align="center">
