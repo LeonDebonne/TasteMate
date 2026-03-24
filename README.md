@@ -34,6 +34,7 @@ De oplossing richt zich op zelfstandig wonende blinden en slechtzienden die onde
 4. [Design Requirements](./docs/design_requirements.md)
 5. [Bill of materials](./docs/bom.md)
 6. [Develop 1](./docs/develop_1.md)
+7. [Develop 2](./docs/develop_2.md)
 
 ## Kritische reflectie
 
@@ -75,6 +76,8 @@ AI werd gebruikt om onze tekststructuur te verbeteren en ons taalgebruik te fine
 * Expert interviews (N=3)
   * [Protocol](https://docs.google.com/document/d/e/2PACX-1vT5qwDmTJz31Pu7O_5GgxLXhZHN01odxg5vEh5BfgYlWgnNDJRftLWxD9k230-aiaKeoALtmhIkP-6a/pub)
   * [Rapport](https://docs.google.com/document/d/e/2PACX-1vSvRK79bp2z6k5HUvx2PvZjFKIwNcD5ZVd11kHikQGJ9xtiXwY7O45dNws0hmYpW2Lt67I7f6oeh9VG/pub)
+
+### Develop 2
 
 ## Licentie 
 This repository contains both software and design materials created as part of an industrial design energineering project at Ghent University.
