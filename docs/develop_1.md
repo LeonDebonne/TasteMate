@@ -31,7 +31,8 @@ Het schema van de productarchitectuur op het vlak van elektronica werd opgesteld
 
 Om de interacties te mappen, werd vertrokken vanuit twee storyboards.
 <p align="left">
-  <img src="/img/Storyboard2.png" width=50%/>
+  <img src="/img/Storyboard2.png" width=49%/>
+  <img src="/img/storyboard3.png" width=49%>
 
 Vervolgens werden verschillende structuren opgesteld om een duidelijk beeld te krijgen van de onderliggende redenering bij interacties met het product.
 <p align="center">
@@ -74,3 +75,8 @@ Ten slotte werd vermeld dat de interface instelbaar moet zijn volgens de lay-out
 Zowel dubbelzijdige tape als kleefgum waren geschikte opties, maar er is gekozen voor dubbelzijdige tape omdat deze een sterkere hechting en eenvoudigere bevestiging biedt. Het feit dat de verbinding moeilijk los te maken is, vormt geen probleem, aangezien de TasteMate bedoeld is om langdurig (jaren) bevestigd te blijven.
 
 Uit de interviews blijkt dat de belangrijkste value promise van het systeem ligt in het toegankelijk maken van informatie op verpakkingen en het overzicht van de aantallen producten in de koelkast. Door deze informatie op een begrijpelijke en toegankelijke manier beschikbaar te maken, kunnen blinde en slechtziende gebruikers zelfstandiger hun voorraad beheren en houdbaarheidsdata opvolgen. Dit vormt de kern van het systeem en bepaalt de meerwaarde ervan voor de doelgroep.
+
+>[!IMPORTANT] 
+> Design Requirements:
+> - D3.1 Het systeem laat toe kleurencontrast aan te paasen naar persoonlijke voorkeur gebruiker.
+> - D3.2 Het systeem is bruikbaar met courante schermleessoftware.
