@@ -10,10 +10,18 @@
 
 - [PLA](https://acproducts.nl/products/creality-pla-filament-hyper-speed-zwart-1-75-mm-1-kg?variant=44574641946888&country=NL&currency=EUR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gad_source=1&gad_campaignid=21757080120&gbraid=0AAAAA9laWPjwtCq8ehyRHu6B47giUap1p&gclid=CjwKCAiA3fnJBhAgEiwAyqmY5WX5hda8K4ar0qeI438SXXRBk4VA-u87_-uYfZlFcHBejJMMdt_4jxoC8iAQAvD_BwE)
 - Zand
+- Magneten
 - Dubbelzijdige tape
 - Pritt kleefgum
 - Plastic zak
 - Plakband
+
+### Develop 2:
+
+- [PLA](https://acproducts.nl/products/creality-pla-filament-hyper-speed-zwart-1-75-mm-1-kg?variant=44574641946888&country=NL&currency=EUR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gad_source=1&gad_campaignid=21757080120&gbraid=0AAAAA9laWPjwtCq8ehyRHu6B47giUap1p&gclid=CjwKCAiA3fnJBhAgEiwAyqmY5WX5hda8K4ar0qeI438SXXRBk4VA-u87_-uYfZlFcHBejJMMdt_4jxoC8iAQAvD_BwE)
+- Lintmeter
+- Werkende GSM
+- Magneten
 
 ### Werkend Prototype:
 
