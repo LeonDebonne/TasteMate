@@ -9,4 +9,6 @@ Hierna volgt de Develop-fase. Deze wordt opgedeeld in drie kleinere fasen, elk m
 
 In het eerste onderdeel, namelijk Develop 1, evolueert het concept naar een onderbouwde functionele architectuur. Hierbij worden verschillende structuren en modellen aangemaakt om meer inzicht in het product te verkrijgen. Daarnaast vindt een concepttest plaats om enkele ontwerpkeuzes te onderbouwen. Tot slot nemen we interviews af om de noden en eisen van de gebruiker te valideren.
 
-![TripleDiamondSem1](/img/Group2.png)
+Het tweede deel van de Develop-fase draait vooral rond het antropometrische aspect van het product. De usability van het gemaakte interface wordt hier ook op de proef gesteld. De gebruiker wordt opgemeten en getest op verschillende vaardigheden met het interface. Als laatste wordt de system usability scale [SUS](https://en.wikipedia.org/wiki/System_usability_scale) ingevuld.
+
+![TripleDiamondSem2](/img/Group3.png)
