@@ -22,6 +22,7 @@
 - Lintmeter
 - Werkende GSM
 - Magneten
+- Lijm + lijmpistool
 
 ### Werkend Prototype:
 
