@@ -1,7 +1,9 @@
 ## Develop 2
 ### Doelstellingen
-- Oriëntering elektronica
+Het hoofdoel van deze deelopdracht is de antropometrie en usability omtrent het product te analyseren. Via gebruikstesten met prototypes worden deze belangerijke pijlers getoetst. Bijkomend wordt er een introductie met Arduino uitgevoerd, meerbepaald het wake-up mechanisme. De finale doelstellingen zijn :
+- Oriëntering elektronica wake-up mechanisme
 - Ergonomics testing
+- Usability analyse
 ### Materialen en methoden
 #### Oriëntering Arduino
 Voor dit onderdeel is het de bedoeling om een systeem te maken met arduino die detecteerd als er een persoon voor de koelkast staat. Vervolgens moet het scherm aangaan en krijgt de gebruiker een audio trigger om te laten weten dat het scherm aangegaan is. Als de persoon gedetecteerd blijft voor het scherm dan blijft het scherm aangeschakeld. Echter als de persoon meer dan 10 seconden weg is schakelt het scherm automatisch weer af.
