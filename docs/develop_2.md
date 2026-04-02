@@ -6,7 +6,7 @@ Het hoofdoel van deze deelopdracht is de antropometrie en usability omtrent het 
 - Usability analyse
 ### Materialen en methoden
 #### Oriëntering Arduino
-Voor dit onderdeel is het de bedoeling om een systeem te maken met arduino die detecteerd als er een persoon voor de koelkast staat. Vervolgens moet het scherm aangaan en krijgt de gebruiker een audio trigger om te laten weten dat het scherm aangegaan is. Als de persoon gedetecteerd blijft voor het scherm dan blijft het scherm aangeschakeld. Echter als de persoon meer dan 10 seconden weg is schakelt het scherm automatisch weer af.
+Voor dit onderdeel is het de bedoeling om een systeem te maken met arduino die detecteerd als er een persoon voor de koelkast staat. Vervolgens moet het scherm aangaan en krijgt de gebruiker een audio trigger om te laten weten dat het scherm aangegaan is. Als de persoon gedetecteerd blijft voor het scherm dan blijft het scherm aangeschakeld. Echter als de persoon meer dan 10 seconden weg is schakelt het scherm automatisch weer af. Er is gebruik gemaakt van enkele arduino componenten zoals de Arduino Uno, een afstandssensor en een buzzer.
 ### Resultaten
 #### Resultaten Arduino
 De code die gebouwd is voor dit systeem is te vinden in de map src.
