@@ -3,7 +3,7 @@
 ### Doelstellingen
 Het hoofdoel van deze deelopdracht is de antropometrie en usability omtrent het product te analyseren. Via gebruikstesten met prototypes worden deze belangerijke pijlers getoetst. Bijkomend wordt er een introductie met Arduino uitgevoerd, meerbepaald het wake-up mechanisme. De finale doelstellingen zijn :
 - Oriëntering elektronica wake-up mechanisme
-- Ergonomics testing
+- Antropometrische testen
 - Usability analyse
 ### Materialen en methoden
 
