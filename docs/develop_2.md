@@ -22,13 +22,6 @@ Met deze interface voeren de testpersonen vier verschillende taken uit, terwijl 
 
 ### Resultaten
 
-#### Oriëntering Arduino
-De code die gebouwd is voor dit systeem is te vinden in de map tests.
-
-Het resultaat is quick en dirty gerealiseerd om zo weinig tijd te verliezen aan het opfleuren van iets dat louter testen van een concept is. 
-<p align="center">
-<img src="/img/Arduino.jpg" width="50%">
-
 #### User tests
 **Antropometirische analyse :**
 
