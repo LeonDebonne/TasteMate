@@ -37,6 +37,7 @@ Hieruit kan worden afgeleid dat 22,5° de meest ideale hoek is. Er is echter gee
 #### User tests (N=4)
 **Antropometirische analyse :**
 Voor de antropometirsche testen zijn er in totaal 10 mensen opgemeten. Zo verkrijgen we een bredere steekproef. Er zijn echter vier mensen die de hele gebruikerstest hebben uitgevoerd. 
+
 **Usability :**
 
 ### Conclusies & implicaties
