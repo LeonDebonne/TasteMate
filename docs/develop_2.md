@@ -27,7 +27,7 @@ De interface voldoet aan enkele GESTALT-wetten. Een voobeeld is de gelijkenissen
 <p align="center">
 <img src="/img/Gestalt.png" width="75%">
 
-#### User tests
+#### User tests (N=4)
 **Antropometirische analyse :**
 
 **Usability :**
