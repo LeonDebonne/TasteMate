@@ -30,7 +30,8 @@ De interface voldoet aan enkele GESTALT-wetten. Een voobeeld is de gelijkenissen
 
 Het antropometrische gedeelte werd vooraf getest met de human Jack in NX. Hierbij wordt het prototype onder verschillende hoeken geplaatst om dit te analyseren met behulp van de comfort analysis in NX. De onderzochte hoeken zijn 0°, 10°, 22,5° en 45°. De belangrijkste parameters zijn die van de nek.
 <p align="center">
-<img src="/img/Human_Jack.jpg" width="75%">
+<img src="/img/Human_Jack.jpg" width="50%">
+
 Hieruit kan worden afgeleid dat 22,5° de meest ideale hoek is. Er is echter geen groot verschil tussen de verschillende standen, waardoor de instellingshoek vooral zal afhangen van de persoonlijke voorkeur van de gebruiker. Daarom is het prototype instelbaar, wat aansluit bij het principe van design for adjustability.
 
 #### User tests (N=4)
