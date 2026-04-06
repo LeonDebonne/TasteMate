@@ -10,6 +10,8 @@ Het hoofdoel van deze deelopdracht is de antropometrie en usability omtrent het 
 #### Oriëntering Arduino
 Voor dit onderdeel is het de bedoeling om een systeem te maken met arduino die detecteerd als er een persoon voor de koelkast staat. Vervolgens moet het scherm aangaan en krijgt de gebruiker een audio trigger om te laten weten dat het scherm aangegaan is. Als de persoon gedetecteerd blijft voor het scherm dan blijft het scherm aangeschakeld. Echter als de persoon meer dan 10 seconden weg is schakelt het scherm automatisch weer af. Er is gebruik gemaakt van enkele arduino componenten zoals de Arduino Uno, een afstandssensor en een buzzer.
 #### User tests
+Vooraf moet worden bepaald welk onderdeel of "touchpoint" er geanalyseerd wordt op vlak van antropometrie en usability. Hiervoor is er een [Excel document](/reports%20and%20protocols/Touchpoints.xlsx) gemaakt. Hieruit bleek dat het scherm de relevantste touchpoint is.
+
 Op de gebruikstesten is gebruikt gemaakt van volgend prototype. Deze kan rond twee assen roteren aan de hand van twee scharnieren die aan elkaar hangen. Zo kan de hoek waaronder men het scherm ziet worden ingesteld alsook het gebruik bij een open koelkast toegankelijk maken.
 <p align="left">
 <img src="/img/Geannoteerde foto.png" width="100%">
