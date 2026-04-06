@@ -3,19 +3,23 @@
 ### Doelstellingen
 Het hoofdoel van deze deelopdracht is de antropometrie en usability omtrent het product te analyseren. Via gebruikstesten met prototypes worden deze belangerijke pijlers getoetst. Bijkomend wordt er een introductie met Arduino uitgevoerd, meerbepaald het wake-up mechanisme. De finale doelstellingen zijn :
 - Oriëntering elektronica wake-up mechanisme
-- Antropometrische testen
-- Usability analyse
+- Optimaliseren antropometrische aspecten
+- Usability analyseren
 ### Materialen en methoden
 
 #### Oriëntering Arduino
 Voor dit onderdeel is het de bedoeling om een systeem te maken met arduino die detecteerd als er een persoon voor de koelkast staat. Vervolgens moet het scherm aangaan en krijgt de gebruiker een audio trigger om te laten weten dat het scherm aangegaan is. Als de persoon gedetecteerd blijft voor het scherm dan blijft het scherm aangeschakeld. Echter als de persoon meer dan 10 seconden weg is schakelt het scherm automatisch weer af. Er is gebruik gemaakt van enkele arduino componenten zoals de Arduino Uno, een afstandssensor en een buzzer.
 #### User tests
-Op de gebruikstesten is gebruikt gemaakt van volgend prototype. Deze kan rond twee assen roteren aan de hand van twee scharnieren die aan elkaar hangen. Zo kan de hoek waaronder men het scherm ziet worden ingesteld alsook het gebruik bij een open koelkasdt toegankelijk maken.
+Op de gebruikstesten is gebruikt gemaakt van volgend prototype. Deze kan rond twee assen roteren aan de hand van twee scharnieren die aan elkaar hangen. Zo kan de hoek waaronder men het scherm ziet worden ingesteld alsook het gebruik bij een open koelkast toegankelijk maken.
 <p align="left">
 <img src="/img/Geannoteerde foto.png" width="100%">
+Bij aanvang van de testen wordt er gevraagd aan de gebruiker om het prototype op een volgens hun optimale hoogte en hoek te hangen. Deze maten samen met de lengte van de testpersoon worden dan later gebruikt voor de antropometrische analyse.
+
 De interface dat gebruikt wordt is die uit Develop 1. Deze is aangepast op feedback uit deze fase. Zo kan het contrast aangepast worden naar verschillende kleuren. Ook is het mogelijk om de lay-out aan te passen naar eigen voorkeur.
 <p align="left">
 <img src="/img/Interface_Develop2.jpg" width="100%">
+Met dit interface worden er vier verschillende taken uitgevoerd door de testpersonen. Dit terwijl het Thinking Aloud Protocol wordt toegepast. Bij afloop van deze taken vullen de testpersonen nog de System Usability Scale in.
+
 ### Resultaten
 
 #### Oriëntering Arduino
