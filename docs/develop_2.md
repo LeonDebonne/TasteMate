@@ -1,26 +1,30 @@
 ## Develop 2
 
 ### Doelstellingen
-Het hoofdoel van deze deelopdracht is de antropometrie en usability omtrent het product te analyseren. Via gebruikstesten met prototypes worden deze belangerijke pijlers getoetst. Bijkomend wordt er een introductie met Arduino uitgevoerd, meerbepaald het wake-up mechanisme. De finale doelstellingen zijn :
-- Oriëntering elektronica wake-up mechanisme
-- Optimaliseren antropometrische aspecten
-- Usability analyseren
+Het hoofddoel van deze deelopdracht is de antropometrie en usability van het product te analyseren. Via gebruikstesten met prototypes worden deze belangrijke pijlers getoetst. Daarnaast wordt een introductie met Arduino uitgevoerd, meer bepaald het wake-upmechanisme. De finale doelstellingen zijn:
+- Oriëntering in de elektronica van het wake-upmechanisme
+- Optimaliseren van de antropometrische aspecten
+- Analyseren van de usability
 ### Materialen en methoden
 
 #### Oriëntering Arduino
-Voor dit onderdeel is het de bedoeling om een systeem te maken met arduino die detecteerd als er een persoon voor de koelkast staat. Vervolgens moet het scherm aangaan en krijgt de gebruiker een audio trigger om te laten weten dat het scherm aangegaan is. Als de persoon gedetecteerd blijft voor het scherm dan blijft het scherm aangeschakeld. Echter als de persoon meer dan 10 seconden weg is schakelt het scherm automatisch weer af. Er is gebruik gemaakt van enkele arduino componenten zoals de Arduino Uno, een afstandssensor en een buzzer.
-#### User tests
-Vooraf moet worden bepaald welk onderdeel of "touchpoint" er geanalyseerd wordt op vlak van antropometrie en usability. Hiervoor is er een [Excel document](/reports%20and%20protocols/Touchpoints.xlsx) gemaakt. Hieruit bleek dat het scherm de relevantste touchpoint is.
+Voor dit onderdeel is het de bedoeling om met Arduino een systeem te maken dat detecteert wanneer er een persoon voor de koelkast staat. Vervolgens moet het scherm aangaan en krijgt de gebruiker een audiotrigger om te laten weten dat het scherm is ingeschakeld.
 
-Op de gebruikstesten is gebruikt gemaakt van volgend prototype. Deze kan rond twee assen roteren aan de hand van twee scharnieren die aan elkaar hangen. Zo kan de hoek waaronder men het scherm ziet worden ingesteld alsook het gebruik bij een open koelkast toegankelijk maken.
+Als de persoon voor het scherm gedetecteerd blijft, blijft het scherm ingeschakeld. Wanneer de persoon echter meer dan 10 seconden weg is, schakelt het scherm automatisch weer uit.
+
+Er is gebruikgemaakt van enkele Arduino-componenten, zoals de Arduino Uno, een afstandssensor en een buzzer.
+#### User tests
+Vooraf moet worden bepaald welk onderdeel of “touchpoint” geanalyseerd wordt op het vlak van antropometrie en usability. Hiervoor werd een [Excel document](/reports%20and%20protocols/Touchpoints.xlsx) opgesteld. Hieruit bleek dat het scherm de relevantste touchpoint is.
+
+Tijdens de gebruikstesten werd het volgende prototype gebruikt. Dit kan rond twee assen roteren met behulp van twee scharnieren die aan elkaar bevestigd zijn. Zo kan de hoek waaronder men het scherm bekijkt worden ingesteld en wordt het gebruik bij een open koelkast toegankelijk gemaakt.
 <p align="left">
 <img src="/img/Geannoteerde foto.png" width="100%">
-Bij aanvang van de testen wordt er gevraagd aan de gebruiker om het prototype op een volgens hun optimale hoogte en hoek te hangen. Deze maten samen met de lengte van de testpersoon worden dan later gebruikt voor de antropometrische analyse.
+Bij aanvang van de testen wordt aan de gebruiker gevraagd om het prototype op een volgens hen optimale hoogte en hoek te plaatsen. Deze maten worden, samen met de lengte van de testpersoon, later gebruikt voor de antropometrische analyse.
 
-De interface dat gebruikt wordt is die uit Develop 1. Deze is aangepast op feedback uit deze fase. Zo kan het contrast aangepast worden naar verschillende kleuren. Ook is het mogelijk om de lay-out aan te passen naar eigen voorkeur.
+De interface die gebruikt wordt, is die uit Develop 1. Deze werd aangepast op basis van feedback uit die fase. Zo kan het contrast worden aangepast naar verschillende kleuren en is het mogelijk om de lay-out naar eigen voorkeur te wijzigen.
 <p align="left">
 <img src="/img/Interface_Develop2.jpg" width="100%">
-Met dit interface worden er vier verschillende taken uitgevoerd door de testpersonen. Dit terwijl het Thinking Aloud Protocol wordt toegepast. Bij afloop van deze taken vullen de testpersonen nog de System Usability Scale in.
+Met deze interface voeren de testpersonen vier verschillende taken uit, terwijl het Thinking Aloud Protocol wordt toegepast. Na afloop van deze taken vullen de testpersonen nog de System Usability Scale in.
 
 ### Resultaten
 
