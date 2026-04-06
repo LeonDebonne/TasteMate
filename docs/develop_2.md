@@ -13,7 +13,9 @@ Voor dit onderdeel is het de bedoeling om een systeem te maken met arduino die d
 Op de gebruikstesten is gebruikt gemaakt van volgend prototype. Deze kan rond twee assen roteren aan de hand van twee scharnieren die aan elkaar hangen. Zo kan de hoek waaronder men het scherm ziet worden ingesteld alsook het gebruik bij een open koelkasdt toegankelijk maken.
 <p align="left">
 <img src="/img/Geannoteerde foto.png" width="100%">
-
+De interface dat gebruikt wordt is die uit Develop 1. Deze is aangepast op feedback uit deze fase. Zo kan het contrast aangepast worden naar verschillende kleuren. Ook is het mogelijk om de lay-out aan te passen naar eigen voorkeur.
+<p align="left">
+<img src="/img/Interface_Develop2.jpg" width="100%">
 ### Resultaten
 
 #### Oriëntering Arduino
@@ -21,7 +23,7 @@ De code die gebouwd is voor dit systeem is te vinden in de map src.
 
 Het resultaat is quick en dirty gerealiseerd om zo weinig tijd te verliezen aan het opfleuren van iets dat louter testen van een concept is. 
 <p align="center">
-<img src="/img/Arduino.jpg" width="100%">
+<img src="/img/Arduino.jpg" width="50%">
 
 #### User tests
 **Antropometirische analyse :**
