@@ -33,10 +33,12 @@ Het resultaat is quick en dirty gerealiseerd om zo weinig tijd te verliezen aan 
 
 #### User tests
 **Antropometirische analyse :**
+
 **Usability :**
 
 ### Conclusies & implicaties
 
 #### User tests
 **Antropometirische analyse :**
+
 **Usability :**
