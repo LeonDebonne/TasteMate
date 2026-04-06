@@ -18,7 +18,7 @@ Deze test werd uitgevoerd om de meest geschikte bevestigingsmethode voor de koel
 Het gewicht is verbonden met een scharnier. Op deze manier wordt de bevestigingsmethode in verschillende standen getest. Daarnaast worden ook de sterkte van het scharnier en die van de verbinding geëvalueerd.
 
 #### User interviews
-De gebruikersinterviews hebben als doel de value proposition van het product te bepalen. Daarnaast wordt er gepeild naar feedback over de interface. Dit zorgt ervoor dat er geen essentiële zaken over het hoofd worden gezien. Het betreft semigestructureerde interviews die werden afgenomen volgens het [protocol](https://docs.google.com/document/d/e/2PACX-1vT5qwDmTJz31Pu7O_5GgxLXhZHN01odxg5vEh5BfgYlWgnNDJRftLWxD9k230-aiaKeoALtmhIkP-6a/pub).
+De gebruikersinterviews hebben als doel de value proposition van het product te bepalen. Daarnaast wordt er gepeild naar feedback over de interface. Dit zorgt ervoor dat er geen essentiële zaken over het hoofd worden gezien. Het betreft semigestructureerde interviews die werden afgenomen volgens een protocol
 
 Bij de interviews met begeleiders werd gebruik gemaakt van enkele foto’s en een in FigmaMake interface om het product en het probleem duidelijk te schetsen.
 <p align="center">
