@@ -5,6 +5,7 @@ Het hoofddoel van deze deelopdracht is de antropometrie en usability van het pro
 - Oriëntering in de elektronica van het wake-upmechanisme
 - Optimaliseren van de antropometrische aspecten
 - Analyseren van de usability
+
 ### Materialen en methoden
 
 Vooraf moet worden bepaald welk onderdeel of “touchpoint” geanalyseerd wordt op het vlak van antropometrie en usability. Hiervoor werd een [Excel document](/reports%20and%20protocols/Touchpoints.xlsx) opgesteld. Hieruit bleek dat het scherm de relevantste touchpoint is. Dit wordt ook nog eens geanalyseerd via de human Jack in Siemens NX.
@@ -29,12 +30,10 @@ De interface voldoet aan enkele GESTALT-wetten. Een voobeeld is de gelijkenissen
 
 #### User tests (N=4)
 **Antropometirische analyse :**
-
+Voor de antropometirsche testen zijn er in totaal 10 mensen opgemeten. Zo verkrijgen we een bredere steekproef. Er zijn echter vier mensen die de hele gebruikerstest hebben uitgevoerd. 
 **Usability :**
 
 ### Conclusies & implicaties
 
 #### User tests
-**Antropometirische analyse :**
 
-**Usability :**
