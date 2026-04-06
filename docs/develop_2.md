@@ -1,18 +1,12 @@
 ## Develop 2
 
 ### Doelstellingen
-Het hoofddoel van deze deelopdracht is de antropometrie en usability van het product te analyseren. Via gebruikstesten met prototypes worden deze belangrijke pijlers getoetst. Daarnaast wordt een introductie met Arduino uitgevoerd, meer bepaald het wake-upmechanisme. De finale doelstellingen zijn:
+Het hoofddoel van deze deelopdracht is de antropometrie en usability van het product te analyseren. Via gebruikstesten met prototypes worden deze belangrijke pijlers getoetst. Daarnaast wordt een introductie met Arduino uitgevoerd, meer bepaald het wake-upmechanisme. Dit is te vinden in de map tests. De finale doelstellingen zijn:
 - Oriëntering in de elektronica van het wake-upmechanisme
 - Optimaliseren van de antropometrische aspecten
 - Analyseren van de usability
 ### Materialen en methoden
 
-#### Oriëntering Arduino
-Voor dit onderdeel is het de bedoeling om met Arduino een systeem te maken dat detecteert wanneer er een persoon voor de koelkast staat. Vervolgens moet het scherm aangaan en krijgt de gebruiker een audiotrigger om te laten weten dat het scherm is ingeschakeld.
-
-Als de persoon voor het scherm gedetecteerd blijft, blijft het scherm ingeschakeld. Wanneer de persoon echter meer dan 10 seconden weg is, schakelt het scherm automatisch weer uit.
-
-Er is gebruikgemaakt van enkele Arduino-componenten, zoals de Arduino Uno, een afstandssensor en een buzzer.
 #### User tests
 Vooraf moet worden bepaald welk onderdeel of “touchpoint” geanalyseerd wordt op het vlak van antropometrie en usability. Hiervoor werd een [Excel document](/reports%20and%20protocols/Touchpoints.xlsx) opgesteld. Hieruit bleek dat het scherm de relevantste touchpoint is.
 
