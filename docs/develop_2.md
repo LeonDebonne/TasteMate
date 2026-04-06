@@ -26,6 +26,7 @@ Met deze interface voeren de testpersonen vier verschillende taken uit, terwijl 
 De interface voldoet aan enkele GESTALT-wetten. Een voobeeld is de gelijkenissen tussen de categorieën. Hierdoor worden ze gegroepeerd en als elementen van Hetzelfde type gezien. Een grondigere analyse is te zien op de afbeelding hieronder.
 <p align="center">
 <img src="/img/Gestalt.png" width="75%">
+
 #### User tests
 **Antropometirische analyse :**
 
