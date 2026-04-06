@@ -42,5 +42,5 @@ Voor de antropometirsche testen zijn er in totaal 10 mensen opgemeten. Zo verkri
 
 ### Conclusies & implicaties
 
-#### User tests
+
 
