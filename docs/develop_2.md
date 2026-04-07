@@ -35,6 +35,8 @@ Het antropometrische gedeelte werd vooraf getest met de human Jack in NX. Hierbi
 <p align="center">
 <img src="/img/Human_Jack.jpg" width="50%">
 
+De hoeken zijn op bovenstaande afbeelding van klein naar groot gerankschikt.
+
 Hieruit kan worden afgeleid dat 22,5° de meest ideale hoek is. Er is echter geen groot verschil tussen de verschillende standen, waardoor de instellingshoek vooral zal afhangen van de persoonlijke voorkeur van de gebruiker. Daarom is het prototype instelbaar, wat aansluit bij het principe van design for adjustability.
 
 Voor de antropometirsche testen zijn er in totaal 10 mensen opgemeten. Zo verkrijgen we een bredere steekproef. Er zijn echter vier mensen die de hele gebruikerstest hebben uitgevoerd. 
