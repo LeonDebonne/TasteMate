@@ -4,7 +4,14 @@
 Het hoofddoel van deze deelopdracht is de antropometrie en usability van het product te analyseren. Via gebruikstesten met prototypes worden deze belangrijke pijlers getoetst. Daarnaast wordt een introductie met Arduino uitgevoerd, meer bepaald het wake-upmechanisme. Dit is te vinden in de map tests. De finale doelstellingen zijn:
 - Oriëntering in de elektronica van het wake-upmechanisme
 - Optimaliseren van de antropometrische aspecten
-- Analyseren van de usability
+- Analyseren van de usability 
+
+Bij dit laatste puntje zijn er ook usability goals opgesteld:
+- Het systeem behaalt een SUS-score van minimum 80.
+- Het product minimaliseert de tijd, het aantal stappen en de cognitieve belasting tijdens gebruik.
+- Na een korte verkenning is het duidelijk hoe er producten toegevoegd en verwijderd worden.
+- Tijdens de taken wordt er macimaal 1 maal ondersteuning aan de onderzoekrs gedaan.
+- De functies van alle knoppen op het interface zijn duidelijk.
 
 ### Materialen en methoden
 
@@ -39,11 +46,28 @@ De hoeken zijn op bovenstaande afbeelding van klein naar groot gerankschikt.
 
 Hieruit kan worden afgeleid dat 22,5° de meest ideale hoek is. Er is echter geen groot verschil tussen de verschillende standen, waardoor de instellingshoek vooral zal afhangen van de persoonlijke voorkeur van de gebruiker. Daarom is het prototype instelbaar, wat aansluit bij het principe van design for adjustability.
 
-Voor de antropometirsche testen zijn er in totaal 10 mensen opgemeten. Zo verkrijgen we een bredere steekproef. Er zijn echter vier mensen die de hele gebruikerstest hebben uitgevoerd. 
+Voor de antropometrische testen werden in totaal 10 mensen opgemeten, zodat een bredere steekproef werd verkregen. Er werd telkens gevraagd om het prototype op de gewenste hoogte en hoek in te stellen.
+Hieruit kwamen twee groepen naar voren: mensen die het op ooghoogte hingen en verticaal met de wand plaatsten, en mensen die het op borsthoogte hingen met het scherm een stukje naar boven gekanteld.
+Dit bevestigt opnieuw onze eerder genomen conclusie dat design for adjustability hier de beste ontwerpmethode is.
 
 **Usability :**
+Voor deze usabilitytest werden vier mensen uit verschillende leeftijdsgroepen geïnterviewd. Na een korte verkenning konden ze de verschillende functies snel gebruiken en terugvinden. De iconen bleken echter niet altijd even duidelijk. Voor de functie om een kassabon te scannen werd bijvoorbeeld gesuggereerd dat een camera-icoon beter zou passen dan het huidige frame-icoon.
+
+Bij het toevoegen van een product of categorie waren er soms geen iconen die deze goed representeerden. Ook werd de grote deleteknop bij de categorieën als storend ervaren. Ten slotte werd gevraagd om een duidelijker bevestigingsicoon op het toetsenbord tijdens het invoeren van producten of categorieën.
+
+<p align="left">
+<img src="/img/Usertest1.JPEG" width="32%">
+<img src="/img/Usertest2.JPEG" width="32%">
+<img src="/img/Usertest3.JPEG" width="32%">
+
+De gebruikers navigeerden zelfzeker door de interface en er was nauwelijks hulp nodig van de onderzoeker. Het systeem behaalde een gemiddelde SUS-score van 81,75, met individuele scores van 82,5, 86, 72,5 en 86. Onze vooraf opgestelde usability-doelstelling van een score van 80 werd dus gehaald. Met de feedback uit deze testen kan de score in de toekomst mogelijk nog verder worden verhoogd.
 
 ### Conclusies & implicaties
 
+De resultaten tonen aan dat het ontwerp zowel op ergonomisch als op gebruiksvlak goed functioneert. Door het systeem instelbaar te maken kan het aangepast worden aan verschillende gebruikers en gebruikssituaties, wat het comfort en de toegankelijkheid vergroot. Daarnaast bevestigen de gebruikstesten dat de interface intuïtief genoeg is om door nieuwe gebruikers vlot te worden gebruikt.
+
+Op basis van de verzamelde feedback zijn er nog enkele optimalisaties mogelijk, voornamelijk op het vlak van visuele duidelijkheid binnen de interface. Echter zijn dit geen grote problemen en kunnen ze snel vermeden worden. Door deze verbeteringen door te voeren kan de algemene gebruikservaring verder verfijnd worden en kan het systeem nog beter aansluiten bij de verwachtingen van de gebruiker.
+
+Alle vooropgestelde usability-goals zijn voldaan door het interface behalve die over de duidelijkheid van de iconen.
 
 
