@@ -9,8 +9,8 @@ Het hoofddoel van deze deelopdracht is de antropometrie en usability van het pro
 Bij dit laatste puntje zijn er ook usability goals opgesteld:
 - Het systeem behaalt een SUS-score van minimum 80.
 - Het product minimaliseert de tijd, het aantal stappen en de cognitieve belasting tijdens gebruik.
-- Na een korte verkenning is het duidelijk hoe er producten toegevoegd en verwijderd worden.
-- Tijdens de taken wordt er macimaal 1 maal ondersteuning aan de onderzoekrs gedaan.
+- Na een korte verkenning is het duidelijk hoe er producten toegevoegd en verwijderd kunnen worden.
+- Tijdens de taken wordt er maximaal 1 maal ondersteuning van de onderzoekers vereist.
 - De functies van alle knoppen op het interface zijn duidelijk.
 
 ### Materialen en methoden
