@@ -72,5 +72,10 @@ Alle vooropgestelde usability-goals zijn voldaan door het interface behalve die 
 
 >[!IMPORTANT] 
 > Design Requirements:
-> - D3.1 Het systeem laat toe kleurencontrast aan te paasen naar persoonlijke voorkeur gebruiker.
-> - D3.2 Het systeem is bruikbaar met courante schermleessoftware.
+> - D4.1 Het product volgt het principe voor design for adjustability.
+> - D4.2 Kritieke acties (zoals verwijderen) vereisen een duidelijke maar niet storende bevestiging om fouten te vermijden.
+> - D4.3 Het systeem vereist minimale fysieke inspanning bij het aanpassen van positie (lage weerstand, intuïtieve scharnieren).
+> - D4.4 Alle iconen op de interface zijn eenduidig en semantisch herkenbaar zonder uitleg.
+> - D4.5 Het systeem bevat consistentie en visuele hiërarchie volgens Gestalt-principes.
+> - D4.6 Navigatie door het systeem vereist geen voorafgaande training of uitleg.
+> - D4.7 De interface moet een SUS-score > 80 behalen.
