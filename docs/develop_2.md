@@ -31,18 +31,18 @@ De interface die gebruikt wordt, is die uit Develop 1. Deze werd aangepast op ba
 Met deze interface voeren de testpersonen vier verschillende taken uit, terwijl het Thinking Aloud Protocol wordt toegepast. Na afloop van deze taken vullen de testpersonen nog de System Usability Scale in.
 
 ### Resultaten
-De interface voldoet aan enkele GESTALT-wetten. Een voobeeld is de gelijkenissen tussen de categorieën. Hierdoor worden ze gegroepeerd en als elementen van Hetzelfde type gezien. Een grondigere analyse is te zien op de afbeelding hieronder.
+De interface voldoet aan enkele GESTALT-wetten. Een voorbeeld is de gelijkenissen tussen de categorieën. Hierdoor worden ze gegroepeerd en als elementen van Hetzelfde type gezien. Een grondigere analyse is te zien op de afbeelding hieronder.
 <p align="center">
 <img src="/img/Gestalt.png" width="75%">
 
 
 #### User tests (N=4)
-**Antropometirische analyse :**
+**Antropometrische analyse :**
 Het antropometrische gedeelte werd vooraf getest met de human Jack in NX. Hierbij wordt het prototype onder verschillende hoeken geplaatst om dit te analyseren met behulp van de comfort analysis in NX. De onderzochte hoeken zijn 0°, 10°, 22,5° en 45°. De belangrijkste parameters zijn die van de nek.
 <p align="center">
 <img src="/img/Human_Jack.jpg" width="50%">
 
-De hoeken zijn op bovenstaande afbeelding van klein naar groot gerankschikt.
+De hoeken zijn op bovenstaande afbeelding van klein naar groot gerangschikt.
 
 Hieruit kan worden afgeleid dat 22,5° de meest ideale hoek is. Er is echter geen groot verschil tussen de verschillende standen, waardoor de instellingshoek vooral zal afhangen van de persoonlijke voorkeur van de gebruiker. Daarom is het prototype instelbaar, wat aansluit bij het principe van design for adjustability.
 
