@@ -70,4 +70,7 @@ Op basis van de verzamelde feedback zijn er nog enkele optimalisaties mogelijk, 
 
 Alle vooropgestelde usability-goals zijn voldaan door het interface behalve die over de duidelijkheid van de iconen.
 
-
+>[!IMPORTANT] 
+> Design Requirements:
+> - D3.1 Het systeem laat toe kleurencontrast aan te paasen naar persoonlijke voorkeur gebruiker.
+> - D3.2 Het systeem is bruikbaar met courante schermleessoftware.
