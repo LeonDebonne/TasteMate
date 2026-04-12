@@ -9,8 +9,8 @@ Het hoofddoel van deze deelopdracht is de antropometrie en usability van het pro
 Bij dit laatste puntje zijn er ook usability goals opgesteld:
 - Het systeem behaalt een SUS-score van minimum 80.
 - Het product minimaliseert de tijd, het aantal stappen en de cognitieve belasting tijdens gebruik.
-- Na een korte verkenning is het duidelijk hoe er producten toegevoegd en verwijderd worden.
-- Tijdens de taken wordt er macimaal 1 maal ondersteuning aan de onderzoekrs gedaan.
+- Na een korte verkenning is het duidelijk hoe er producten toegevoegd en verwijderd kunnen worden.
+- Tijdens de taken wordt er maximaal 1 maal ondersteuning van de onderzoekers vereist.
 - De functies van alle knoppen op het interface zijn duidelijk.
 
 ### Materialen en methoden
@@ -31,18 +31,18 @@ De interface die gebruikt wordt, is die uit Develop 1. Deze werd aangepast op ba
 Met deze interface voeren de testpersonen vier verschillende taken uit, terwijl het Thinking Aloud Protocol wordt toegepast. Na afloop van deze taken vullen de testpersonen nog de System Usability Scale in.
 
 ### Resultaten
-De interface voldoet aan enkele GESTALT-wetten. Een voobeeld is de gelijkenissen tussen de categorieën. Hierdoor worden ze gegroepeerd en als elementen van Hetzelfde type gezien. Een grondigere analyse is te zien op de afbeelding hieronder.
+De interface voldoet aan enkele GESTALT-wetten. Een voorbeeld is de gelijkenissen tussen de categorieën. Hierdoor worden ze gegroepeerd en als elementen van Hetzelfde type gezien. Een grondigere analyse is te zien op de afbeelding hieronder.
 <p align="center">
 <img src="/img/Gestalt.png" width="75%">
 
 
 #### User tests (N=4)
-**Antropometirische analyse :**
+**Antropometrische analyse :**
 Het antropometrische gedeelte werd vooraf getest met de human Jack in NX. Hierbij wordt het prototype onder verschillende hoeken geplaatst om dit te analyseren met behulp van de comfort analysis in NX. De onderzochte hoeken zijn 0°, 10°, 22,5° en 45°. De belangrijkste parameters zijn die van de nek.
 <p align="center">
 <img src="/img/Human_Jack.jpg" width="50%">
 
-De hoeken zijn op bovenstaande afbeelding van klein naar groot gerankschikt.
+De hoeken zijn op bovenstaande afbeelding van klein naar groot gerangschikt.
 
 Hieruit kan worden afgeleid dat 22,5° de meest ideale hoek is. Er is echter geen groot verschil tussen de verschillende standen, waardoor de instellingshoek vooral zal afhangen van de persoonlijke voorkeur van de gebruiker. Daarom is het prototype instelbaar, wat aansluit bij het principe van design for adjustability.
 
@@ -70,4 +70,12 @@ Op basis van de verzamelde feedback zijn er nog enkele optimalisaties mogelijk, 
 
 Alle vooropgestelde usability-goals zijn voldaan door het interface behalve die over de duidelijkheid van de iconen.
 
-
+>[!IMPORTANT] 
+> Design Requirements:
+> - D4.1 Het product volgt het principe voor design for adjustability.
+> - D4.2 Kritieke acties (zoals verwijderen) vereisen een duidelijke maar niet storende bevestiging om fouten te vermijden.
+> - D4.3 Het systeem vereist minimale fysieke inspanning bij het aanpassen van positie (lage weerstand, intuïtieve scharnieren).
+> - D4.4 Alle iconen op de interface zijn eenduidig en semantisch herkenbaar zonder uitleg.
+> - D4.5 Het systeem bevat consistentie en visuele hiërarchie volgens Gestalt-principes.
+> - D4.6 Navigatie door het systeem vereist geen voorafgaande training of uitleg.
+> - D4.7 De interface moet een SUS-score > 80 behalen.
