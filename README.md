@@ -1,4 +1,4 @@
-# TasteMate
+# TasteMate test
 TasteMate, een slimme koelkastadd-on die het gebruiken van de koelkast vergemakkelijkt voor blinden en slechtzienden. 
 
 🛠️ Built by ``Leon Debonne`` & ``Staf Logie``   
