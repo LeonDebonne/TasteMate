@@ -13,7 +13,7 @@ Bij dit laatste puntje zijn er ook usability goals opgesteld:
 - Tijdens de taken wordt er maximaal 1 maal ondersteuning van de onderzoekers vereist.
 - De functies van alle knoppen op het interface zijn duidelijk.
 
-### Materialen en methoden
+### Materialen & methoden
 
 Vooraf moet worden bepaald welk onderdeel of “touchpoint” geanalyseerd wordt op het vlak van antropometrie en usability. Hiervoor werd een [Excel document](/reports%20and%20protocols/Touchpoints.xlsx) opgesteld. Hieruit bleek dat het scherm de relevantste touchpoint is. Dit wordt ook nog eens geanalyseerd via de human Jack in Siemens NX.
 
