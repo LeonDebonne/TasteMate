@@ -30,7 +30,7 @@ De oplossing richt zich op zelfstandig wonende blinden en slechtzienden die onde
 
 1. [Methodologie](./docs/methodologie.md)
 2. [Discovery](./docs/discovery.md)
-3. [Defintion](./docs/definition.md)
+3. [Definition](./docs/definition.md)
 4. [Develop 1](./docs/develop_1.md)
 5. [Develop 2](./docs/develop_2.md)
 6. [Develop 3](./docs/develop_3.md)
