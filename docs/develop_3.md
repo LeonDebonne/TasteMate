@@ -63,6 +63,7 @@ De test verloopt in vier delen. Na een korte inleiding waarbij het project wordt
 <img src="/img/CMF-board.png" width="75%">
 
 **Evaluatievragenlijst:** De test wordt afgesloten met een korte vragenlijst waarbij elke variant beoordeeld wordt op een schaal van 1 tot 5:
+<p align="center">
 
 | **Criterium** | **1** | **2** | **3** | **4** | **5** | **6** |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -71,6 +72,8 @@ De test verloopt in vier delen. Na een korte inleiding waarbij het project wordt
 | Colorpallet (1–5) | | | | | | |
 | Vorm knop (1–5) | | | | | | |
 | Algemene voorkeur (1–5) | | | | | | |
+
+</p>
 
 ### Resultaten
 ### Conclusies & implicaties
