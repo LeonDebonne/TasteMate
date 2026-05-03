@@ -17,28 +17,60 @@ Bij dit laatste puntje zijn er ook usability goals opgesteld:
 
 ### Materialen & methoden
 
-Voor deze fase worden minimaal drie prototypevarianten ontwikkeld die onderling verschillen op het vlak van kleur, materiaal en/of afwerking. De testpersonen worden gevraagd de varianten te bekijken, aan te raken en te beoordelen aan de hand van twee methodes die elkaar aanvullen.
+Voor deze fase worden minimaal drie prototypevarianten ontwikkeld die onderling verschillen op het vlak van kleur, materiaal en/of afwerking. De respondenten vormen een gevarieerde steekproef wat betreft leeftijd, achtergrond en vertrouwdheid met het producttype. Conform de vereisten van deze testronde wordt de test uitgevoerd met minimaal de groepsgrootte + 2 respondenten. Er wordt gestreefd naar een evenwichtige verdeling van geslacht en leeftijdscategorie.
 
-De eerste methode is het **Thinking Aloud Protocol (TAP)**. Tijdens de interactie met de prototypes worden testpersonen gevraagd luidop te denken. Zo worden spontane reacties, associaties en twijfels op het vlak van kleur, materiaal en afwerking in real time gevolgd. Per variant wordt ingegaan op de kleurkeuze en de bijbehorende gevoelens, de kwaliteits- en duurzaamheidsbeleving van het materiaal, de hygiënische en esthetische indruk van de afwerking, en de combinatie als geheel.
+De test verloopt in vier delen. Na een korte inleiding waarbij het project wordt toegelicht en het informed consent formulier ondertekend wordt, doorlopen we de volgende onderdelen.
 
-De tweede methode is de **vergelijkende evaluatie via een CMF-board**. Na de individuele beoordeling per variant worden de varianten naast elkaar geplaatst en rangschikt de testpersoon ze per CMF-categorie van meest naar minst voorkeur. Daarnaast kan de testpersoon zelf gewenste combinaties samenstellen door elementen van verschillende varianten te combineren op het CMF-board.
-
-<p align="center">
-<img src="/img/CMF-board.png" width="75%">
-
-Tot slot vult elke testpersoon een korte **evaluatievragenlijst** in, waarbij elke variant beoordeeld wordt op vormgeving, materiaal, colorpallet, knopvorm en algemene voorkeur op een schaal van 1 tot 5.
-
-De respondenten vormen een gevarieerde steekproef wat betreft leeftijd, achtergrond en vertrouwdheid met het producttype. Conform de vereisten van deze testronde wordt de test uitgevoerd met minimaal de groepsgrootte + 2 respondenten. Er wordt gestreefd naar een evenwichtige verdeling van geslacht en leeftijdscategorie.
-
-Aan het begin van de test worden de onderzoekers en het project kort voorgesteld en ondertekent de testpersoon het informed consent formulier. Vervolgens krijgt de testpersoon de tijd om de zes verschillende vormgevingsvarianten rustig te bekijken en aan te raken, waarbij de eerste indruk wordt gedeeld.
+**Oriëntatie & eerste indruk:** De testpersoon krijgt de tijd om de zes vormgevingsvarianten rustig te bekijken en te betasten. Hierbij worden volgende vragen gesteld:
+- Wat is uw eerste indruk bij het zien van de varianten?
+- Welke variant trekt meteen uw aandacht? Waarom?
+- Welke variant spreekt u het minste aan? Waarom?
 
 <p align="center">
 <img src="/img/CMF-types.png" width="75%">
 
-Daarna volgt de gedetailleerde CMF-evaluatie via TAP, de vergelijkende evaluatie op het CMF-board en tot slot de evaluatievragenlijst.
+**Gedetailleerde CMF-evaluatie (TAP):** Via het Thinking Aloud Protocol wordt elke variant afzonderlijk besproken. De testpersoon denkt luidop terwijl hij of zij elke variant bekijkt en betast. Per variant wordt ingegaan op de drie CMF-aspecten:
+
+*Kleur:*
+- Hoe ervaart u de kleurkeuze van deze variant?
+- Voelt de kleur passend bij het product en de context waarvoor het dient?
+- Welke gevoelens of associaties roept de kleur op?
+- Zou u de kleur als prettig bestempelen voor dagelijks gebruik?
+
+*Materiaal:*
+- Hoe voelt het materiaal aan?
+- Geeft het materiaal een gevoel van kwaliteit en duurzaamheid?
+- Zijn er materialen die u meer of minder vertrouwen geven?
+- Welk materiaal past het beste bij uw verwachting van dit product?
+
+*Afwerking:*
+- Hoe beoordeelt u de afwerking van de oppervlakken (mat, glanzend, gestructureerd...)?
+- Vindt u de afwerking hygiënisch en onderhoudsvriendelijk ogen?
+- Sluit de afwerking aan bij de sfeer en het gebruik van het product?
+
+*Geheel:*
+- Hoe ervaart u de combinatie van kleur, materiaal en afwerking als geheel?
+- Welke variant ziet er het meest professioneel uit?
+- Welke variant zou u thuis willen hebben? En waarom?
+
+**Vergelijkende evaluatie:** De varianten worden naast elkaar gelegd en vergeleken. De testpersoon rangschikt de varianten per CMF-categorie van meest naar minst voorkeur en stelt zelf gewenste combinaties samen op het CMF-board:
+- Rangschik de varianten van meest naar minst voorkeur op vlak van kleur.
+- Rangschik de varianten van meest naar minst voorkeur op vlak van materiaal.
+- Rangschik de varianten van meest naar minst voorkeur op vlak van afwerking.
+- Zijn er combinaties die u zou willen samenvoegen (kleur van variant X + materiaal van variant Y)?
+
+<p align="center">
+<img src="/img/CMF-board.png" width="75%">
+
+**Evaluatievragenlijst:** De test wordt afgesloten met een korte vragenlijst waarbij elke variant beoordeeld wordt op een schaal van 1 tot 5:
+
+| **Criterium** | **1** | **2** | **3** | **4** | **5** | **6** |
+| --- | --- | --- | --- | --- | --- | --- |
+| Vormgeving (1–5) | | | | | | |
+| Materiaal (1–5) | | | | | | |
+| Colorpallet (1–5) | | | | | | |
+| Vorm knop (1–5) | | | | | | |
+| Algemene voorkeur (1–5) | | | | | | |
 
 ### Resultaten
-
-
 ### Conclusies & implicaties
-
