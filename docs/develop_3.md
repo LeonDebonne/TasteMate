@@ -3,7 +3,7 @@
 In deze deelopdracht wordt gefocust op de CMF-analyse (Colour, Material & Finish) van het product. Via gebruikstesten met verschillende prototypevarianten worden ontwerpbeslissingen gevalideerd op vlak van kleur, materiaal en afwerking. Op basis van de testresultaten wordt het finale ontwerp vastgelegd.
 
 ### Doelstellingen
-Het hoofddoel van deze deelopdracht is het valideren van de definitieve ontwerpbeslissingen op het vlak van **Colour, Material & Finish (CMF)**. Via gebruikstesten met meerdere prototypevarianten worden de esthetische en materiële keuzes getoetst bij de doelgroep. Op basis van de resultaten wordt het finale ontwerp vastgelegd.
+Het hoofddoel van deze deelopdracht is het valideren van de definitieve ontwerpbeslissingen op het vlak van CMF. Via gebruikstesten met meerdere prototypevarianten worden de esthetische en materiële keuzes getoetst bij de doelgroep. Op basis van de resultaten wordt het finale ontwerp vastgelegd.
 
 De finale doelstellingen zijn:
 - Valideren van de CMF-keuzes aan de hand van gebruikersvoorkeuren
