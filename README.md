@@ -83,6 +83,11 @@ AI werd gebruikt om onze tekststructuur te verbeteren en ons taalgebruik te fine
 * User test (N=4)
   * [Protocol](https://docs.google.com/document/d/e/2PACX-1vSZAIsG-67mNmNAeyc7hR0xE32fgY2YTjmxxFuSa4Wrfsae-_UYOLSROmIYCnQvqXG1CrvmCIasRkVt/pub)
   * [Rapport](https://docs.google.com/document/d/e/2PACX-1vSd7Mb4eXCC1kvDG9D2kJRvHZshqICP1pkpbPtWgAk5q2GEnKnOpCg0xRPsQOpQLasvUqzuRUvRHjwG/pub)
+
+### Develop 3
+* CMF test
+  * [Protocol]()
+  * [Rapport]()
 ## Licentie 
 This repository contains both software and design materials created as part of an industrial design energineering project at Ghent University.
 
