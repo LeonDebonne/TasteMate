@@ -15,7 +15,7 @@ De doelstellingen van deze deelopdracht zijn:
 
 Voor deze fase werden prototypevarianten ontwikkeld die onderling verschillen op het vlak van vorm, materiaal en afwerking. De respondenten vormen een gevarieerde steekproef wat betreft leeftijd, achtergrond en vertrouwdheid met het producttype. Er wordt gestreefd naar een evenwichtige verdeling van geslacht en leeftijdscategorie.
 
-Na een korte inleiding waarbij het project wordt toegelicht en het informed consent formulier ondertekend wordt, krijgt de testpersoon de tijd om de prototypevarianten rustig te bekijken en de materialen te voelen. Hierbij wordt gepeild naar de eerste indruk: welke variant trekt meteen de aandacht en welke spreekt het minste aan.
+Na een korte inleiding waarbij het project wordt toegelicht. Krijgt de testpersoon de tijd om de prototypevarianten rustig te bekijken en de materialen te voelen. Hierbij wordt gepeild naar de eerste indruk: welke variant trekt meteen de aandacht en welke spreekt het minste aan.
 
 De fysieke prototypes bestaan uit drie componenten:
 - **Behuizingsvorm** (3 varianten): van vierkant met scherpe randen tot sterk afgerond, geprint in zwart kunststof.
@@ -26,6 +26,8 @@ De fysieke prototypes bestaan uit drie componenten:
 <img src="/img/CMF_opties.jpg" width="75%">
 
 Vervolgens wordt via het Thinking Aloud Protocol (TAP) elke variant afzonderlijk en in detail besproken op vlak van kleur, materiaal en afwerking. De testpersoon denkt luidop en gaat dieper in op de beleving bij elk CMF-aspect. Zo wordt bijvoorbeeld gevraagd of de kleur passend aanvoelt bij de context van het product, of het materiaal een gevoel van kwaliteit en duurzaamheid uitstraalt, en of de afwerking hygiënisch en onderhoudsvriendelijk oogt.
+
+Voor het exploreren van verschillende CMF-iteraties werden digitale conceptvarianten gegenereerd met behulp van [Vizcom](https://app.vizcom.com/workbench/dc0de77b-4444-438e-a90e-edc5628e1e74#sharing_secret=6475565b-30eb-40a4-882c-73e90d144d48). Deze tool maakte het mogelijk om snel uiteenlopende combinaties van kleur, materiaal en afwerking te visualiseren en onderling te vergelijken. Op basis van deze gegenereerde varianten werd het uiteindelijke CMF-board samengesteld met de meest relevante en veelbelovende opties voor gebruikerstesten.
 
 De testpersoon rangschikt de varianten per CMF-categorie en stelt zelf gewenste combinaties samen op het CMF-board, waarbij elementen van verschillende varianten vrij gecombineerd kunnen worden.
 
