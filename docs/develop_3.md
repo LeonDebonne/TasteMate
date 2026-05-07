@@ -62,7 +62,7 @@ Bij de knopelementen werd de rangschikking bepaald op basis van het tactiele ele
 
 De beslissingsmatrix werd gemiddeld als volgt ingevuld:
 
-| **Criterium** | **1** | **2** | **3** | **4** | **5** | **6** |
+| **Criterium** | **Test 1** | **Test 2** | **Test 3** | **Test 4** | **Test 5** | **Test 6** |
 | --- | --- | --- | --- | --- | --- | --- |
 | Vormgeving (1–5) | 4 | 5 | 3 | 5 | 1 | 2 |
 | Materiaal (1–5) | 5 | 4 | 4 | 5 | 1 | 2 |
