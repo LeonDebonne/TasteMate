@@ -79,7 +79,7 @@ De door de gebruikers genoemde referentiemerken waren Bang & Olufsen, Sonos, Phi
 <img src="/img/referentiemerken.png" width="75%">
 
 <p align="center">
-<img src="/img/kernbevindingen.png" width="75%">
+<img src="/img/kernverbindingen.png" width="75%">
 
 ### Conclusies & implicaties
 
