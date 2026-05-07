@@ -11,11 +11,6 @@ De doelstellingen van deze deelopdracht zijn:
 - Het identificeren van kleur-, materiaal- en afwerkingscombinaties die het best aansluiten bij de verwachtingen van de gebruiker
 - Het onderzoeken van mogelijke patronen in gebruikersvoorkeuren op basis van contextfactoren, zoals woonomgeving of huiselijke samenstelling
 
-Daarnaast werden volgende usability goals opgesteld:
-- De meerderheid van de respondenten verkiest dezelfde CMF-variant als meest kwalitatief aanvoelend.
-- De gekozen materialen en kleuren worden als intuïtief en passend ervaren binnen de productcontext.
-- Indien geen duidelijke meerderheidsfavoriet naar voren komt, kan een onderliggend patroon in de voorkeuren van gebruikers worden geïdentificeerd (bv. interieurstijl of keukenomgeving).
-
 ### Materialen & methoden
 
 Voor deze fase werden prototypevarianten ontwikkeld die onderling verschillen op het vlak van vorm, materiaal en afwerking. De respondenten vormen een gevarieerde steekproef wat betreft leeftijd, achtergrond en vertrouwdheid met het producttype. Er wordt gestreefd naar een evenwichtige verdeling van geslacht en leeftijdscategorie.
