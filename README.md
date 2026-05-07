@@ -85,6 +85,12 @@ AI werd gebruikt om onze tekststructuur te verbeteren en ons taalgebruik te fine
   * [Rapport](https://docs.google.com/document/d/e/2PACX-1vSd7Mb4eXCC1kvDG9D2kJRvHZshqICP1pkpbPtWgAk5q2GEnKnOpCg0xRPsQOpQLasvUqzuRUvRHjwG/pub)
 
 ### Develop 3
+* User test (N=6)
+  * [Protocol](CMF_user_test_protocol.docx)
+  * [Rapport](CMF_user_test_rapport.docx)
+  * CMF exploratie & varianten werden gegenereerd met behulp van Vizcom ([vizcom.ai](https://www.vizcom.ai)) en verwerkt in het CMF-board voor user testing.
+
+### Develop 3
 * CMF test
   * [Protocol]()
   * [Rapport]()
