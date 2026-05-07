@@ -1,28 +1,34 @@
 ## Develop 3
 
-In deze deelopdracht wordt gefocust op de CMF-analyse (Colour, Material & Finish) van het product. Via gebruikstesten met verschillende prototypevarianten worden ontwerpbeslissingen gevalideerd op vlak van kleur, materiaal en afwerking. Op basis van de testresultaten wordt het finale ontwerp vastgelegd.
+In deze deelopdracht wordt gefocust op de CMF-analyse (Colour, Material & Finish) van het product. Aan de hand van gebruikstesten met verschillende prototypevarianten worden ontwerpbeslissingen gevalideerd op vlak van kleur, materiaal en afwerking. De resultaten van deze testen vormen de basis voor het vastleggen van de definitieve CMF-keuzes van het product.
 
 ### Doelstellingen
-Het hoofddoel van deze deelopdracht is het valideren van de definitieve ontwerpbeslissingen op het vlak van CMF. Via gebruikstesten met meerdere prototypevarianten worden de esthetische en materiële keuzes getoetst bij de doelgroep. Op basis van de resultaten wordt het finale ontwerp vastgelegd.
 
-De finale doelstellingen zijn:
-- Valideren van de CMF-keuzes aan de hand van gebruikersvoorkeuren
-- Achterhalen welke kleur-, materiaal- en afwerkingscombinaties het beste aansluiten bij de verwachtingen van de gebruiker
-- Onderzoeken of er patronen te vinden zijn in de voorkeuren op basis van gebruikerscontext (bv. woonomgeving, huiselijke samenstelling)
+Het hoofddoel van deze deelopdracht is het evalueren en valideren van de CMF-keuzes aan de hand van gebruikersfeedback. Hiervoor worden meerdere prototypevarianten getest en onderling vergeleken om inzicht te verkrijgen in de esthetische en materiële voorkeuren van de doelgroep.
 
-Bij dit laatste puntje zijn er ook usability goals opgesteld:
+De doelstellingen van deze deelopdracht zijn:
+- Het valideren van de CMF-keuzes op basis van gebruikersvoorkeuren
+- Het identificeren van kleur-, materiaal- en afwerkingscombinaties die het best aansluiten bij de verwachtingen van de gebruiker
+- Het onderzoeken van mogelijke patronen in gebruikersvoorkeuren op basis van contextfactoren, zoals woonomgeving of huiselijke samenstelling
+
+Daarnaast werden volgende usability goals opgesteld:
 - De meerderheid van de respondenten verkiest dezelfde CMF-variant als meest kwalitatief aanvoelend.
-- De gekozen materialen en kleuren worden als intuïtief en passend ervaren bij de productcontext.
-- Als er geen meerderheidsfavoriet uit de test komt, moet er een duidelijk patroon te vinden zijn in de reden achter de keuzes van de gebruikers (bv. interiorstijl of keukenomgeving).
+- De gekozen materialen en kleuren worden als intuïtief en passend ervaren binnen de productcontext.
+- Indien geen duidelijke meerderheidsfavoriet naar voren komt, kan een onderliggend patroon in de voorkeuren van gebruikers worden geïdentificeerd (bv. interieurstijl of keukenomgeving).
 
 ### Materialen & methoden
 
-Voor deze fase worden minimaal drie prototypevarianten ontwikkeld die onderling verschillen op het vlak van kleur, materiaal en/of afwerking. De respondenten vormen een gevarieerde steekproef wat betreft leeftijd, achtergrond en vertrouwdheid met het producttype. Er wordt gestreefd naar een evenwichtige verdeling van geslacht en leeftijdscategorie.
+Voor deze fase werden prototypevarianten ontwikkeld die onderling verschillen op het vlak van vorm, materiaal en afwerking. De respondenten vormen een gevarieerde steekproef wat betreft leeftijd, achtergrond en vertrouwdheid met het producttype. Er wordt gestreefd naar een evenwichtige verdeling van geslacht en leeftijdscategorie.
 
-Na een korte inleiding waarbij het project wordt toegelicht en het informed consent formulier ondertekend wordt, krijgt de testpersoon de tijd om de zes vormgevingsvarianten rustig te bekijken en de materialen te voelen. Hierbij wordt gepeild naar de eerste indruk: welke variant trekt meteen de aandacht en welke spreekt het minste aan.
+Na een korte inleiding waarbij het project wordt toegelicht en het informed consent formulier ondertekend wordt, krijgt de testpersoon de tijd om de prototypevarianten rustig te bekijken en de materialen te voelen. Hierbij wordt gepeild naar de eerste indruk: welke variant trekt meteen de aandacht en welke spreekt het minste aan.
+
+De fysieke prototypes bestaan uit drie componenten:
+- **Behuizingsvorm** (3 varianten): van vierkant met scherpe randen tot sterk afgerond, geprint in zwart kunststof.
+- **Knopelementen** (6 varianten): verschillende tactiele vormen zoals een kleine bol, golven, bolletjesrij, zigzag, boog en een donut-vorm.
+- **Materiaalstalen** (4 varianten): MDF, sheetmetal, multiplex en zwart kunststof.
 
 <p align="center">
-<img src="/img/CMF-types.png" width="75%">
+<img src="/img/CMF_opties.jpg" width="75%">
 
 Vervolgens wordt via het Thinking Aloud Protocol (TAP) elke variant afzonderlijk en in detail besproken op vlak van kleur, materiaal en afwerking. De testpersoon denkt luidop en gaat dieper in op de beleving bij elk CMF-aspect. Zo wordt bijvoorbeeld gevraagd of de kleur passend aanvoelt bij de context van het product, of het materiaal een gevoel van kwaliteit en duurzaamheid uitstraalt, en of de afwerking hygiënisch en onderhoudsvriendelijk oogt.
 
@@ -31,13 +37,13 @@ De testpersoon rangschikt de varianten per CMF-categorie en stelt zelf gewenste 
 <p align="center">
 <img src="/img/CMF-board.png" width="75%">
 
-De test wordt afgesloten met een korte evaluatievragenlijst waarbij elke variant beoordeeld wordt op vormgeving, materiaal, colorpallet, knopvorm en algemene voorkeur op een schaal van 1 tot 5.
+De test wordt afgesloten met een korte evaluatievragenlijst waarbij elke variant beoordeeld wordt op vormgeving, materiaal, kleurenpalet, knopvorm en algemene voorkeur op een schaal van 1 tot 5.
 
 | **Criterium** | **1** | **2** | **3** | **4** | **5** | **6** |
 | --- | --- | --- | --- | --- | --- | --- |
 | Vormgeving (1–5) | | | | | | |
 | Materiaal (1–5) | | | | | | |
-| Colorpallet (1–5) | | | | | | |
+| Kleurenpalet (1–5) | | | | | | |
 | Vorm knop (1–5) | | | | | | |
 | Algemene voorkeur (1–5) | | | | | | |
 
@@ -55,9 +61,9 @@ Kunststof werd als eerste gedacht bij het materiaal, mits dit kwaliteitsvol is e
 De voorkeur voor afwerking was unaniem: iedereen koos voor een matte afwerking. Dit straalt rust en professionaliteit uit. Glanzende afwerking werd afgeraden omdat lichtreflectie als ongewenst werd ervaren. Textuur toevoegen aan het oppervlak werd evenmin gewenst, omdat dit het product meer doet opvallen en afleidend kan werken, ook voor visueel beperkte gebruikers.
 
 **Prototypes:**
-De zes prototypevarianten werden algemeen gerangschikt van slecht naar goed (van links naar rechts). Voor de behuizingsvorm scoorde het afgeronde ontwerp het best: de afronding geeft een rustige en moderne uitstraling die als kwaliteitsvol werd ervaren. De middelste optie werd als goed beschouwd, maar de afronding mocht groter zijn. De rechthoekige variant werd vergeleken met een schilderijkader en geassocieerd met saai en ouderwets.
+De behuizingsvorm met de sterkste afronding scoorde het best: de afronding geeft een rustige en moderne uitstraling die als kwaliteitsvol werd ervaren. De middelste optie werd als goed beschouwd, maar de afronding mocht groter zijn. De rechthoekige variant met scherpe randen werd vergeleken met een schilderijkader en geassocieerd met saai en ouderwets.
 
-Bij de knoppen werd de rangschikking bepaald op basis van het tactiele element. De kleine bol was te klein om snel te vinden. De golvende vorm gaf niet het gevoel van een knop. De rij bolletjes was beter maar bleef te klein. Het zigzaggende element was te complex. De grote boog was herkenbaar maar te glad om over te glijden. De donut met afgeronde randen werd als beste beoordeeld: groot, herkenbaar en goed voelbaar met de vingers. Hieruit volgt dat een groot, tactiel herkenbaar element de voorkeur geniet.
+Bij de knopelementen werd de rangschikking bepaald op basis van het tactiele element. De kleine bol was te klein om snel te vinden. De golvende vorm gaf niet het gevoel van een knop. De rij bolletjes was beter maar bleef te klein. Het zigzaggende element was te complex. De grote boog was herkenbaar maar te glad om over te glijden. De donut met afgeronde randen werd als beste beoordeeld: groot, herkenbaar en goed voelbaar met de vingers. Hieruit volgt dat een groot, tactiel herkenbaar element de voorkeur geniet.
 
 De beslissingsmatrix werd gemiddeld als volgt ingevuld:
 
@@ -73,6 +79,12 @@ Drie ontwerpen komen op gelijk hoogte. Wanneer de knopvorm buiten beschouwing wo
 
 **Referentiemerken:**
 De door de gebruikers genoemde referentiemerken waren Bang & Olufsen, Sonos, Philips, Apple en HP. Een bijkomende CMF-analyse van deze merken bevestigde de bevindingen uit de testen: neutrale en beperkte kleurpaletten domineren bij premium merken, kunststof is het meest voorkomende materiaal, en matte afwerkingen worden door het volledige spectrum gebruikt — zij het om uiteenlopende redenen, van ambachtelijk keurmerk tot praktische keuze.
+
+<p align="center">
+<img src="/img/referentiemerken.png" width="75%">
+
+<p align="center">
+<img src="/img/kernbevindingen.png" width="75%">
 
 ### Conclusies & implicaties
 
