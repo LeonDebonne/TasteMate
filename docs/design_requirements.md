@@ -24,7 +24,7 @@
 |2.9|Het systeem staat een efficiënte aanpassing van de inhoud toe om de gebruikersretentie te maximaliseren.|[Definition Wave 2](definition.md)|✅|
 |2.10|Het systeem bevordert de zelfstandigheid bij het doen van boodschappen.|[Definition Wave 2](definition.md)|⚠️|
 |**Develop 1**|
-|3.1|Het systeem laat toe kleurencontrast aan te paasen naar persoonlijke voorkeur gebruiker.|[Develop 1](develop_1.md)|✅|
+|3.1|Het systeem laat toe kleurencontrast aan te passen naar persoonlijke voorkeur gebruiker.|[Develop 1](develop_1.md)|✅|
 |3.2|Het systeem is bruikbaar met courante schermleessoftware.|[Develop 1](develop_1.md)|❌|
 |**Develop 2**|
 |4.1| Het product volgt het principe voor design for adjustability|[Develop 2](develop_2.md)|✅|
