@@ -34,3 +34,10 @@
 |4.5| Het systeem bevat consistentie en visuele hiërarchie volgens Gestalt-principes. |[Develop 2](develop_2.md)|✅|
 |4.6| Navigatie door het systeem vereist geen voorafgaande training of uitleg. |[Develop 2](develop_2.md)|✅|
 |4.7| De interface moet een SUS-score > 80 behalen. |[Develop 2](develop_2.md)|✅|
+|**Develop 3**|
+|5.1|De behuizing is vervaardigd uit kwaliteitsvolle kunststof met voldoende wanddikte om een gevoel van stevigheid en duurzaamheid te geven.|[Develop 3](develop_3.md)|✅|
+|5.2|Het product heeft een neutraal kleurenpalet (bij voorkeur zwart of wit) om te integreren in diverse keukenomgevingen zonder de aandacht te trekken.|[Develop 3](develop_3.md)|✅|
+|5.3|De afwerking is mat om lichtreflectie te vermijden en rust en professionaliteit uit te stralen.|[Develop 3](develop_3.md)|✅|
+|5.4|De behuizing heeft afgeronde hoeken voor een moderne en kwaliteitsvolle esthetiek.|[Develop 3](develop_3.md)|✅|
+|5.5|Het tactiele knopelement is groot en duidelijk herkenbaar zonder visuele controle.|[Develop 3](develop_3.md)|✅|
+|5.6|Het product vermijdt textuur of opvallende oppervlaktedetails die de aandacht afleiden of storend kunnen zijn voor visueel beperkte gebruikers.|[Develop 3](develop_3.md)|✅|
