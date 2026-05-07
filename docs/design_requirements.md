@@ -21,11 +21,11 @@
 |2.6|Het ontwerp is gebruiksvriendelijk voor zowel visueel beperkte gebruikers als huisgenoten en zorgverleners.|[Definition Wave 1&2](definition.md)|✅|
 |2.7|Het product waarborgt de privacy van persoonlijke en huishoudelijke gegevens.|[Definition Wave 2](definition.md)|✅|
 |2.8|De add-on is compatibel met bestaande koelkasten zonder ingrijpende aanpassingen.|[Definition Wave 1](definition.md)|✅||
-|2.9|Het systeem staat een efficiënte aanpassing van de inhoud toe om de gebruikersretentie te maximaliseren.|[Definition Wave 2](definition.md)|⚠️|
+|2.9|Het systeem staat een efficiënte aanpassing van de inhoud toe om de gebruikersretentie te maximaliseren.|[Definition Wave 2](definition.md)|✅|
 |2.10|Het systeem bevordert de zelfstandigheid bij het doen van boodschappen.|[Definition Wave 2](definition.md)|⚠️|
 |**Develop 1**|
 |3.1|Het systeem laat toe kleurencontrast aan te paasen naar persoonlijke voorkeur gebruiker.|[Develop 1](develop_1.md)|✅|
-|3.2|Het systeem is bruikbaar met courante schermleessoftware.|[Develop 1](develop_1.md)|⚠️|
+|3.2|Het systeem is bruikbaar met courante schermleessoftware.|[Develop 1](develop_1.md)|❌|
 |**Develop 2**|
 |4.1| Het product volgt het principe voor design for adjustability|[Develop 2](develop_2.md)|✅|
 |4.2| Kritieke acties (zoals verwijderen) vereisen een duidelijke maar niet storende bevestiging om fouten te vermijden. |[Develop 2](develop_2.md)|✅|
