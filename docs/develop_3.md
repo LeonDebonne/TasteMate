@@ -34,7 +34,7 @@ De testpersoon rangschikt de varianten per CMF-categorie en stelt zelf gewenste 
 
 De test wordt afgesloten met een korte evaluatievragenlijst waarbij elke variant beoordeeld wordt op vormgeving, materiaal, kleurenpalet, knopvorm en algemene voorkeur op een schaal van 1 tot 5.
 
-| **Criterium** | **1** | **2** | **3** | **4** | **5** | **6** |
+| **Criterium** | **Test 1** | **Test 2** | **Test 3** | **Test 4** | **Test 5** | **Test 6** |
 | --- | --- | --- | --- | --- | --- | --- |
 | Vormgeving (1–5) | | | | | | |
 | Materiaal (1–5) | | | | | | |
