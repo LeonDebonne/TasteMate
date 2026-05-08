@@ -13,4 +13,4 @@ Het tweede deel van de Develop-fase draait vooral rond het antropometrische aspe
 
 Het derde en laatste deel van deze fase focust zich op de CMF(Color, Material, Finishes) van het product. Verder wordt het emotioneel afspect achter deze pijlers onderzocht. Door vele prototype varianten te maken en deze af te wegen ten opzicht van elkaar tijdens gebruikerstesten ontstaat er een verfijnd product. Tijdens de testen wordt het Thinking-Aloud protocol toegepast. Een hulpmiddelen tijdens deze testen is een morfologische CMF-matrix. Hiervan worden de opties beoordeelt via een evaluatievragenlijst om de voorkeuren te kwantificeren. Na deze fase kan er volop gewerkt worden aan het finale product.
 
-![TripleDiamondSem2](/img/Group4.png)
+![TripleDiamondSem2](/img/Group2.png)
