@@ -36,7 +36,7 @@ De testpersoon rangschikt de varianten per CMF-categorie en stelt zelf gewenste 
 
 De test wordt afgesloten met een korte evaluatievragenlijst waarbij elke variant beoordeeld wordt op vormgeving, materiaal, kleurenpalet, knopvorm en algemene voorkeur op een schaal van 1 tot 5.
 
-| **Criterium** | **Test 1** | **Test 2** | **Test 3** | **Test 4** | **Test 5** | **Test 6** |
+| **Criterium** | **Nr.1** | **Nr.2** | **Nr.3** | **Nr.4** | **Nr.5** | **Nr.6** |
 | --- | --- | --- | --- | --- | --- | --- |
 | Vormgeving (1–5) | | | | | | |
 | Materiaal (1–5) | | | | | | |
@@ -46,7 +46,7 @@ De test wordt afgesloten met een korte evaluatievragenlijst waarbij elke variant
 
 ### Resultaten
 
-#### User tests (N=6)
+#### User tests
 
 **Kleur:**
 De testpersonen gaven duidelijk de voorkeur aan neutrale kleuren zoals zwart en wit. Het product mag de aandacht in de keuken niet afleiden; de focus moet elders liggen, zoals op bloemen of andere decoratieve elementen. Felle kleuren werden hierdoor afgeraden. De gewenste kleur moet rust en professionaliteit uitstralen, zodat het product een premium en verfijnde esthetiek uitdraagt zonder opzichtig te zijn. Enkele gebruikers merkten op dat de kleur idealiter aansluit bij de koelkast zelf of de kast waarin deze is ingebouwd. Gezien de grote variëteit aan koelkastkleuren wordt dit echter als moeilijk haalbaar beschouwd, wat het gebruik van neutrale kleuren nogmaals bevestigt.
@@ -64,7 +64,7 @@ Bij de knopelementen werd de rangschikking bepaald op basis van het tactiele ele
 
 De beslissingsmatrix werd gemiddeld als volgt ingevuld:
 
-| **Criterium** | **Test 1** | **Test 2** | **Test 3** | **Test 4** | **Test 5** | **Test 6** |
+| **Criterium** | **Nr.1** | **Nr.2** | **Nr.3** | **Nr.4** | **Nr.5** | **Nr.6** |
 | --- | --- | --- | --- | --- | --- | --- |
 | Vormgeving (1–5) | 4 | 5 | 3 | 5 | 1 | 2 |
 | Materiaal (1–5) | 5 | 4 | 4 | 5 | 1 | 2 |
