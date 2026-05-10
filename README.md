@@ -14,7 +14,7 @@ Deze problematiek wensen we aan te pakken met een slimme koelkast-add-on. Deze d
 Bv. “Ik heb dorst, wat kan ik drinken?” en “Zijn er producten die bijna over datum gaan?” 
 
 <p align="center">
-  <img src="img\Render_Vizcom.png" width="100%">
+  <img src="img\Heroshot.png" width="100%">
 </p>
 
 ## Introductie
