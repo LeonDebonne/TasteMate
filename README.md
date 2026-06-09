@@ -34,8 +34,9 @@ De oplossing richt zich op zelfstandig wonende blinden en slechtzienden die onde
 4. [Develop 1](./docs/develop_1.md)
 5. [Develop 2](./docs/develop_2.md)
 6. [Develop 3](./docs/develop_3.md)
-6. [Design Requirements](./docs/design_requirements.md)
-7. [Bill of materials](./docs/bom.md)
+7. [Conclusie](./docs/conclusie.md)
+8. [Design Requirements](./docs/design_requirements.md)
+9. [Bill of materials](./docs/bom.md)
 
 
 ## Kritische reflectie
