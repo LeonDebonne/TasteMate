@@ -13,11 +13,11 @@ De buzzer maakt een kort geluid om gebruikers te vertellen dat het scherm aan st
 <p align="center"> 
 <img src="/img/Schema_Buzzer.png" width="50%">
 
-De [code](/src/buzzer.py) maakt gebruik van de gpiozero library en de time library.
+De [code](/tests/buzzer.py) maakt gebruik van de gpiozero library en de time library.
 ### Test Scherm
 Het scherm toont de interface en kan gebruikt worden via touchscreen. Er wordt gebruik gemaakt van een 4.3 inch HDMI LCD. 
 De opstelling bevat een Raspberry Pi, het scherm en een HDMI-kabel. De connectie gebeurt dus via de HDMI-kabel.
-De [code](/src/scherm.py) maakt gebruik van de tkinter library
+De [code](/tests/scherm.py) maakt gebruik van de tkinter library
 
 ### Intro wake-up mechanisme
 Voor dit onderdeel is het de bedoeling om met Arduino een systeem te maken dat detecteert wanneer er een persoon voor de koelkast staat. Vervolgens moet het scherm aangaan en krijgt de gebruiker een audiotrigger om te laten weten dat het scherm is ingeschakeld.
