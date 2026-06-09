@@ -34,5 +34,5 @@ Alle code in verband met dit onderdeel is te vinden in de map [assistent](/src/a
 Het volledig systeem dient als volgt opgebouwd te worden:
 
 <p align="center">
-  <img src="img\Schema_RPi.png" width="100%">
+  <img src="/img/SchemaRPi.png" width="100%">
 </p>
