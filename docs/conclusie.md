@@ -1,0 +1,11 @@
+# Kritische reflectie
+
+Dit semester stond voornamelijk in het teken van de develop-fase, waarbij het concept verder werd uitgewerkt, getest en verfijnd. Tijdens Develop 1 en Develop 2 lag de focus op het realiseren van een Minimum Viable Product (MVP). Hierbij wilden we aantonen dat gebruikers op een toegankelijke manier correcte informatie uit het systeem konden opvragen, zoals de inhoud van de koelkast, houdbaarheidsdata en de locatie van producten.
+
+Tijdens de ontwikkeling merkten we echter dat het volledig automatiseren van het invoeren en beheren van productdata veel complexer was dan oorspronkelijk verwacht. Hoewel dit conceptueel uitgebreid werd onderzocht en besproken in eerdere fases, bleek de technische realisatie binnen de beschikbare tijd en middelen niet haalbaar. Daarom werd ervoor gekozen om de nadruk te leggen op het valideren van onze MVP.
+
+Daarnaast werd ook de volledige elektronica uitgewerkt en getest. Bij de verdere integratie in het product botsten we echter op praktische beperkingen van de beschikbare hardware, zoals de afmetingen van het scherm. Hierdoor konden we de elektronica niet volledig verwerken in het finale prototype zoals oorspronkelijk voorzien. Om toch een realistisch beeld van het eindproduct te geven, werd een mock-up ontwikkeld waarin de vormgeving, uitstraling en CMF-keuzes duidelijk zichtbaar werden gemaakt.
+
+De feedback die we ontvingen van de burgerlijk ingenieurs was waardevol en bracht bijkomende aandachtspunten aan het licht. Zo werd onder andere gesuggereerd om extra aandacht te besteden aan het vervangen of opladen van de batterij, aangezien dit voor blinde gebruikers een belangrijk aspect van de gebruikservaring kan zijn. Deze feedback werd pas in een latere fase van het project ontvangen, waardoor er nog beperkt ruimte was om hier grondig op verder te werken. Desondanks vormt dit een waardevol inzicht dat bij een verdere ontwikkeling van het concept zeker verder onderzocht en uitgewerkt zou worden.
+
+Terugkijkend heeft dit semester aangetoond dat er vaak een verschil bestaat tussen een conceptuele oplossing en een technisch realiseerbaar product. Door duidelijke keuzes te maken en te focussen op de belangrijkste functionaliteiten konden we toch een concept ontwikkelen dat de meerwaarde van TasteMate aantoont en tegelijk waardevolle inzichten opleverde voor verdere ontwikkeling.
