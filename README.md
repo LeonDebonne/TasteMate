@@ -39,7 +39,7 @@ De oplossing richt zich op zelfstandig wonende blinden en slechtzienden die onde
 9. [Bill of materials](./docs/bom.md)
 
 
-## Kritische reflectie
+## Kritische reflectie semester 1
 
 Het eerste semester stond volledig in het teken van discovery en de eerste definition van ons ontwerpproces.
 We startten met een desk research en benchmarking om een beeld te krijgen van wat er vandaag al bestaat. De benchmarks hielpen ons om ons eigen idee te positioneren en niet opnieuw te ontwerpen wat al bestaat, maar eerder te kijken waar het beter of anders kon.
