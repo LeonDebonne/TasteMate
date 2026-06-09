@@ -4,7 +4,9 @@ In deze map bevindt zich alle code die nodig is om de TasteMate te runnen.
 Het project bestaat uit 3 onderdelen die elk hun eigen functie vervullen. Deze onderdelen moeten op hetzelfde moment lopen om een werkend systeem te verkrijgen.
 ### Wake-up
 Dit onderdeel volgt dezelfde logica als de test met de Arduino. Hier en daar zijn echter enkele aanpassingen uitgevoerd om de workflow te optimaliseren. Deze aanpassingen bevinden zich voornamelijk in de vertragingen tussen scans en detecties.
+
 Het systeem detecteert of er een persoon voor de koelkast staat. Wanneer er gedurende 10 seconden geen interactie meer is met het scherm, wordt het automatisch uitgeschakeld. Deze interactie wordt gemeten met behulp van de library pyautogui, die muis- en touchinteracties registreert.
+
 Naast de library voor interactiemeting wordt ook gebruikgemaakt van de gpiozero-library. Deze dient voor het definiëren van de sensoren en actuatoren. Daarnaast worden ook de time- en subprocess-libraries gebruikt. Deze zorgen respectievelijk voor de tijdsvertragingen en het uitvoeren van systeemcommando’s. Dat laatste is nodig om het scherm in en uit te schakelen.
 [Python code](/src/wake_up/wake_up.py).
 
