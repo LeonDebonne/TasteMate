@@ -23,7 +23,7 @@ De assistent is een spraakgestuurde koelkastassistent die continu luistert via e
 
 De koelkastinhoud wordt bijgehouden in een JSON-bestand dat automatisch wordt bijgewerkt en bij elke vraag opnieuw wordt ingelezen, zodat de assistent altijd met actuele gegevens werkt. Door ook de recente gespreksgeschiedenis bij te houden begrijpt hij de context en kan hij logisch doorpraten zonder dat de gebruiker zich hoeft te herhalen.
 
-Technisch is het systeem geschreven in Python en maakt het gebruik van SpeechRecognition, de Gemini-library, Edge TTS, Pygame, en asyncio om alles gelijktijdig en responsief te laten verlopen.
+Technisch is het systeem geschreven in Python en maakt het gebruik van SpeechRecognition, de Gemini-library, Edge TTS, Pygame, en asyncio om alles gelijktijdig en responsief te laten verlopen. Dit is een [demo](https://drive.google.com/file/d/14yIs6-6K8cf76QumfmExPYO-qfYbNQzW/view?usp=sharing) hiervan.
 
 Alle code in verband met dit onderdeel is te vinden in de map [assistent](/src/assistent)
 
