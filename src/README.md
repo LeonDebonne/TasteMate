@@ -40,7 +40,7 @@ Het volledig systeem dient als volgt opgebouwd te worden:
 Er wordt gebruikt gemaakt van een Raspberry Pi 2 met onderstaande layout qua GPIO-pinnen.
 
 <p align="center">
-  <img src="/img/Layout_Rpi.png" width="100%">
+  <img src="/img/Layout_Rpi.jpg" width="100%">
 </p>
 
 Om al deze onderdelen tergelijk te laten runnen wordt gebruik gemaakt van een [startbestand](/src/start_tastemate.sh). Dit zorgt ervoor dat alle onderdelen in correcte volgorde worden opgestart vanaf dat de Raspberry Pi stroom krijgt.
