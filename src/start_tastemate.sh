@@ -1,22 +1,38 @@
 #!/bin/bash
 
-cd /home/tastemate/TasteMate_Opkomende_Tech/webserver
-
-source .venv/bin/activate
-python server.py &
-
-cd /home/tastemate/TasteMate_Opkomende_Tech/webserver/dist
-python3 -m http.server 5173 &
-
-sleep 8
-
 export DISPLAY=:0
 export XAUTHORITY=/home/tastemate/.Xauthority
 
-xrandr --output HDMI-1 --rotate right
+# oude processen afsluiten
+pkill -f server.py
+pkill -f "http.server 5173"
+pkill -f chromium
 
-chromium-browser --start-fullscreen --app=http://localhost:5173 \
---no-first-run \
---disable-infobars \
+# backend starten
+cd /home/tastemate/TasteMate_Opkomende_Tech/webserver
+source .venv/bin/activate
+python server.py &
+
+# frontend server starten
+cd /home/tastemate/TasteMate_Opkomende_Tech/webserver/dist
+python3 -m http.server 5173 &
+
+# wake-up script starten
+cd /home/tastemate/TasteMate_Opkomende_Tech/wake_up
+python3 wake_up.py &
+
+# assistent starten
+cd /home/tastemate/TasteMate_Opkomende_Tech/Assistent
+source .venv/bin/activate
+GPIOZERO_PIN_FACTORY=lgpio python3 TasteMate_Rpi.py &
+
+# wachten tot alles gestart is
+sleep 10
+
+# chromium starten
+chromium-browser --kiosk http://localhost:5173 \
+--password-store=basic \
 --disable-translate \
---password-store=basic
+--disable-features=Translate \
+--no-first-run \
+--disable-infobars

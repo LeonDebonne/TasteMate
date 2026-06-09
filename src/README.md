@@ -1,3 +1,4 @@
+## Code
 In deze map bevindt zich alle code die nodig is om de TasteMate te runnen.
 
 Het project bestaat uit 3 onderdelen die elk hun eigen functie vervullen. Deze onderdelen moeten op hetzelfde moment lopen om een werkend systeem te verkrijgen.
@@ -28,3 +29,8 @@ Technisch is het systeem geschreven in Python en maakt het gebruik van SpeechRec
 Alle code in verband met dit onderdeel is te vinden in de map [assistent](/src/assistent)
 
 ### Volledig systeem
+Het volledig systeem dient als volgt opgebouwd te worden:
+
+<p align="center">
+  <img src="img\Schema_RPi.png" width="100%">
+</p>
