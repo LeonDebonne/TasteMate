@@ -1,0 +1,69 @@
+{
+  "categories": [
+    {
+      "id": "custom_1778249635550",
+      "name": "Sauzen",
+      "iconName": "Milk",
+      "color": "bg-red-500"
+    }
+  ],
+  "products": [
+    {
+      "id": "1778249662.118184",
+      "name": "Mayo",
+      "quantity": 1,
+      "categoryId": "custom_1778249635550",
+      "expiryDate": "2026-05-15",
+      "addedAt": "2026-05-08"
+    }
+  ],
+  "fridgeZones": {
+    "deur": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "groentelade": [
+      null,
+      null,
+      null
+    ],
+    "koelvakBoven": [
+      "custom_1778249635550",
+      null,
+      null
+    ],
+    "koelvakOnder": [
+      null,
+      null,
+      null
+    ],
+    "vriezer": [
+      null,
+      null,
+      null
+    ]
+  },
+  "zoneOrder": [
+    "vriezer",
+    "koelvakBoven",
+    "koelvakOnder",
+    "groentelade",
+    "deur"
+  ],
+  "zoneTypes": {
+    "deur": "deur",
+    "groentelade": "kast",
+    "koelvakBoven": "kast",
+    "koelvakOnder": "kast",
+    "vriezer": "kast"
+  },
+  "zoneNames": {
+    "deur": "Deur",
+    "groentelade": "Groentelade",
+    "koelvakBoven": "Koelvak Boven",
+    "koelvakOnder": "Koelvak Onder",
+    "vriezer": "Vriezer"
+  }
+}
