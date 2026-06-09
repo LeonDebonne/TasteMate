@@ -36,3 +36,9 @@ Het volledig systeem dient als volgt opgebouwd te worden:
 <p align="center">
   <img src="/img/SchemaRPi.png" width="100%">
 </p>
+
+Er wordt gebruikt gemaakt van een Raspberry Pi 2 met onderstaande layout qua GPIO-pinnen.
+
+<p align="center">
+  <img src="/img/Layout_Rpi.png" width="100%">
+</p>
