@@ -1,4 +1,4 @@
-## Bill of materials
+## Bill of materials deelopdrachten
 
 ### Defenition:
 
@@ -32,7 +32,7 @@
 
 ## Finaal product
 
-### BOM
+### Bill of materials
 
 | Onderdeel | Aantal | Prijs | Bron |
 |:-----------:|:--------:|:-------:|:-------:|
