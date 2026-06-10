@@ -55,7 +55,6 @@
 | [Dubbelzijdige tape](https://www.123inkt.be/123inkt-dubbelzijdige-nano-tape-20-mm-x-3-m-i95484.html?utm_source=google&utm_medium=cpc&utm_campaign=PPC-SEA-BE-V-Google-Shopping-B-Office_Tape&gad_source=1&gad_campaignid=22271854759&gbraid=0AAAAAC0_hC3sd2UOC6N9F0aT667AwabNR&gclid=Cj0KCQjwlqTRBhCBARIsANrkrxink3DPagIwRo7ViqB9d8kClaeNl3oSsOs5wJWnzTKSBXai6ZHvuh0aAoxQEALw_wcB)| 1 | €4 | Inkt123 |
 
 ### Building instructions
-test
 #### Elektonica
 Het volledig systeem dient als volgt geschakeld te worden:
 
@@ -68,6 +67,25 @@ Er wordt gebruikt gemaakt van een Raspberry Pi 2 met onderstaande layout qua GPI
 <p align="center">
   <img src="/img/Layout_Rpi.jpg" width="50%">
 </p>
+
+1. Om te beginnen dient er een micro-sd-kaartje in de Raspberry Pi gestoken te worden om deze te booten. 
+
+2. Hierna dient de wifi geconfigureerd te worden via de wifi adapter.
+
+3. Vervolgens moeten de mappen assistent, wake_up en webserver op het toestel gezet worden samen met het startbestand. Dit wordt gedaan door deze GIT te clonen.
+
+4. Daarna moeten de system dependencies geinstalleerd te wordenen, dit bevat Python en andere hardware en wordt gedaan met de commando's: 
+
+sudo apt update && sudo apt upgrade -y
+
+sudo apt install python3 python3-pip python3-venv git
+
+5. Vervolgens dient een virtual environment gestart te wordenom conflicten in tussen de codes te vermijden.
+
+python3 -m venv venv
+
+source venv/bin/activate
+
 
 
 #### Mock-up
