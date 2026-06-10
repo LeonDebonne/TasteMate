@@ -30,7 +30,9 @@
 - Multiplex
 - Sheetmetal
 
-### Werkend Prototype:
+### Finaal product
+
+|onderdeel|aantal|prijs|
 
 - 1 x [Raspberry PI 2](https://www.reichelt.com/be/nl/shop/product/raspberry_pi_b_4x_usb_2_0_40_pin_gpio-146194?PROVID=2812&gad_source=1&gad_campaignid=17940466725&gbraid=0AAAAADwnxtYgupAc7-b9jkGoppKmLDwfj&gclid=CjwKCAjw5NvPBhAoEiwA_2egfvPjITOcMYFfWwEmHcvbbq0vB5tXqlIw2rvz-NOTxtA2_YksYjddbBoCtCcQAvD_BwE)
 - 1 x [Speaker](https://www.digikey.be/nl/products/detail/soberton-inc/SP-3605/6562949?gclsrc=aw.ds&&utm_adgroup=Audio%20Products&utm_source=google&utm_medium=cpc&utm_campaign=Shopping_Product_All%20Products&utm_term=&productid=6562949&utm_content=Audio%20Products&utm_id=go_cmp-1558151450_adg-58705665066_ad-294715273419_pla-2461442997517_dev-c_ext-_prd-6562949_sig-CjwKCAiA3fnJBhAgEiwAyqmY5dBKdPYrHPSYD36c4VOKNK2Wb24Z7Me_onm56Ziqq0sk69BW4W3W8BoCfu4QAvD_BwE&gad_source=1&gad_campaignid=1558151450&gbraid=0AAAAADrbLlgZARB-eOqBr7dQeSiqVa7WZ&gclid=CjwKCAiA3fnJBhAgEiwAyqmY5dBKdPYrHPSYD36c4VOKNK2Wb24Z7Me_onm56Ziqq0sk69BW4W3W8BoCfu4QAvD_BwE)
