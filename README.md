@@ -64,7 +64,7 @@ De feedback die we ontvingen van de burgerlijk ingenieurs was waardevol en brach
 Terugkijkend heeft dit semester aangetoond dat er vaak een verschil bestaat tussen een conceptuele oplossing en een technisch realiseerbaar product. Door duidelijke keuzes te maken en te focussen op de belangrijkste functionaliteiten konden we toch een concept ontwikkelen dat de meerwaarde van TasteMate aantoont en tegelijk waardevolle inzichten opleverde voor verdere ontwikkeling.
 
 ## Noot inzake het gebruik van AI
-AI werd gebruikt om onze tekststructuur te verbeteren en ons taalgebruik te finetunen. Ook werd dit voor een groot deel gebruikt tijdens het coderen. Dit om te helpen op stukken waar wij vastlopen. Als laatst werd de render ook met AI-gemaakt om zo tijd te besparen.
+AI werd gebruikt om onze tekststructuur te verbeteren en ons taalgebruik te finetunen. Ook werd dit voor een groot deel gebruikt tijdens het coderen. Dit om te helpen op stukken waar wij vastlopen. Als laatst werd de render ook met AI gemaakt.
 
 ## Bijlagen
 ### Discovery
