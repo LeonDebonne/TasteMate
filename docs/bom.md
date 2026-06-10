@@ -50,6 +50,9 @@
 | [USB wifi adapter](amazon.com.be/-/nl/TP-Link-WiFi-dongle-wifi-adapter-wifi-dongle-T2U/dp/B07KRCW6LZ/ref=asc_df_B07KRCW6LZ?mcid=852928d45dda3abfa57e9e1627f34a65&tag=begogshpadd0d-21&linkCode=df0&hvadid=714453674833&hvpos=&hvnetw=g&hvrand=8046058247111062234&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9197127&hvtargid=pla-640626983653&psc=1&language=nl_BE&gad_source=1) | 1 | €12 | Amazon |
 | [Generic PLA](https://eu.store.bambulab.com/nl/products/pla-basic-filament) | 2 | €11,5 | Bambu |
 | [1,5mm PMMA](https://www.amazon.com.be/Signal%C3%A9tique-biz-France-Transparante-acrylplaat-ge%C3%ABxtrudeerd/dp/B0BFHNWQ7F/ref=sr_1_2_sspa?adgrpid=148067243431&dib=eyJ2IjoiMSJ9.tbxUJpW_oR35mPcnfpASdGAXoXE4kTYkbGxdRaY8uHfj4o_pCS-Xjog_SgLBYrC6FHrwXTlP0oZ4zUf-yrY2bDuzDb-eJzqTJuKnGyjliruSwt2UaYrtjOoV3Dg2aFH0X13lCOFTtg7a6OV0QRSU-bfQW1rQEdMztxDdkB4dF_sb0Dt2fEz_dYg-4uvyktN8UmvUigGsoumaJhfWy8Q23Ih24BRy0k0qxYUxPJhP59-CDzWV4q2IV2HvowSVbqjygmsvgWun07OYAxRF2K5MkKrmoQzfg4fdIQuwGsfZ-l0.wP7YXrAwnRBq2ewwE9rjQNpuIkRBrxKYokrT9mWKAEo&dib_tag=se&hvadid=644802296378&hvdev=c&hvlocphy=9197127&hvnetw=g&hvqmt=b&hvrand=8767030489506234302&hvtargid=kwd-312167386536&hydadcr=15893_2333909&keywords=pmma%2Bacryl&mcid=99ab2fdc1a4d3cc0973aea85e6959eae&qid=1781085249&s=industrial&sr=1-2-spons&aref=L53305OGNt&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1) | 1 | €8 | Amazon |
+| [M5 bout](https://www.toolstation.be/metaalschroeven-bolkop/p25348?channable=004737696400323533343865?store=VF&gad_source=1&gad_campaignid=20532789530&gbraid=0AAAAADQEJBhZj8hLpe5RpEWcciJXMx2cu&gclid=Cj0KCQjwlqTRBhCBARIsANrkrxj516RLRH3zHTKwyNCMDXJiIDQul0NcxZ-L_cVZiVWMsVrVCHUhHA4aAjCYEALw_wcB) | 2 | €2,7 | Toolstation |
+| [M5 borgmoer](https://www.toolstation.be/borgmoeren/p12051) | 2 | €3 | Toolstation |
+| [Dubbelzijdige tape](https://www.123inkt.be/123inkt-dubbelzijdige-nano-tape-20-mm-x-3-m-i95484.html?utm_source=google&utm_medium=cpc&utm_campaign=PPC-SEA-BE-V-Google-Shopping-B-Office_Tape&gad_source=1&gad_campaignid=22271854759&gbraid=0AAAAAC0_hC3sd2UOC6N9F0aT667AwabNR&gclid=Cj0KCQjwlqTRBhCBARIsANrkrxink3DPagIwRo7ViqB9d8kClaeNl3oSsOs5wJWnzTKSBXai6ZHvuh0aAoxQEALw_wcB)| 1 | €4 | Inkt123 |
 
 ### Building instructions
 
@@ -66,7 +69,7 @@ Er wordt gebruikt gemaakt van een Raspberry Pi 2 met onderstaande layout qua GPI
   <img src="/img/Layout_Rpi.jpg" width="50%">
 </p>
 
-Om al deze onderdelen tergelijk te laten runnen wordt gebruik gemaakt van een [startbestand](/src/start_tastemate.sh). Dit zorgt ervoor dat alle onderdelen in correcte volgorde worden opgestart vanaf dat de Raspberry Pi stroom krijgt.
+
 #### Mock-up
 Doordat we niet beschikten over de juiste hardware om het product uit te werken tot een stand-alone object, is er een mock-up gemaakt om een idee te geven van hoe het product eruit zou zien.
 
