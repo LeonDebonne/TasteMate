@@ -75,15 +75,48 @@ Er wordt gebruikt gemaakt van een Raspberry Pi 2 met onderstaande layout qua GPI
 3. Vervolgens moeten de mappen assistent, wake_up en webserver op het toestel gezet worden samen met het startbestand. Dit wordt gedaan door deze GIT te clonen.
 
 4. Daarna moeten de system dependencies geinstalleerd te wordenen, dit bevat Python en andere hardware en wordt gedaan met de commando's: 
-```
-sudo apt update && sudo apt upgrade -y
-sudo apt install python3 python3-pip python3-venv git
-```
+    ```
+    sudo apt update && sudo apt upgrade -y
+    sudo apt install python3 python3-pip python3-venv git
+    sudo apt install python3-gpiozero
+    npm install
+    ```
 5. Vervolgens dient een virtual environment gestart te wordenom conflicten in tussen de codes te vermijden.
+    ```
+    python3 -m venv venv
+    source venv/bin/activate
+    ```
+6. Hierna moeten de nodige librarys geinstalleerd worden.
+    Voor het wake up bestand is dit
+    ```
+    pip install pyautogui
+    ````
+    en voor de assistent is dit
+    ```
+    pip install speechrecognition 
+    pip install google-genai 
+    pip install edge-tts 
+    pip install pygame
+    pip install pyaudio
+    ```
 
-python3 -m venv venv
-source venv/bin/activate
-
+    voor de servers is dit
+    ```
+    pip install flask flask-cors
+    ```
+7. Daarna moet de server gebuild worden.
+    ```
+    npm run build
+    ```
+8. Als laatste dient er ingesteld te worden dat het [startbestand](/src/start_tastemate.sh) automatisch opstart.
+    dit wordt gedaan via de terminal met:
+    ```
+    nano /home/tastemate/.config/lxsession/LXDE-pi/autostart
+    ```
+    in dit bestand moet er dan gezet worden
+    ```
+    @/home/tastemate/start_tastemate.sh
+    ```
 
 
 #### Mock-up
