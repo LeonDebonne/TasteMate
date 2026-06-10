@@ -33,7 +33,7 @@
 ### Finaal product
 
 | Onderdeel | Aantal | Prijs |
-|-----------|--------|-------|
+|:-----------:|:--------:|:-------:|
 |[Raspberry PI 2](https://www.reichelt.com/be/nl/shop/product/raspberry_pi_b_4x_usb_2_0_40_pin_gpio-146194?PROVID=2812&gad_source=1&gad_campaignid=17940466725&gbraid=0AAAAADwnxtYgupAc7-b9jkGoppKmLDwfj&gclid=CjwKCAjw5NvPBhAoEiwA_2egfvPjITOcMYFfWwEmHcvbbq0vB5tXqlIw2rvz-NOTxtA2_YksYjddbBoCtCcQAvD_BwE)| 1 | €27 |
 
 - 1 x [Raspberry PI 2](https://www.reichelt.com/be/nl/shop/product/raspberry_pi_b_4x_usb_2_0_40_pin_gpio-146194?PROVID=2812&gad_source=1&gad_campaignid=17940466725&gbraid=0AAAAADwnxtYgupAc7-b9jkGoppKmLDwfj&gclid=CjwKCAjw5NvPBhAoEiwA_2egfvPjITOcMYFfWwEmHcvbbq0vB5tXqlIw2rvz-NOTxtA2_YksYjddbBoCtCcQAvD_BwE)
