@@ -37,5 +37,5 @@ Alle code in verband met dit onderdeel is te vinden in de map [assistent](/src/a
 
 Het systeem gebruikt deze logica: 
 <p align="center">
-  <img src="/img/assistent_flowchart.svg" width="50%">
+  <img src="/img/assistent_flowchart_v3.svg" width="50%">
 </p>
