@@ -30,7 +30,9 @@
 - Multiplex
 - Sheetmetal
 
-### Finaal product
+## Finaal product
+
+### BOM
 
 | Onderdeel | Aantal | Prijs | Bron |
 |:-----------:|:--------:|:-------:|:-------:|
@@ -48,4 +50,6 @@
 | [USB wifi adapter](amazon.com.be/-/nl/TP-Link-WiFi-dongle-wifi-adapter-wifi-dongle-T2U/dp/B07KRCW6LZ/ref=asc_df_B07KRCW6LZ?mcid=852928d45dda3abfa57e9e1627f34a65&tag=begogshpadd0d-21&linkCode=df0&hvadid=714453674833&hvpos=&hvnetw=g&hvrand=8046058247111062234&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9197127&hvtargid=pla-640626983653&psc=1&language=nl_BE&gad_source=1) | 1 | €12 | Amazon |
 | [Generic PLA](https://eu.store.bambulab.com/nl/products/pla-basic-filament) | 2 | €11,5 | Bambu |
 | [1,5mm PMMA](https://www.amazon.com.be/Signal%C3%A9tique-biz-France-Transparante-acrylplaat-ge%C3%ABxtrudeerd/dp/B0BFHNWQ7F/ref=sr_1_2_sspa?adgrpid=148067243431&dib=eyJ2IjoiMSJ9.tbxUJpW_oR35mPcnfpASdGAXoXE4kTYkbGxdRaY8uHfj4o_pCS-Xjog_SgLBYrC6FHrwXTlP0oZ4zUf-yrY2bDuzDb-eJzqTJuKnGyjliruSwt2UaYrtjOoV3Dg2aFH0X13lCOFTtg7a6OV0QRSU-bfQW1rQEdMztxDdkB4dF_sb0Dt2fEz_dYg-4uvyktN8UmvUigGsoumaJhfWy8Q23Ih24BRy0k0qxYUxPJhP59-CDzWV4q2IV2HvowSVbqjygmsvgWun07OYAxRF2K5MkKrmoQzfg4fdIQuwGsfZ-l0.wP7YXrAwnRBq2ewwE9rjQNpuIkRBrxKYokrT9mWKAEo&dib_tag=se&hvadid=644802296378&hvdev=c&hvlocphy=9197127&hvnetw=g&hvqmt=b&hvrand=8767030489506234302&hvtargid=kwd-312167386536&hydadcr=15893_2333909&keywords=pmma%2Bacryl&mcid=99ab2fdc1a4d3cc0973aea85e6959eae&qid=1781085249&s=industrial&sr=1-2-spons&aref=L53305OGNt&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1) | 1 | €8 | Amazon |
+
+### Building instructions
 
