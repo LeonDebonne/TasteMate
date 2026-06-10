@@ -53,3 +53,27 @@
 
 ### Building instructions
 
+#### Elektonica
+Het volledig systeem dient als volgt geschakeld te worden:
+
+<p align="center">
+  <img src="/img/SchemaRPi.png" width="100%">
+</p>
+
+Er wordt gebruikt gemaakt van een Raspberry Pi 2 met onderstaande layout qua GPIO-pinnen.
+
+<p align="center">
+  <img src="/img/Layout_Rpi.jpg" width="50%">
+</p>
+
+Om al deze onderdelen tergelijk te laten runnen wordt gebruik gemaakt van een [startbestand](/src/start_tastemate.sh). Dit zorgt ervoor dat alle onderdelen in correcte volgorde worden opgestart vanaf dat de Raspberry Pi stroom krijgt.
+#### Mock-up
+Doordat we niet beschikten over de juiste hardware om het product uit te werken tot een stand-alone object, is er een mock-up gemaakt om een idee te geven van hoe het product eruit zou zien.
+
+De CAD-bestanden voor de behuizing en de tactiele knop bevinden zich in deze map. Deze onderdelen dienen ge-3D-print te worden, net als het CAD-bestand van het scharnier. Het scharnier wordt vervolgens correct bevestigd met behulp van M5-bouten en borgmoeren. De behuizing kan daarna over de T-structuur van het scharnier schuiven.
+
+Om het scherm te simuleren wordt er gebruikgemaakt van een afgedrukt interface met een stuk plexiglas erboven. De sensor wordt op een gelijkaardige manier vervaardigd: twee cirkels plexiglas worden over de cilindrische delen van de afstandssensor geplaatst. De juiste vorm van de plexiglasonderdelen wordt bekomen door het [Lightburn-bestand](/cad/Plexi.lbrn) uit te voeren. Alle onderdelen worden bevestigd met lijm.
+
+Tot slot is er de knop. Een Arduino-drukknop wordt bovenaan vastgelijmd met de pinnen in de voorziene gaten. Het tactiele element van de knop past vervolgens over de Arduino-drukknop.
+
+Het geheel wordt aan de koelkast bevestigd via dubbelzijdige tape aan het scharnier.

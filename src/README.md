@@ -29,18 +29,3 @@ De koelkastinhoud wordt bijgehouden in een JSON-bestand dat automatisch wordt bi
 Technisch is het systeem geschreven in Python en maakt het gebruik van SpeechRecognition, de Gemini-library, Edge TTS, Pygame, en asyncio om alles gelijktijdig en responsief te laten verlopen. Dit is een [demo](https://drive.google.com/file/d/14yIs6-6K8cf76QumfmExPYO-qfYbNQzW/view?usp=sharing) hiervan.
 
 Alle code in verband met dit onderdeel is te vinden in de map [assistent](/src/assistent)
-
-### Volledig systeem
-Het volledig systeem dient als volgt opgebouwd te worden:
-
-<p align="center">
-  <img src="/img/SchemaRPi.png" width="100%">
-</p>
-
-Er wordt gebruikt gemaakt van een Raspberry Pi 2 met onderstaande layout qua GPIO-pinnen.
-
-<p align="center">
-  <img src="/img/Layout_Rpi.jpg" width="50%">
-</p>
-
-Om al deze onderdelen tergelijk te laten runnen wordt gebruik gemaakt van een [startbestand](/src/start_tastemate.sh). Dit zorgt ervoor dat alle onderdelen in correcte volgorde worden opgestart vanaf dat de Raspberry Pi stroom krijgt.
