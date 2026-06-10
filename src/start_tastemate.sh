@@ -21,11 +21,6 @@ python3 -m http.server 5173 &
 cd /home/tastemate/TasteMate_Opkomende_Tech/wake_up
 python3 wake_up.py &
 
-# assistent starten
-cd /home/tastemate/TasteMate_Opkomende_Tech/Assistent
-source .venv/bin/activate
-GPIOZERO_PIN_FACTORY=lgpio python3 TasteMate_Rpi.py &
-
 # wachten tot alles gestart is
 sleep 10
 
@@ -35,4 +30,10 @@ chromium-browser --kiosk http://localhost:5173 \
 --disable-translate \
 --disable-features=Translate \
 --no-first-run \
---disable-infobars
+--disable-infobars &
+
+sleep 10
+ # assistent starten
+cd /home/tastemate/TasteMate_Opkomende_Tech/Assistent
+source .venv/bin/activate
+GPIOZERO_PIN_FACTORY=lgpio python3 TasteMate_Rpi.py

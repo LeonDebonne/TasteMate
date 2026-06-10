@@ -68,7 +68,7 @@ Er wordt gebruikt gemaakt van een Raspberry Pi 2 met onderstaande layout qua GPI
   <img src="/img/Layout_Rpi.jpg" width="50%">
 </p>
 
-1. Om te beginnen dient er een micro-sd-kaartje in de Raspberry Pi gestoken te worden om deze te booten. 
+1. Om te beginnen dient er een micro-sd-kaartje met de Raspberry Pi Imager in het toestel gestoken te worden om deze te booten. 
 
 2. Hierna dient de wifi geconfigureerd te worden via de wifi adapter.
 
