@@ -11,6 +11,11 @@ Naast de library voor interactiemeting wordt ook gebruikgemaakt van de gpiozero-
 [Python code](/src/wake_up/wake_up.py).
 
 Deze [demo](https://drive.google.com/file/d/15hXSTagw5abH1k6NjG4eRMN9H7aIJM2_/view?usp=drive_link) toont de werking van de interface en het wake-up mechanisme.
+
+Het systeem gebruikt deze logica: 
+<p align="center">
+  <img src="/img/wakeup_flowchart.svg" width="50%">
+</p>
 ### Webservers
 Op het scherm dat wordt ingeschakeld door het wake-upmechanisme, wordt de interface weergegeven. Deze houdt de inventaris van de koelkast bij. De inventaris bevat gegevens zoals de houdbaarheidsdatum, het aantal en de locatie van producten.
 
@@ -29,3 +34,8 @@ De koelkastinhoud wordt bijgehouden in een JSON-bestand dat automatisch wordt bi
 Technisch is het systeem geschreven in Python en maakt het gebruik van SpeechRecognition, de Gemini-library, Edge TTS, Pygame, en asyncio om alles gelijktijdig en responsief te laten verlopen. Dit is een [demo](https://drive.google.com/file/d/14yIs6-6K8cf76QumfmExPYO-qfYbNQzW/view?usp=sharing) hiervan.
 
 Alle code in verband met dit onderdeel is te vinden in de map [assistent](/src/assistent)
+
+Het systeem gebruikt deze logica: 
+<p align="center">
+  <img src="/img/assistent_flowchart.svg" width="50%">
+</p>

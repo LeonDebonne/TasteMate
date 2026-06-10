@@ -1,0 +1,162 @@
+<svg width="100%" viewBox="0 0 680 1090" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Flowchart voice-assistent v3</title>
+  <desc>Stroomdiagram van de spraakgestuurde koelkastassistent met knopbediening</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <!-- Start -->
+  <g>
+    <rect x="230" y="30" width="220" height="56" rx="28" stroke-width="0.5" style="fill:rgb(68,68,65);stroke:rgb(180,178,169);"/>
+    <text x="340" y="50" text-anchor="middle" dominant-baseline="central" style="fill:rgb(211,209,199);font-family:system-ui,sans-serif;font-size:14px;font-weight:500;">Assistent opstarten</text>
+    <text x="340" y="70" text-anchor="middle" dominant-baseline="central" style="fill:rgb(156,154,146);font-family:system-ui,sans-serif;font-size:12px;">GPIO, pygame, microfoon kalibreren</text>
+  </g>
+
+  <!-- Pijl 1 -->
+  <line x1="340" y1="86" x2="340" y2="114" marker-end="url(#arrow)" style="fill:none;stroke:rgb(156,154,146);stroke-width:1.5px;"/>
+
+  <!-- Wachten op knop -->
+  <g>
+    <rect x="210" y="114" width="260" height="56" rx="8" stroke-width="0.5" style="fill:rgb(12,68,124);stroke:rgb(133,183,235);"/>
+    <text x="340" y="134" text-anchor="middle" dominant-baseline="central" style="fill:rgb(181,212,244);font-family:system-ui,sans-serif;font-size:14px;font-weight:500;">Wachten op knopdruk</text>
+    <text x="340" y="154" text-anchor="middle" dominant-baseline="central" style="fill:rgb(133,183,235);font-family:system-ui,sans-serif;font-size:12px;">button.wait_for_press() op GPIO17</text>
+  </g>
+
+  <!-- Pijl 2 -->
+  <line x1="340" y1="170" x2="340" y2="210" marker-end="url(#arrow)" style="fill:none;stroke:rgb(156,154,146);stroke-width:1.5px;"/>
+
+  <!-- Buzzer piept -->
+  <g>
+    <rect x="210" y="210" width="260" height="56" rx="8" stroke-width="0.5" style="fill:rgb(12,68,124);stroke:rgb(133,183,235);"/>
+    <text x="340" y="230" text-anchor="middle" dominant-baseline="central" style="fill:rgb(181,212,244);font-family:system-ui,sans-serif;font-size:14px;font-weight:500;">Buzzer 2× piepen</text>
+    <text x="340" y="250" text-anchor="middle" dominant-baseline="central" style="fill:rgb(133,183,235);font-family:system-ui,sans-serif;font-size:12px;">GPIO27 — bevestiging voor gebruiker</text>
+  </g>
+
+  <!-- Pijl 3 -->
+  <line x1="340" y1="266" x2="340" y2="306" marker-end="url(#arrow)" style="fill:none;stroke:rgb(156,154,146);stroke-width:1.5px;"/>
+
+  <!-- Audio opnemen -->
+  <g>
+    <rect x="210" y="306" width="260" height="56" rx="8" stroke-width="0.5" style="fill:rgb(12,68,124);stroke:rgb(133,183,235);"/>
+    <text x="340" y="326" text-anchor="middle" dominant-baseline="central" style="fill:rgb(181,212,244);font-family:system-ui,sans-serif;font-size:14px;font-weight:500;">Audio opnemen</text>
+    <text x="340" y="346" text-anchor="middle" dominant-baseline="central" style="fill:rgb(133,183,235);font-family:system-ui,sans-serif;font-size:12px;">Max 10s — USB microfoon</text>
+  </g>
+
+  <!-- Pijl 4 -->
+  <line x1="340" y1="362" x2="340" y2="402" marker-end="url(#arrow)" style="fill:none;stroke:rgb(156,154,146);stroke-width:1.5px;"/>
+
+  <!-- Spraak verstaan? -->
+  <g>
+    <path d="M340,402 L470,462 L340,522 L210,462 Z" style="fill:rgb(225,245,238);stroke:rgb(15,110,86);stroke-width:0.5px;"/>
+    <text x="340" y="454" text-anchor="middle" dominant-baseline="central" style="fill:rgb(159,225,203);font-family:system-ui,sans-serif;font-size:14px;font-weight:500;">Spraak</text>
+    <text x="340" y="472" text-anchor="middle" dominant-baseline="central" style="fill:rgb(159,225,203);font-family:system-ui,sans-serif;font-size:14px;font-weight:500;">verstaan?</text>
+  </g>
+
+  <!-- NEE links — niet verstaan -->
+  <line x1="210" y1="462" x2="140" y2="462" marker-end="url(#arrow)" style="fill:none;stroke:rgb(156,154,146);stroke-width:1.5px;"/>
+  <text x="170" y="450" text-anchor="middle" style="fill:rgb(194,192,182);font-family:system-ui,sans-serif;font-size:12px;">NEE</text>
+  <path d="M140 462 L140 142 L210 142" fill="none" stroke="rgba(222,220,209,0.4)" stroke-width="1" marker-end="url(#arrow)"/>
+  <text x="76" y="304" text-anchor="end" style="fill:rgb(194,192,182);font-family:system-ui,sans-serif;font-size:12px;">Opnieuw</text>
+  <text x="76" y="320" text-anchor="end" style="fill:rgb(194,192,182);font-family:system-ui,sans-serif;font-size:12px;">proberen</text>
+
+  <!-- NEE rechts — request error -->
+  <line x1="470" y1="462" x2="540" y2="462" marker-end="url(#arrow)" style="fill:none;stroke:rgb(156,154,146);stroke-width:1.5px;"/>
+  <text x="500" y="450" text-anchor="middle" style="fill:rgb(194,192,182);font-family:system-ui,sans-serif;font-size:12px;">FOUT</text>
+  <g>
+    <rect x="540" y="440" width="110" height="44" rx="8" stroke-width="0.5" style="fill:rgb(113,43,19);stroke:rgb(240,153,123);"/>
+    <text x="595" y="456" text-anchor="middle" dominant-baseline="central" style="fill:rgb(245,196,179);font-family:system-ui,sans-serif;font-size:14px;font-weight:500;">Geen verbinding</text>
+    <text x="595" y="472" text-anchor="middle" dominant-baseline="central" style="fill:rgb(240,153,123);font-family:system-ui,sans-serif;font-size:12px;">RequestError</text>
+  </g>
+  <path d="M595 484 L595 1008 L450 1008" fill="none" stroke="rgba(222,220,209,0.4)" stroke-width="1" marker-end="url(#arrow)"/>
+
+  <!-- JA pijl naar beneden -->
+  <text x="295" y="537" text-anchor="middle" style="fill:rgb(194,192,182);font-family:system-ui,sans-serif;font-size:12px;">JA</text>
+  <line x1="340" y1="522" x2="340" y2="562" marker-end="url(#arrow)" style="fill:none;stroke:rgb(156,154,146);stroke-width:1.5px;"/>
+
+  <!-- Inventory laden -->
+  <g>
+    <rect x="210" y="562" width="260" height="56" rx="8" stroke-width="0.5" style="fill:rgb(12,68,124);stroke:rgb(133,183,235);"/>
+    <text x="340" y="582" text-anchor="middle" dominant-baseline="central" style="fill:rgb(181,212,244);font-family:system-ui,sans-serif;font-size:14px;font-weight:500;">Inventory inlezen</text>
+    <text x="340" y="602" text-anchor="middle" dominant-baseline="central" style="fill:rgb(133,183,235);font-family:system-ui,sans-serif;font-size:12px;">Actuele JSON ophalen</text>
+  </g>
+
+  <!-- Inventory niet gevonden — fout rechts -->
+  <line x1="470" y1="590" x2="540" y2="590" marker-end="url(#arrow)" style="fill:none;stroke:rgb(156,154,146);stroke-width:1.5px;"/>
+  <text x="500" y="578" text-anchor="middle" style="fill:rgb(194,192,182);font-family:system-ui,sans-serif;font-size:12px;">FOUT</text>
+  <g>
+    <rect x="540" y="568" width="110" height="44" rx="8" stroke-width="0.5" style="fill:rgb(113,43,19);stroke:rgb(240,153,123);"/>
+    <text x="595" y="584" text-anchor="middle" dominant-baseline="central" style="fill:rgb(245,196,179);font-family:system-ui,sans-serif;font-size:14px;font-weight:500;">Niet gevonden</text>
+    <text x="595" y="600" text-anchor="middle" dominant-baseline="central" style="fill:rgb(240,153,123);font-family:system-ui,sans-serif;font-size:12px;">FileNotFoundError</text>
+  </g>
+  <path d="M595 612 L595 1008" fill="none" stroke="rgba(222,220,209,0.4)" stroke-width="1"/>
+
+  <!-- Pijl 6 -->
+  <line x1="340" y1="618" x2="340" y2="658" marker-end="url(#arrow)" style="fill:none;stroke:rgb(156,154,146);stroke-width:1.5px;"/>
+
+  <!-- Gemini AI -->
+  <g>
+    <rect x="210" y="658" width="260" height="56" rx="8" stroke-width="0.5" style="fill:rgb(60,52,137);stroke:rgb(175,169,236);"/>
+    <text x="340" y="678" text-anchor="middle" dominant-baseline="central" style="fill:rgb(206,203,246);font-family:system-ui,sans-serif;font-size:14px;font-weight:500;">Vraag naar Gemini AI</text>
+    <text x="340" y="698" text-anchor="middle" dominant-baseline="central" style="fill:rgb(175,169,236);font-family:system-ui,sans-serif;font-size:12px;">Antwoord genereren</text>
+  </g>
+
+  <!-- Gemini fout rechts -->
+  <line x1="470" y1="686" x2="540" y2="686" marker-end="url(#arrow)" style="fill:none;stroke:rgb(156,154,146);stroke-width:1.5px;"/>
+  <text x="500" y="674" text-anchor="middle" style="fill:rgb(194,192,182);font-family:system-ui,sans-serif;font-size:12px;">FOUT</text>
+  <g>
+    <rect x="540" y="664" width="110" height="44" rx="8" stroke-width="0.5" style="fill:rgb(113,43,19);stroke:rgb(240,153,123);"/>
+    <text x="595" y="680" text-anchor="middle" dominant-baseline="central" style="fill:rgb(245,196,179);font-family:system-ui,sans-serif;font-size:14px;font-weight:500;">Gemini fout</text>
+    <text x="595" y="696" text-anchor="middle" dominant-baseline="central" style="fill:rgb(240,153,123);font-family:system-ui,sans-serif;font-size:12px;">Overbelast</text>
+  </g>
+  <path d="M595 708 L595 1008" fill="none" stroke="rgba(222,220,209,0.4)" stroke-width="1"/>
+
+  <!-- Pijl 7 -->
+  <line x1="340" y1="714" x2="340" y2="754" marker-end="url(#arrow)" style="fill:none;stroke:rgb(156,154,146);stroke-width:1.5px;"/>
+
+  <!-- Antwoord uitspreken -->
+  <g>
+    <rect x="210" y="754" width="260" height="56" rx="8" stroke-width="0.5" style="fill:rgb(12,68,124);stroke:rgb(133,183,235);"/>
+    <text x="340" y="774" text-anchor="middle" dominant-baseline="central" style="fill:rgb(181,212,244);font-family:system-ui,sans-serif;font-size:14px;font-weight:500;">Antwoord uitspreken</text>
+    <text x="340" y="794" text-anchor="middle" dominant-baseline="central" style="fill:rgb(133,183,235);font-family:system-ui,sans-serif;font-size:12px;">Edge TTS + pygame</text>
+  </g>
+
+  <!-- Lus terug naar wachten op knop (links) -->
+  <path d="M210 782 L80 782 L80 142 L210 142" fill="none" stroke="rgba(222,220,209,0.4)" stroke-width="1" marker-end="url(#arrow)"/>
+  <text x="76" y="462" text-anchor="end" style="fill:rgb(194,192,182);font-family:system-ui,sans-serif;font-size:12px;">Volgende</text>
+  <text x="76" y="478" text-anchor="end" style="fill:rgb(194,192,182);font-family:system-ui,sans-serif;font-size:12px;">vraag</text>
+
+  <!-- Pijl 8 -->
+  <line x1="340" y1="810" x2="340" y2="850" marker-end="url(#arrow)" style="fill:none;stroke:rgb(156,154,146);stroke-width:1.5px;"/>
+
+  <!-- Ctrl+C -->
+  <g>
+    <rect x="210" y="850" width="260" height="44" rx="8" stroke-width="0.5" style="fill:rgb(113,43,19);stroke:rgb(240,153,123);"/>
+    <text x="340" y="866" text-anchor="middle" dominant-baseline="central" style="fill:rgb(245,196,179);font-family:system-ui,sans-serif;font-size:14px;font-weight:500;">Ctrl+C ingedrukt</text>
+    <text x="340" y="884" text-anchor="middle" dominant-baseline="central" style="fill:rgb(240,153,123);font-family:system-ui,sans-serif;font-size:12px;">KeyboardInterrupt</text>
+  </g>
+
+  <!-- Pijl 9 -->
+  <line x1="340" y1="894" x2="340" y2="934" marker-end="url(#arrow)" style="fill:none;stroke:rgb(156,154,146);stroke-width:1.5px;"/>
+
+  <!-- Opruimen -->
+  <g>
+    <rect x="210" y="934" width="260" height="56" rx="8" stroke-width="0.5" style="fill:rgb(12,68,124);stroke:rgb(133,183,235);"/>
+    <text x="340" y="954" text-anchor="middle" dominant-baseline="central" style="fill:rgb(181,212,244);font-family:system-ui,sans-serif;font-size:14px;font-weight:500;">Audio opruimen</text>
+    <text x="340" y="974" text-anchor="middle" dominant-baseline="central" style="fill:rgb(133,183,235);font-family:system-ui,sans-serif;font-size:12px;">pygame.mixer stoppen</text>
+  </g>
+
+  <!-- Fout-pijlen samenkomen bij opruimen -->
+  <line x1="595" y1="1008" x2="470" y2="1008" marker-end="url(#arrow)" style="fill:none;stroke:rgba(222,220,209,0.4);stroke-width:1px;"/>
+
+  <!-- Pijl 10 -->
+  <line x1="340" y1="990" x2="340" y2="1022" marker-end="url(#arrow)" style="fill:none;stroke:rgb(156,154,146);stroke-width:1.5px;"/>
+
+  <!-- Einde -->
+  <g>
+    <rect x="230" y="1022" width="220" height="44" rx="22" stroke-width="0.5" style="fill:rgb(68,68,65);stroke:rgb(180,178,169);"/>
+    <text x="340" y="1044" text-anchor="middle" dominant-baseline="central" style="fill:rgb(211,209,199);font-family:system-ui,sans-serif;font-size:14px;font-weight:500;">Assistent sluit af</text>
+  </g>
+
+</svg>
