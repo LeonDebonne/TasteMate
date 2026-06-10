@@ -75,15 +75,13 @@ Er wordt gebruikt gemaakt van een Raspberry Pi 2 met onderstaande layout qua GPI
 3. Vervolgens moeten de mappen assistent, wake_up en webserver op het toestel gezet worden samen met het startbestand. Dit wordt gedaan door deze GIT te clonen.
 
 4. Daarna moeten de system dependencies geinstalleerd te wordenen, dit bevat Python en andere hardware en wordt gedaan met de commando's: 
-
+```
 sudo apt update && sudo apt upgrade -y
-
 sudo apt install python3 python3-pip python3-venv git
-
+```
 5. Vervolgens dient een virtual environment gestart te wordenom conflicten in tussen de codes te vermijden.
 
 python3 -m venv venv
-
 source venv/bin/activate
 
 
