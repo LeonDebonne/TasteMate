@@ -13,10 +13,8 @@ De doelstellingen van deze deelopdracht zijn:
 
 ### Materialen & methoden
 Het CMF onderzoek is gestart vanuit enkele referntiefoto's om een eerste beeld te krijgen van naar welke stijl gestreefd wordt.
-
 <p align="center">
 <img src="/img/Referenties.png" width="75%">
-
 Deze referenties zijn gezocht met enkele kernwoorden in het achterhoofd namelijk; zintuigeljik, minimalistisch, afgerond, verfijnd en neutraal.
 
 Voor deze fase werden prototypevarianten ontwikkeld die onderling verschillen op het vlak van vorm, materiaal en afwerking. De respondenten vormen een gevarieerde steekproef wat betreft leeftijd, achtergrond en vertrouwdheid met het producttype. Er wordt gestreefd naar een evenwichtige verdeling van geslacht en leeftijdscategorie.
