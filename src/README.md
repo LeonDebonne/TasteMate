@@ -40,3 +40,10 @@ Het systeem gebruikt deze logica:
 <p align="center">
   <img src="/img/assistent_flowchart_v3.svg" width="50%">
 </p>
+
+### Demo
+De [demo](https://drive.google.com/file/d/180jzexIB4C8E2kLoHuXuokE77BI3YjYS/view?usp=drive_link) van het volledige systeem maakt gebruik van een scherm dat uitsluitend via de Raspberry Pi is verbonden. Dit omdat het touchscreen blokkeerde tijdens de tests. Het valideert wel dat het systeem kan werken als de bugs eruit gehaald worden.
+
+Er zijn verschillende mogelijke oorzaken voor het vastlopen van de Raspberry Pi bij gebruik van het touchscreen. Een eerste oorzaak is dat de audio-in- en uitvoer in de war raakt doordat het touchscreen twee USB-poorten in gebruik neemt, waardoor het scherm mogelijk als audio-uitgang wordt geregistreerd.
+
+Een tweede oorzaak kan zijn dat de powerbank onvoldoende vermogen levert om alle onderdelen gelijktijdig te laten werken. Het touchscreen verbruikt aanzienlijk meer energie dan het gewone scherm, dat enkel via HDMI is aangesloten.
