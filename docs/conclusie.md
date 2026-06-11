@@ -9,3 +9,9 @@ Tijdens de definition- en develop-fase werd het concept iteratief uitgewerkt en 
 De validatie van het Minimum Viable Product toonde aan dat gebruikers op een toegankelijke manier informatie uit het systeem konden opvragen. Bovendien behaalde het concept een gemiddelde SUS-score van 81,75%, waarmee de vooropgestelde usability goal van minimaal 80% werd bereikt. De gebruikerstesten bevestigden dat de kernfunctionaliteiten intuïtief waren en dat gebruikers relatief snel hun weg vonden binnen het systeem.
 
 Hoewel bepaalde technische aspecten, zoals het automatisch registreren en beheren van productdata, buiten de technische haalbaarheid van dit project vielen, geloven we dat TasteMate een sterke en geloofwaardige oplossing biedt voor het oorspronkelijke probleem indien dit technisch nog uitgebreider wordt. Het concept combineert toegankelijkheid, zelfstandigheid en communicatie binnen één systeem en vormt daardoor een waardevolle ondersteuning voor blinde en slechtziende personen bij het beheren van hun koelkastinhoud.
+
+<p align="center">
+  <img src="/img/Heroshot2.png" width="32%">
+  <img src="/img/Mockup2.jpg" width="32%">
+  <img src="/img/Mockup1.jpg" width="32%">
+</p>
