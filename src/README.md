@@ -50,5 +50,5 @@ Een tweede oorzaak kan zijn dat de powerbank onvoldoende vermogen levert om alle
 
 De uiteindelijke schakeling zag er zo uit:
 <p align="center">
-  <img src="/img/Schakeling.png" width="50%">
+  <img src="/img/Schakeling.png" width="100%">
 </p>
