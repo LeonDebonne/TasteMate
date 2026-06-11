@@ -32,7 +32,7 @@ chromium-browser --kiosk http://localhost:5173 \
 --no-first-run \
 --disable-infobars &
 
-sleep 10
+sleep 20
  # assistent starten
 cd /home/tastemate/TasteMate_Opkomende_Tech/Assistent
 source .venv/bin/activate
