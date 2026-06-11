@@ -16,6 +16,7 @@ Het systeem gebruikt deze logica:
 <p align="center">
   <img src="/img/wakeup_flowchart.svg" width="50%">
 </p>
+
 ### Webservers
 Op het scherm dat wordt ingeschakeld door het wake-upmechanisme, wordt de interface weergegeven. Deze houdt de inventaris van de koelkast bij. De inventaris bevat gegevens zoals de houdbaarheidsdatum, het aantal en de locatie van producten.
 

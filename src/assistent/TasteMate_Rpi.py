@@ -6,7 +6,7 @@ import pygame
 import io
 import json
 import os
-from gpiozero import Button, Buzzer
+from gpiozero import Button
 from key import GEMINI_API_KEY
 
 # Audio via ALSA gebruiken, nodig voor Raspberry Pi / MAX98357A
@@ -30,10 +30,6 @@ r = sr.Recognizer()
 # Knop aangesloten tussen GPIO17 en GND
 BUTTON_PIN = 17
 button = Button(BUTTON_PIN, pull_up=True, bounce_time=0.1)
-
-# Buzzer op GPIO27
-BUZZER_PIN = 27
-buzzer = Buzzer(BUZZER_PIN)
 
 # Luistertijd na knop
 PHRASE_TIME_LIMIT = 10
@@ -87,15 +83,6 @@ def inventory_naar_tekst(inventory):
     return "\n".join(regels)
 
 
-async def piep_twee_maal():
-    """Laat de buzzer 2 maal piepen."""
-    for _ in range(2):
-        buzzer.on()
-        await asyncio.sleep(1)
-        buzzer.off()
-        await asyncio.sleep(1)
-
-
 async def speak(text):
 
     # Tekst naar spraak via Edge TTS
@@ -146,9 +133,6 @@ async def main():
                 button.wait_for_press()
 
                 print("Knop ingedrukt.")
-
-                # Buzzer 2 maal laten piepen
-                await piep_twee_maal()
 
                 print("Assistent luistert nu...")
 
