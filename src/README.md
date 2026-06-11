@@ -47,3 +47,8 @@ De [demo](https://drive.google.com/file/d/180jzexIB4C8E2kLoHuXuokE77BI3YjYS/view
 Er zijn verschillende mogelijke oorzaken voor het vastlopen van de Raspberry Pi bij gebruik van het touchscreen. Een eerste oorzaak is dat de audio-in- en uitvoer in de war raakt doordat het touchscreen twee USB-poorten in gebruik neemt, waardoor het scherm mogelijk als audio-uitgang wordt geregistreerd.
 
 Een tweede oorzaak kan zijn dat de powerbank onvoldoende vermogen levert om alle onderdelen gelijktijdig te laten werken. Het touchscreen verbruikt aanzienlijk meer energie dan het gewone scherm, dat enkel via HDMI is aangesloten.
+
+De uiteindelijke schakeling zag er zo uit:
+<p align="center">
+  <img src="/img/Schakeling.png" width="100%">
+</p>
