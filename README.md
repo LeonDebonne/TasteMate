@@ -115,3 +115,8 @@ You are free to reuse and build upon this work, both commercially and non-commer
 ## Bronnen
 Liegeard, J., & Manning, L. (2019). Use of intelligent applications to reduce household food waste. Critical Reviews in Food Science and Nutrition, 60(6), 1048–1061.
 
+## Bijlages
+* [Figma](https://www.figma.com/board/59k548JUTl15b52AJoe5UV/TasteMate?node-id=10-61&t=lsChgVIFU8SK2wAH-1)
+* [Vizcom](https://app.vizcom.com/workbench/dc0de77b-4444-438e-a90e-edc5628e1e74#sharing_secret=6475565b-30eb-40a4-882c-73e90d144d48)
+* [Figma Interface](https://www.figma.com/make/pgeZag6MNCPOQKma9MVNmQ/Koelkast-inventaris-interface?t=HiBIRN7gsiTSVexH-1)
+
