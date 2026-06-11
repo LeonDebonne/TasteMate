@@ -18,6 +18,7 @@ Het CMF onderzoek is gestart vanuit enkele referntiefoto's om een eerste beeld t
 </p>
 Deze referenties zijn gezocht met enkele kernwoorden in het achterhoofd namelijk; zintuigeljik, minimalistisch, afgerond, verfijnd en neutraal.
 
+
 Voor deze fase werden prototypevarianten ontwikkeld die onderling verschillen op het vlak van vorm, materiaal en afwerking. De respondenten vormen een gevarieerde steekproef wat betreft leeftijd, achtergrond en vertrouwdheid met het producttype. Er wordt gestreefd naar een evenwichtige verdeling van geslacht en leeftijdscategorie.
 
 Na een korte inleiding waarbij het project wordt toegelicht. Krijgt de testpersoon de tijd om de prototypevarianten rustig te bekijken en de materialen te voelen. Hierbij wordt gepeild naar de eerste indruk: welke variant trekt meteen de aandacht en welke spreekt het minste aan.
