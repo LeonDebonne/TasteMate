@@ -79,6 +79,11 @@ Er wordt gebruikt gemaakt van een Raspberry Pi 2 met onderstaande layout qua GPI
     sudo apt update && sudo apt upgrade -y
     sudo apt install python3 python3-pip python3-venv git
     sudo apt install python3-gpiozero
+    sudo apt install nodejs npm
+    ```
+    en
+    ```
+    cd webserver
     npm install
     ```
 5. Vervolgens dient een virtual environment gestart te wordenom conflicten in tussen de codes te vermijden.
@@ -86,7 +91,7 @@ Er wordt gebruikt gemaakt van een Raspberry Pi 2 met onderstaande layout qua GPI
     python3 -m venv venv
     source venv/bin/activate
     ```
-6. Hierna moeten de nodige librarys geinstalleerd worden.
+6. Hierna moeten de nodige librarys geinstalleerd worden in deze venv.
     Voor het wake up bestand is dit
     ```
     pip install pyautogui
@@ -98,6 +103,7 @@ Er wordt gebruikt gemaakt van een Raspberry Pi 2 met onderstaande layout qua GPI
     pip install edge-tts 
     pip install pygame
     pip install pyaudio
+    pip install 
     ```
 
     voor de servers is dit
@@ -106,10 +112,15 @@ Er wordt gebruikt gemaakt van een Raspberry Pi 2 met onderstaande layout qua GPI
     ```
 7. Daarna moet de server gebuild worden.
     ```
+    cd webserver
     npm run build
     ```
 8. Als laatste dient er ingesteld te worden dat het [startbestand](/src/start_tastemate.sh) automatisch opstart.
-    dit wordt gedaan via de terminal met:
+    Eerst moet het bestand uitvoerbaar gemaakt worden met:
+    ```
+    chmod +x /home/tastemate/start_tastemate.sh
+    ```
+    En dan moet het worden ingsteld via de terminal met:
     ```
     nano /home/tastemate/.config/lxsession/LXDE-pi/autostart
     ```
