@@ -26,6 +26,8 @@ Dit project situeert zich binnen het domein van assistieve technologie en inclus
 
 De oplossing richt zich op zelfstandig wonende blinden en slechtzienden die ondersteund worden door een familielid of professionele begeleider. Belangrijke randvoorwaarden zijn dat het systeem betaalbaar en gebruiksvriendelijk moet zijn. De add-on fungeert nadrukkelijk als ondersteuning en niet als vervanging van menselijke zorg.
 
+[Demonstrator Movie](https://www.youtube.com/watch?v=ily1LTjktjU)
+
 ## Inhoudstafel
 
 1. [Methodologie](./docs/methodologie.md)
