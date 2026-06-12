@@ -71,10 +71,10 @@ De beslissingsmatrix werd gemiddeld als volgt ingevuld:
 
 | **Criterium** | **Nr.1** | **Nr.2** | **Nr.3** | **Nr.4** | **Nr.5** | **Nr.6** |
 | --- | --- | --- | --- | --- | --- | --- |
-| Vormgeving (1–5) | 4 | 5 | 3 | 5 | 1 | 2 |
-| Materiaal (1–5) | 5 | 4 | 4 | 5 | 1 | 2 |
-| Kleurenpalet (1–5) | 5 | 4 | 3 | 2 | 1 | 1 |
-| Vorm knop (1–5) | 2 | 4 | 5 | 3 | 3 | 1 |
+| Vormgeving (1–5) | 4 | **5** | 3 | 5 | 1 | 2 |
+| Materiaal (1–5) | **5** | 4 | 4 | 5 | 1 | 2 |
+| Kleurenpalet (1–5) | **5** | 4 | 3 | 2 | 1 | 1 |
+| Vorm knop (1–5) | 2 | 4 | **5** | 3 | 3 | 1 |
 | Algemene voorkeur (1–5) | 4 | 4 | 4 | 3 | 2 | 1 |
 
 Drie ontwerpen komen op gelijk hoogte. Wanneer de knopvorm buiten beschouwing wordt gelaten, scoort ontwerp 1 het best. Er zijn echter nog betere combinaties mogelijk door elementen uit meerdere varianten te combineren, zoals ook op het CMF-board werd aangeduid.
@@ -92,7 +92,7 @@ De door de gebruikers genoemde referentiemerken waren Bang & Olufsen, Sonos, Phi
 
 De resultaten tonen een duidelijke en consistente voorkeur voor een rustig, professioneel en functioneel CMF-profiel. Gebruikers verwachten een kunststoffen behuizing die warm aanvoelt en kwaliteit uitstraalt, in een neutraal kleurenpalet (zwart of wit) en met een matte afwerking. De afgeronde behuizingsvorm en een groot, tactiel herkenbaar knopelement sluiten het best aan bij de verwachtingen van de gebruikers.
 
-De usability-goals werden grotendeels behaald: er is een duidelijke meerderheidsfavoriet op vlak van materiaal en afwerking, en de voorkeuren voor kleur vertonen een consistent patroon over alle testpersonen heen. De analyse van referentiemerken bevestigt bovendien de richting die de gebruikers aanduiden.
+De doelstellingen werden grotendeels behaald: er is een duidelijke meerderheidsfavoriet op vlak van materiaal en afwerking, en de voorkeuren voor kleur vertonen een consistent patroon over alle testpersonen heen. De analyse van referentiemerken bevestigt bovendien de richting die de gebruikers aanduiden.
 
 Op basis van deze bevindingen kunnen de definitieve CMF-keuzes worden vastgelegd. Enkele verfijningen, zoals de exacte knopvorm en de precieze kleurspecificaties, kunnen in een volgende iteratie verder worden uitgewerkt op basis van materiaalstalen en kleurproeven.
 
