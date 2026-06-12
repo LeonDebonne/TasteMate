@@ -91,7 +91,7 @@ Er wordt gebruikt gemaakt van een Raspberry Pi 2 met onderstaande layout qua GPI
     python3 -m venv venv
     source venv/bin/activate
     ```
-6. Hierna moeten de nodige librarys geinstalleerd worden in deze venv.
+6. Hierna moeten de nodige libraries geinstalleerd worden in deze venv.
     Voor het wake up bestand is dit
     ```
     pip install pyautogui
@@ -120,7 +120,7 @@ Er wordt gebruikt gemaakt van een Raspberry Pi 2 met onderstaande layout qua GPI
     ```
     chmod +x /home/tastemate/start_tastemate.sh
     ```
-    En dan moet het worden ingsteld via de terminal met:
+    en dan moet het worden ingesteld via de terminal met:
     ```
     nano /home/tastemate/.config/lxsession/LXDE-pi/autostart
     ```

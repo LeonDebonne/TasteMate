@@ -1,6 +1,6 @@
 ## Develop 1
 ### Doelstellingen
-Het doel van deze fase is om concept testing uit te voeren en de promise value definieëren. Dit via enkele interviews en fysieke testen. Verder zijn er verschillende structuren toegepast om de interacties en archtectuur van het product vast te stellen. Hierna kan er volledig gefocused worden op het product zelf en de gebruikstesten. Concreet werden volgende punten onderzocht. 
+Het doel van deze fase is om concept testing uit te voeren en de promise value definieëren. Dit via enkele interviews en fysieke testen. Verder zijn er verschillende structuren toegepast om de interacties en archtectuur van het product vast te stellen. Hierna kan er volledig gefocust worden op het product zelf en de gebruikstesten. Concreet werden volgende punten onderzocht. 
 
 - Onderzoeken welke bevestigingsmethode werkt voor ons product.
 - Finaal onderzoek naar valuepromise.
@@ -18,9 +18,9 @@ Deze test werd uitgevoerd om de meest geschikte bevestigingsmethode voor de koel
 Het gewicht is verbonden met een scharnier. Op deze manier wordt de bevestigingsmethode in verschillende standen getest. Daarnaast worden ook de sterkte van het scharnier en die van de verbinding geëvalueerd.
 
 #### User interviews
-De gebruikersinterviews hebben als doel de value proposition van het product te bepalen. Daarnaast wordt er gepeild naar feedback over de interface. Dit zorgt ervoor dat er geen essentiële zaken over het hoofd worden gezien. Het betreft semigestructureerde interviews die werden afgenomen volgens een protocol
+De gebruikersinterviews hebben als doel de value promise van het product te bepalen. Daarnaast wordt er gepeild naar feedback over de interface. Dit zorgt ervoor dat er geen essentiële zaken over het hoofd worden gezien. Het betreft semigestructureerde interviews die werden afgenomen volgens een protocol.
 
-Bij de interviews met begeleiders werd gebruik gemaakt van enkele foto’s en een in FigmaMake interface om het product en het probleem duidelijk te schetsen.
+Bij de interviews met begeleiders werd gebruik gemaakt van enkele foto’s en een FigmaMake interface om het product en het probleem duidelijk te schetsen.
 <p align="center">
   <img src="/img/Interface_Develop1.png" widt=100%>
 

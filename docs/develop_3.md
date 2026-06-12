@@ -12,11 +12,11 @@ De doelstellingen van deze deelopdracht zijn:
 - Het onderzoeken van mogelijke patronen in gebruikersvoorkeuren op basis van contextfactoren, zoals woonomgeving of huiselijke samenstelling
 
 ### Materialen & methoden
-Het CMF onderzoek is gestart vanuit enkele referntiefoto's om een eerste beeld te krijgen van naar welke stijl gestreefd wordt.
+Het CMF onderzoek is gestart vanuit enkele referentiefoto's om een eerste beeld te krijgen van naar welke stijl gestreefd wordt.
 <p align="center">
     <img src="/img/Referenties.png" width="75%">
 </p>
-Deze referenties zijn gezocht met enkele kernwoorden in het achterhoofd namelijk; zintuigeljik, minimalistisch, afgerond, verfijnd en neutraal.
+Deze referenties zijn gezocht met enkele kernwoorden in het achterhoofd namelijk; zintuigelijk, minimalistisch, afgerond, verfijnd en neutraal.
 </p>
 Voor deze fase werden prototypevarianten ontwikkeld die onderling verschillen op het vlak van vorm, materiaal en afwerking. De respondenten vormen een gevarieerde steekproef wat betreft leeftijd, achtergrond en vertrouwdheid met het producttype. Er wordt gestreefd naar een evenwichtige verdeling van geslacht en leeftijdscategorie.
 
@@ -54,10 +54,10 @@ De test wordt afgesloten met een korte evaluatievragenlijst waarbij elke variant
 #### User tests
 
 **Kleur:**
-De testpersonen gaven duidelijk de voorkeur aan neutrale kleuren zoals zwart en wit. Het product mag de aandacht in de keuken niet afleiden; de focus moet elders liggen, zoals op bloemen of andere decoratieve elementen. Felle kleuren werden hierdoor afgeraden. De gewenste kleur moet rust en professionaliteit uitstralen, zodat het product een premium en verfijnde esthetiek uitdraagt zonder opzichtig te zijn. Enkele gebruikers merkten op dat de kleur idealiter aansluit bij de koelkast zelf of de kast waarin deze is ingebouwd. Gezien de grote variëteit aan koelkastkleuren wordt dit echter als moeilijk haalbaar beschouwd, wat het gebruik van neutrale kleuren nogmaals bevestigt.
+De testpersonen gaven duidelijk de voorkeur aan neutrale kleuren zoals zwart en wit. Het product mag de aandacht in de keuken niet afleiden. De focus moet hier elders liggen, zoals op bloemen of andere decoratieve elementen. Felle kleuren werden hierdoor afgeraden. De gewenste kleur moet rust en professionaliteit uitstralen, zodat het product een premium en verfijnde esthetiek uitdraagt zonder opzichtig te zijn. Enkele gebruikers merkten op dat de kleur idealiter aansluit bij de koelkast zelf of de kast waarin deze is ingebouwd. Gezien de grote variëteit aan koelkastkleuren wordt dit echter als moeilijk haalbaar beschouwd, wat het gebruik van neutrale kleuren nogmaals bevestigt.
 
 **Materiaal:**
-Kunststof werd als eerste gedacht bij het materiaal, mits dit kwaliteitsvol is en niet te licht aanvoelt. Lichte producten worden geassocieerd met een goedkoop gevoel en breekbaarheid; de wanddikte is dus een bepalende factor. Het materiaal moet warm aanvoelen om een gevoel van kwaliteit en duurzaamheid over te brengen. Hout werd minder positief ontvangen omdat het niet past bij de esthetiek en het gevoel van een koelkast, al kan het bij andere keukenelementen passen. Metaal werd door sommigen als optie gezien omdat koelkasten er vaak uit gemaakt zijn, maar de glans ervan trekt te veel de aandacht en geeft een gevoel van een zwaar object.
+Kunststof werd als eerste benoemd bij het materiaal, mits dit kwaliteitsvol is en niet te licht aanvoelt. Lichte producten worden geassocieerd met een goedkoop gevoel en breekbaarheid; de wanddikte is dus een bepalende factor. Het materiaal moet warm aanvoelen om een gevoel van kwaliteit en duurzaamheid over te brengen. Hout werd minder positief ontvangen omdat het niet past bij de esthetiek en het gevoel van een koelkast, al kan het bij andere keukenelementen passen. Metaal werd door sommigen als optie gezien omdat koelkasten er vaak uit gemaakt zijn, maar de glans ervan trekt te veel de aandacht en geeft een gevoel van een zwaar object.
 
 **Afwerking:**
 De voorkeur voor afwerking was unaniem: iedereen koos voor een matte afwerking. Dit straalt rust en professionaliteit uit. Glanzende afwerking werd afgeraden omdat lichtreflectie als ongewenst werd ervaren. Textuur toevoegen aan het oppervlak werd evenmin gewenst, omdat dit het product meer doet opvallen en afleidend kan werken, ook voor visueel beperkte gebruikers.
@@ -80,7 +80,7 @@ De beslissingsmatrix werd gemiddeld als volgt ingevuld:
 Drie ontwerpen komen op gelijk hoogte. Wanneer de knopvorm buiten beschouwing wordt gelaten, scoort ontwerp 1 het best. Er zijn echter nog betere combinaties mogelijk door elementen uit meerdere varianten te combineren, zoals ook op het CMF-board werd aangeduid.
 
 **Referentiemerken:**
-De door de gebruikers genoemde referentiemerken waren Bang & Olufsen, Sonos, Philips, Apple en HP. Een bijkomende CMF-analyse van deze merken bevestigde de bevindingen uit de testen: neutrale en beperkte kleurpaletten domineren bij premium merken, kunststof is het meest voorkomende materiaal, en matte afwerkingen worden door het volledige spectrum gebruikt — zij het om uiteenlopende redenen, van ambachtelijk keurmerk tot praktische keuze.
+De door de gebruikers genoemde referentiemerken waren Bang & Olufsen, Sonos, Philips, Apple en HP. Een bijkomende CMF-analyse van deze merken bevestigde de bevindingen uit de testen: neutrale en beperkte kleurpaletten domineren bij premium merken, kunststof is het meest voorkomende materiaal, en matte afwerkingen worden door het volledige spectrum gebruikt, zij het om uiteenlopende redenen, van ambachtelijk keurmerk tot praktische keuze.
 
 <p align="center">
 <img src="/img/referentiemerken.png" width="75%">

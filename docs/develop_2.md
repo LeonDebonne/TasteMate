@@ -11,7 +11,7 @@ Bij dit laatste puntje zijn er ook usability goals opgesteld:
 - Het product minimaliseert de tijd, het aantal stappen en de cognitieve belasting tijdens gebruik.
 - Na een korte verkenning is het duidelijk hoe er producten toegevoegd en verwijderd kunnen worden.
 - Tijdens de taken wordt er maximaal 1 maal ondersteuning van de onderzoekers vereist.
-- De functies van alle knoppen op het interface zijn duidelijk.
+- De functies van alle knoppen op de interface zijn duidelijk.
 
 ### Materialen & methoden
 
